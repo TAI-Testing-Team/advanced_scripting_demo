@@ -1,0 +1,101 @@
+{
+    "Parameterization - Input - Sequence": {
+        "description": "",
+        "is_deactivated": false,
+        "original_title": "Parameterization - Input - Sequence",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_input_param"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Param Sequence for Input Form",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "parameters": "input_param_sequence.csv",
+                "steps": [
+                    {
+                        "click_first": false,
+                        "continue_on_failure": false,
+                        "description": "Type {my_email}",
+                        "grep": "{my_email}",
+                        "grep_count": "",
+                        "input": "text_entry_no_submit",
+                        "label_count": null,
+                        "labels": [
+                            "inp_email"
+                        ],
+                        "type": "action"
+                    },
+                    {
+                        "click_first": false,
+                        "continue_on_failure": false,
+                        "description": "Type {my_password}",
+                        "grep": "{my_password}",
+                        "grep_count": "",
+                        "input": "text_entry_no_submit",
+                        "label_count": null,
+                        "labels": [
+                            "inp_password"
+                        ],
+                        "type": "action"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Verify {verify_email}",
+                        "grep": "{verify_email}",
+                        "grep_count": null,
+                        "input": "",
+                        "label_count": null,
+                        "labels": [],
+                        "type": "verification",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "Verify {verify_password}",
+                        "grep": "{verify_password}",
+                        "grep_count": null,
+                        "input": "",
+                        "label_count": null,
+                        "labels": [],
+                        "type": "verification",
+                        "widget": "default"
+                    },
+                    {
+                        "continue_on_failure": false,
+                        "description": "",
+                        "grep": "",
+                        "grep_count": null,
+                        "input": "tap",
+                        "label_count": null,
+                        "labels": [
+                            "btn_sign_in"
+                        ],
+                        "type": "action",
+                        "widget": "default"
+                    }
+                ],
+                "type": "sequence"
+            }
+        ],
+        "tags": [
+            "seqtest"
+        ],
+        "temp_id": "79a6173a-90a5-11eb-9124-149d997fd38b",
+        "title": "Parameterization - Input - Sequence"
+    }
+}

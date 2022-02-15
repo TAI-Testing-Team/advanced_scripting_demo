@@ -1,0 +1,492 @@
+[
+    {
+        "hash": "93e11573cdc698c01007ab40379b99bf"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": true,
+                "focused": false,
+                "hash": "vGj1RETjyTq6aKbNgzUK/Q==\n",
+                "height": 40,
+                "hier_level": 0,
+                "human_hash": "a_X805_Y8_W48_H40",
+                "human_readable": "a_805_8_48_40_a_0000000000000000000000003d303ff81ff81ff81ff800000000000000000000_8343e523a5fb810c577d43df09757882",
+                "img_hash": "ab3e0ec1336ca47e58a3295d0c8bda63",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "nav-link",
+                            "href": "wait.html"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "a",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "cssClass": "nav-link",
+                        "domLevel": 7,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": false,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 40,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "a",
+                        "text": "Wait",
+                        "type": "",
+                        "value": "",
+                        "width": 48,
+                        "x": 805,
+                        "xPercent": 42.17330644715507,
+                        "y": 8,
+                        "yPercent": 0.8088978766430739
+                    },
+                    "location": {
+                        "x": 805,
+                        "y": 8
+                    },
+                    "size": {
+                        "height": 40,
+                        "width": 48
+                    },
+                    "tag_name": "a",
+                    "text": "Wait"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "93e11573cdc698c01007ab40379b99bf",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Wait",
+                "text_hash": "8343e523a5fb810c577d43df09757882",
+                "transformed": true,
+                "width": 48,
+                "x": 805,
+                "y": 8
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MjhmNDY5OWZlZjQ1YTM0OWYyOThmNmQ5YTFlYjljYWU"
+    },
+    {
+        "hash": "db58d69366674a6ef8cb279fe9054a98"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "bYpOAPPqSSRrK+oylsAkmA==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X420_Y281_W124_H38",
+                "human_readable": "button_420_281_124_38_button_8001000000000000000000007a527ffe7ffe7ffe3ffe00000000000000008001_2c39e6782539d2dbf502f24edb12d531",
+                "img_hash": "9f16956b281133e4ffec75e1e36d325d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-primary",
+                            "data-target": "#labelModal",
+                            "data-toggle": "modal",
+                            "id": "waitmodal",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(0, 123, 255)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-primary",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "waitmodal",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Wait for Label",
+                        "type": "button",
+                        "value": "",
+                        "width": 124,
+                        "x": 420,
+                        "xPercent": 22.0125786163522,
+                        "y": 281,
+                        "yPercent": 28.43276159828425
+                    },
+                    "location": {
+                        "x": 420,
+                        "y": 281
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 124
+                    },
+                    "tag_name": "button",
+                    "text": "Wait for Label"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "db58d69366674a6ef8cb279fe9054a98",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Wait for Label",
+                "text_hash": "2c39e6782539d2dbf502f24edb12d531",
+                "transformed": true,
+                "width": 124,
+                "x": 420,
+                "y": 281
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NjgyZmE5MDAyZjIyZTk4MzVhNDEzN2Y4MWU3NzhjNmM"
+    },
+    {
+        "hash": "4dc849b0868b9610b4be3e8246dba2f8"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "TLBSgLk2fM2fX3J+nlboww==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X1075_Y179_W112_H38",
+                "human_readable": "button_1075_179_112_38_button_8001000000000000000000002b867ffe7ffe7ffc7ffc20000000000000008001_ee3d132e0e186757297730d9c5671681",
+                "img_hash": "177ed7cd093feec3ac74a3af8eee87e7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-secondary",
+                            "data-dismiss": "modal",
+                            "id": "labelfound-btn",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(108, 117, 125)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-secondary",
+                        "domLevel": 6,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "labelfound-btn",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Label Found",
+                        "type": "button",
+                        "value": "",
+                        "width": 112,
+                        "x": 1075,
+                        "xPercent": 56.319883334561716,
+                        "y": 179,
+                        "yPercent": 18.099089989888775
+                    },
+                    "location": {
+                        "x": 1075,
+                        "y": 179
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 112
+                    },
+                    "tag_name": "button",
+                    "text": "Label Found"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "4dc849b0868b9610b4be3e8246dba2f8",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Label Found",
+                "text_hash": "ee3d132e0e186757297730d9c5671681",
+                "transformed": true,
+                "width": 112,
+                "x": 1075,
+                "y": 179
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NDU3ZmUwODYzNjA1YWUwN2ZkODJiNzY1Y2UxYmY0YTQ"
+    },
+    {
+        "hash": "f132c4cb91b610138010a6bfea7ee9d9"
+    },
+    {
+        "action_info": {
+            "elem_class": "TemplateMatchElement",
+            "elem_info": {
+                "class": "TemplateMatchElement",
+                "hash": "ZEZLx9RrXvo3I5rvkzBOBg==\n",
+                "height": 25,
+                "hier_level": 0,
+                "human_hash": "TemplateMatchElement_X429_Y464_W191_H25",
+                "human_readable": "TemplateMatchElement_429_464_191_25_TemplateMatchElement_ffffffffffff7fef7de7800100000000000004000000ffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "label": "btn_wait_for_tmp",
+                "labels": [
+                    "btn_wait_for_tmp"
+                ],
+                "score": 0.8297929167747498,
+                "screen_hash": "f132c4cb91b610138010a6bfea7ee9d9",
+                "tag_name": "TemplateMatchElement",
+                "template": "/home/dionny/test_ai/templates/btn_wait_for_tmp/windows.png",
+                "text": "",
+                "width": 191,
+                "x": 429,
+                "y": 464
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YWZjODk4NjcwYTkxNWNkYzE4Y2ViZDhjODNmMjVkYzY"
+    },
+    {
+        "hash": "5cd8dc3789f1ecb9413dd330d468ad5a"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "YPS01e6LSYIDIIu6Y6Cj4w==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X420_Y629_W187_H38",
+                "human_readable": "button_420_629_187_38_button_0000000000000000000000804d9e7ffe7ffe7ffe7ffe20000000000000000000_e1964c8dca9d8889fbe7924470839ef1",
+                "img_hash": "1b09cab86545d28c3abf3a726ead18ce",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-info",
+                            "data-target": "#exampleModal",
+                            "data-toggle": "modal",
+                            "id": "slowmodal",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(23, 162, 184)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-info",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "slowmodal",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Open Very Slow Modal",
+                        "type": "button",
+                        "value": "",
+                        "width": 187,
+                        "x": 420,
+                        "xPercent": 22.0125786163522,
+                        "y": 629,
+                        "yPercent": 63.5793718698654
+                    },
+                    "location": {
+                        "x": 420,
+                        "y": 629
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 187
+                    },
+                    "tag_name": "button",
+                    "text": "Open Very Slow Modal"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "5cd8dc3789f1ecb9413dd330d468ad5a",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Open Very Slow Modal",
+                "text_hash": "e1964c8dca9d8889fbe7924470839ef1",
+                "transformed": true,
+                "width": 187,
+                "x": 420,
+                "y": 629
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ODEyNmMxNDVkOGNmMjkyMjhkYjhhMDY4MTE1ODcwZDQ"
+    },
+    {
+        "hash": "2f192a92924cd575cf47584d04186acf"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "FxF4KBLM2MGHHjPgMpRVQw==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X1053_Y165_W134_H38",
+                "human_readable": "button_1053_165_134_38_button_8001000000000000000000007ffe7fde7ffe7fde7ffe00000000000000008001_f041f11b88fac4d837b0bd531c8e4fe6",
+                "img_hash": "9301de24adbdca61907ec68df42dc0aa",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-secondary",
+                            "data-dismiss": "modal",
+                            "id": "completejob-btn",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(108, 117, 125)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-secondary",
+                        "domLevel": 6,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "completejob-btn",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "COMPLETE JOB",
+                        "type": "button",
+                        "value": "",
+                        "width": 134,
+                        "x": 1053,
+                        "xPercent": 55.171206812188814,
+                        "y": 165,
+                        "yPercent": 16.683518705763397
+                    },
+                    "location": {
+                        "x": 1053,
+                        "y": 165
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 134
+                    },
+                    "tag_name": "button",
+                    "text": "COMPLETE JOB"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "2f192a92924cd575cf47584d04186acf",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "COMPLETE JOB",
+                "text_hash": "f041f11b88fac4d837b0bd531c8e4fe6",
+                "transformed": true,
+                "width": 134,
+                "x": 1053,
+                "y": 165
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "Zjg5NjRjMmI4OGIxNDEzNTk3ZmRkNjQwMTlhNzRkNmI"
+    },
+    {
+        "hash": "9babf2c10d6212bcd1bc032645276f13"
+    }
+]

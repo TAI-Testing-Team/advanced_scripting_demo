@@ -1,0 +1,89 @@
+{
+    "Parameterization - Input -Test {index}": {
+        "description": "",
+        "is_deactivated": false,
+        "original_title": "Parameterization - Input -Test {index}",
+        "parameterized_id": "fe603a8a-5cb6-4860-a91a-7b9524a9c0a6",
+        "parameters": "input_param_test.csv",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_input_param"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Enter Email {index}",
+                "grep": "{inp_email}",
+                "grep_count": null,
+                "input": "text_entry_no_submit",
+                "label_count": null,
+                "labels": [
+                    "inp_email"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Enter Email {index}",
+                "grep": "{inp_password}",
+                "grep_count": null,
+                "input": "text_entry_no_submit",
+                "label_count": null,
+                "labels": [
+                    "inp_password"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "get_all_elements.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify bot typed email {index}",
+                "grep": "{verify_email}",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "type": "verification",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify bot typed password {index}",
+                "grep": "{verify_password}",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "type": "verification",
+                "widget": "default"
+            }
+        ],
+        "tags": [
+            "inptest"
+        ],
+        "temp_id": "188fa540-92ea-11eb-b421-149d997fd38b",
+        "title": "Parameterization - Input -Test {index}"
+    }
+}

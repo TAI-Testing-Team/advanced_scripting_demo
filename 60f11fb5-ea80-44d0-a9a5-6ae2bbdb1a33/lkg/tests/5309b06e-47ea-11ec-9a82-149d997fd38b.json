@@ -1,0 +1,85 @@
+{
+    "Case Sensitivity - ALL CAPS - Spaces": {
+        "description": "Verifies test will fail if a space is added to the beginning, end, or between two words of a \"Regular String\" ",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Got to verify page",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_verify"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verifies\"Regular String \" will fail since there is a space after.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_regular_space_after.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verifies \"Regular  String\" with an extra space between fails to verify.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_regular_extra_space.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verifies that\"RegularString\" will fail",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_regular_no_space.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verifies test will fail if there is a space before string like this \" Regular String\"",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_regular_space_before.py",
+                "type": "execute_script",
+                "widget": "default"
+            }
+        ],
+        "tags": [
+            "case",
+            "spaces"
+        ],
+        "temp_id": "5309b06e-47ea-11ec-9a82-149d997fd38b",
+        "title": "Case Sensitivity - ALL CAPS - Spaces"
+    }
+}

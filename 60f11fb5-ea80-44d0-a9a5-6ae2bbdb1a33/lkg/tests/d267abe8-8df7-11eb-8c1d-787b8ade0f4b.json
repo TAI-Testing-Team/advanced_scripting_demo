@@ -1,0 +1,97 @@
+{
+    "Basic Gestures - Individual Scripts": {
+        "description": "",
+        "is_deactivated": false,
+        "original_title": "Basic Gestures - Individual Scripts",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_basic_gestures"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap and Verify",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "script_name": "tap_gesture.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Double Tap and Verify",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "script_name": "double_tap_gesture.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Swipe Up",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "script_name": "swipe_up_gesture.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Swipe Down",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "swipe_down_gesture.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Text Entry No Submit",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "script_name": "text_entry_no_submit.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Text Entry and Verify that \"Here is some text!\" Does Not Exist",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "script_name": "text_entry.py",
+                "type": "execute_script",
+                "widget": "default"
+            }
+        ],
+        "tags": [],
+        "temp_id": "d267abe8-8df7-11eb-8c1d-787b8ade0f4b",
+        "title": "Basic Gestures - Individual Scripts"
+    }
+}

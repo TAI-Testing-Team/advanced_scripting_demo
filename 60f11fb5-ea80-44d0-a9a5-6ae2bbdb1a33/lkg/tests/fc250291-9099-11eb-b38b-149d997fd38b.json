@@ -1,0 +1,55 @@
+{
+    "Parameterization Tap - Test {index}": {
+        "description": "Simple Test Parameterizatin",
+        "is_deactivated": false,
+        "original_title": "Parameterization Tap - Test {index}",
+        "parameterized_id": "2ee0e316-6bd8-4793-8471-e332b770ba8e",
+        "parameters": "tap_params_test.csv",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_tap_param"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap links {index}",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "{my_label}"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify bot tapped {index}",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "{verify_label}"
+                ],
+                "type": "verification",
+                "widget": "default"
+            }
+        ],
+        "tags": [
+            "taptest"
+        ],
+        "temp_id": "fc250291-9099-11eb-b38b-149d997fd38b",
+        "title": "Parameterization Tap - Test {index}"
+    }
+}

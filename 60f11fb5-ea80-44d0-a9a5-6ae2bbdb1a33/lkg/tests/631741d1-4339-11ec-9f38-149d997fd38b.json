@@ -1,0 +1,79 @@
+{
+    "Case Sensitivity - All Caps String": {
+        "description": "Verifies case as written, and against  all caps, lowercase. Verifies it will fail if added a punctuation mark.",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "Got to verify page",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_verify"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies the \"ALL CAPS STRING\" as it is written.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_exact_case_all_cap.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies \"ALL CAPS\" with some random capital letters.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_camel_all_caps.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies the \"ALL CAPS\"\" all lowercase.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_lowercase_all_caps.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies \"ALL CAPS\" with an \".\" inside the string. If it fails like it should, tap punctuation button.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_punctuation_all_caps.py",
+                "type": "execute_script",
+                "widget": "default"
+            }
+        ],
+        "tags": [
+            "case"
+        ],
+        "temp_id": "631741d1-4339-11ec-9f38-149d997fd38b",
+        "title": "Case Sensitivity - All Caps String"
+    }
+}

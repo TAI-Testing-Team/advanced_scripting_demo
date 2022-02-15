@@ -1,0 +1,511 @@
+[
+    {
+        "hash": "93e11573cdc698c01007ab40379b99bf"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": true,
+                "focused": false,
+                "hash": "cslxTet+zVqv8/8dtbBWkw==\n",
+                "height": 40,
+                "hier_level": 0,
+                "human_hash": "a_X477_Y8_W117_H40",
+                "human_readable": "a_477_8_117_40_a_0000000000000000000000004b007ffe7ffe7ffe7ffe00000000000000000000_8696dcb9da2c2189653ede03c73c8390",
+                "img_hash": "e10b10cd48cb9baab012993b861f8577",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "nav-link",
+                            "href": "gestures.html"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "a",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "cssClass": "nav-link",
+                        "domLevel": 7,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": false,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 40,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "a",
+                        "text": "Basic Gestures",
+                        "type": "",
+                        "value": "",
+                        "width": 117,
+                        "x": 477,
+                        "xPercent": 24.97990926106771,
+                        "y": 8,
+                        "yPercent": 0.8088978766430739
+                    },
+                    "location": {
+                        "x": 477,
+                        "y": 8
+                    },
+                    "size": {
+                        "height": 40,
+                        "width": 117
+                    },
+                    "tag_name": "a",
+                    "text": "Basic Gestures"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "93e11573cdc698c01007ab40379b99bf",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Basic Gestures",
+                "text_hash": "8696dcb9da2c2189653ede03c73c8390",
+                "transformed": true,
+                "width": 117,
+                "x": 477,
+                "y": 8
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "OTg4MTI4MjQyZjgxN2I1YjJlODdiNmE2ZjAzNWU5ZjE"
+    },
+    {
+        "hash": "8707b656d4534aa039a1a18c428e75a5"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "kw0ZDBcmcwBc4YuL7HP42g==\n",
+                "height": 48,
+                "hier_level": 0,
+                "human_hash": "button_X412_Y273_W64_H48",
+                "human_readable": "button_412_273_64_48_button_8001000000000000000000000e000fe007f007d007f001e000c0000000008001_d92ca28afb8cf518dfee18c96e7e5761",
+                "img_hash": "eb269d9fc8969fd77ca62b7e1ae875b4",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-lg btn-success",
+                            "id": "tap",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(40, 167, 69)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-lg btn-success",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 20,
+                        "height": 48,
+                        "identifier": "tap",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Tap",
+                        "type": "button",
+                        "value": "",
+                        "width": 64,
+                        "x": 412,
+                        "xPercent": 21.760973030142782,
+                        "y": 273,
+                        "yPercent": 19.626437658551097
+                    },
+                    "location": {
+                        "x": 412,
+                        "y": 273
+                    },
+                    "size": {
+                        "height": 48,
+                        "width": 64
+                    },
+                    "tag_name": "button",
+                    "text": "Tap"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "8707b656d4534aa039a1a18c428e75a5",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Tap",
+                "text_hash": "d92ca28afb8cf518dfee18c96e7e5761",
+                "transformed": true,
+                "width": 64,
+                "x": 412,
+                "y": 273
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MGNkNzZjZWUzZDU0YzRlMzBkN2MzM2Y4NTUyMjFjNTc"
+    },
+    {
+        "hash": "4a76eec4ec943e833eb9c86174eddd23"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "2vKYDyI/FlI42qX3upUzlg==\n",
+                "height": 48,
+                "hier_level": 0,
+                "human_hash": "button_X412_Y403_W134_H48",
+                "human_readable": "button_412_403_134_48_button_80010001000100010001000133b13bbd3fdd3ffc3ffd000d0009000100018001_f5ad9af537f937b2ac2fd988706fdfed",
+                "img_hash": "60060c5b516855a04efe4ef7909ca345",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-lg btn-info",
+                            "id": "dbltap",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(23, 162, 184)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-lg btn-info",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 20,
+                        "height": 48,
+                        "identifier": "dbltap",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Double Tap",
+                        "type": "button",
+                        "value": "",
+                        "width": 134,
+                        "x": 412,
+                        "xPercent": 21.760973030142782,
+                        "y": 403,
+                        "yPercent": 27.654321824899263
+                    },
+                    "location": {
+                        "x": 412,
+                        "y": 403
+                    },
+                    "size": {
+                        "height": 48,
+                        "width": 134
+                    },
+                    "tag_name": "button",
+                    "text": "Double Tap"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "4a76eec4ec943e833eb9c86174eddd23",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Double Tap",
+                "text_hash": "f5ad9af537f937b2ac2fd988706fdfed",
+                "transformed": true,
+                "width": 134,
+                "x": 412,
+                "y": 403
+            },
+            "gesture": "double_tap",
+            "text": "double_tap"
+        },
+        "elem_hash": "NjIyNjc0NGZmYjkyMWY5NDczMzY0NjdkZTk1NmM0YTQ"
+    },
+    {
+        "hash": "dfea4e7f3bfbd0ee4a3f1cfaaf15d680"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "2d7LfiSA/18UKPErgFbNeA==\n",
+                "height": 989,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1908_H989",
+                "human_readable": "screen_0_0_1908_989_screen_00000000ffffffffefffffffe7ffe7ffffffffffffffffbffffff7ffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "screen_hash": "dfea4e7f3bfbd0ee4a3f1cfaaf15d680",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1908,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "ZTNmZDhiYTIxMTI0NzhiMDdiNTc5MjY2ZjRlYzQ5MjM"
+    },
+    {
+        "hash": "b9f24e82857337ed57a9bd3906387713"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "2d7LfiSA/18UKPErgFbNeA==\n",
+                "height": 989,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1908_H989",
+                "human_readable": "screen_0_0_1908_989_screen_ffffffffffbfffffffffffffffffffffffffffffffffffffffff000000000000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "screen_hash": "b9f24e82857337ed57a9bd3906387713",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1908,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_down",
+            "text": "swipe_down"
+        },
+        "elem_hash": "OGFkMmY4OTc4NzgxMjQ1ZjVkYzlmMzI1OTM4MTFkZjM"
+    },
+    {
+        "hash": "dfea4e7f3bfbd0ee4a3f1cfaaf15d680"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "0HAFDY2+DSrOu7ILpQ47yw==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X412_Y565_W709_H38",
+                "human_readable": "input_412_565_709_38_input_0000ffffffffffffffffffff3fff1fff1fff1fff1fff7fffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "ddf4a50f499407092437f881b6412eb7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "input-nosubmit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text"
+                        },
+                        "background-color": "rgb(255, 255, 255)",
+                        "class": "input",
+                        "color": "rgb(73, 80, 87)",
+                        "cssClass": "form-control",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "input-nosubmit",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "input",
+                        "text": "",
+                        "type": "text",
+                        "value": "",
+                        "width": 709,
+                        "x": 412,
+                        "xPercent": 21.760973030142782,
+                        "y": 565,
+                        "yPercent": 37.08661497421465
+                    },
+                    "location": {
+                        "x": 412,
+                        "y": 565
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 709
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "dfea4e7f3bfbd0ee4a3f1cfaaf15d680",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 709,
+                "x": 412,
+                "y": 565
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Here is some text!"
+        },
+        "elem_hash": "NGFjM2VmYzFlZWEwYmFhMjg3OGVhYTY0ODYwMTYzNzI"
+    },
+    {
+        "hash": "1528e7f869da50045c4cfe303750e0f5"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "pk0RZuZpyFjNlv0LjGireQ==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X412_Y667_W712_H38",
+                "human_readable": "input_412_667_712_38_input_0000ffffffffffffffffffff3fff1fff1fff1fff1fff7fffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "4134769d089c07b802aaa2fd56131920",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control col-md-8",
+                            "id": "input-submit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "background-color": "rgb(255, 255, 255)",
+                        "class": "input",
+                        "color": "rgb(73, 80, 87)",
+                        "cssClass": "form-control col-md-8",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 38,
+                        "identifier": "input-submit",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "input",
+                        "text": "",
+                        "type": "text",
+                        "value": "",
+                        "width": 712,
+                        "x": 412,
+                        "xPercent": 21.760973030142782,
+                        "y": 667,
+                        "yPercent": 43.77952836004142
+                    },
+                    "location": {
+                        "x": 412,
+                        "y": 667
+                    },
+                    "size": {
+                        "height": 38,
+                        "width": 712
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "1528e7f869da50045c4cfe303750e0f5",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 712,
+                "x": 412,
+                "y": 667
+            },
+            "gesture": "text_entry",
+            "text": "Completed your test!"
+        },
+        "elem_hash": "Y2ViY2FkZWFmZDIzOGRmNDk1NTgxOGZlMmQwNGI1YjU"
+    },
+    {
+        "hash": "8707b656d4534aa039a1a18c428e75a5"
+    }
+]

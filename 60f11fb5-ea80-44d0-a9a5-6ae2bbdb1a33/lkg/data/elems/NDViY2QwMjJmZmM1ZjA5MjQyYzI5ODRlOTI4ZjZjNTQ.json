@@ -1,0 +1,78 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "aBYu5tN4RYfA4UEC2TATog==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "button_X445_Y672_W93_H48",
+    "human_readable": "button_445_672_93_48_button_800100000000000000001c201fb81ff81ffc1ffc1f7803000000000000008001_4919392bbe47d5bceda56a09f4406214",
+    "image_path": "NDViY2QwMjJmZmM1ZjA5MjQyYzI5ODRlOTI4ZjZjNTQ.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-lg btn-primary",
+                "onclick": "myFunction()",
+                "type": "submit"
+            },
+            "background-color": "rgb(0, 123, 255)",
+            "class": "button",
+            "color": "rgb(255, 255, 255)",
+            "cssClass": "btn btn-lg btn-primary",
+            "domLevel": 12,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "font-weight": "400",
+            "fontSize": 20,
+            "height": 48,
+            "identifier": "",
+            "is-focused": false,
+            "is-hidden": false,
+            "name": "",
+            "tagName": "button",
+            "text": "Sign in",
+            "type": "submit",
+            "value": "",
+            "width": 93,
+            "x": 445,
+            "xPercent": 23.177083333333336,
+            "y": 672,
+            "yPercent": 75.84650112866818
+        },
+        "location": {
+            "x": 445,
+            "y": 672
+        },
+        "size": {
+            "height": 48,
+            "width": 93
+        },
+        "tag_name": "button",
+        "text": "Sign in"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "47d33e64f3616a65f888f2425885cbd4",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Sign in",
+    "transformed": true,
+    "width": 93,
+    "x": 445,
+    "y": 672
+}

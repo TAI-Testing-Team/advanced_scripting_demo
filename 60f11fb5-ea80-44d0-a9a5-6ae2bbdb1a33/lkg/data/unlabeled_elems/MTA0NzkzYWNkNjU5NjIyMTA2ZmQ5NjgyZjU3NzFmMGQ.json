@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "v5pWsnj5Cd1AdN/eMQ8l5Q==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "button_X1263_Y543_W107_H48",
+    "human_readable": "button_1263_543_107_48_button_ffffffffffffffffffffcffbc013c003c003d003d803ffffffffffffffffffff_88d4bc1b2eda391c1976941c2df44819",
+    "image_path": "MTA0NzkzYWNkNjU5NjIyMTA2ZmQ5NjgyZjU3NzFmMGQ.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-warning btn-lg",
+                "data-bs-target": "#exampleModal",
+                "data-bs-toggle": "modal",
+                "id": "btn-confirm",
+                "type": "button"
+            },
+            "backend_node_id": 1523,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "1263_543_107_48_Proceed",
+            "tagName": "button",
+            "text": "Proceed",
+            "width": 107.0,
+            "x": 1263.0,
+            "y": 543.0
+        },
+        "location": {
+            "x": 1263.0,
+            "y": 543.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 107.0
+        },
+        "tag_name": "button",
+        "text": "Proceed"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "028d87d128edaeea85fbda4b46783d89",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Proceed",
+    "transformed": true,
+    "width": 107,
+    "x": 1263,
+    "y": 543
+}

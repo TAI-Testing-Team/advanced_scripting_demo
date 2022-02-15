@@ -1,0 +1,77 @@
+{
+    "Case Sensitivity - Camel Case String": {
+        "description": "Verifies case as written, and against  all caps, lowercase. Verifies it will fail if added a punctuation mark.",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "Got to verify page",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_verify"
+                ],
+                "run_only_if_label_present": false,
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies \"CamelCase String\" as it is written.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_exact_case_camel.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies \"CamelCase String\" with all caps.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_all_caps_camel.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies the \"CamelCase String\" all lowercase.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_lowercase_camel.py",
+                "type": "execute_script",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies CamelCase String with added \"!\" in the string. If this fails to verify, like it should, tap punctuation button.",
+                "grep": "",
+                "grep_count": null,
+                "input": "execute_script",
+                "label_count": null,
+                "labels": [],
+                "run_only_if_label_present": false,
+                "script_name": "verify_punctuation.py",
+                "type": "execute_script",
+                "widget": "default"
+            }
+        ],
+        "tags": [],
+        "temp_id": "f0e5e619-4338-11ec-a9f4-149d997fd38b",
+        "title": "Case Sensitivity - Camel Case String"
+    }
+}

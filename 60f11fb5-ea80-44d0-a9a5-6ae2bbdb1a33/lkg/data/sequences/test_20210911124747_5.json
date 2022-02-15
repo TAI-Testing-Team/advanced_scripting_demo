@@ -1,0 +1,1246 @@
+[
+    {
+        "hash": "93e11573cdc698c01007ab40379b99bf"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": true,
+                "focused": false,
+                "hash": "pkCWWT9Lx7hydtTzTxf5nw==\n",
+                "height": 40,
+                "hier_level": 0,
+                "human_hash": "a_X610_Y8_W108_H40",
+                "human_readable": "a_610_8_108_40_a_00000000000000000000000067007ffe7ffe7ffe7ffe00000000000000000000_470106f78f77aa9801967017678fdc97",
+                "img_hash": "bb683e0fe8994e8ac07c4f77edb73a68",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "nav-link",
+                            "href": "findelem.html"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "a",
+                        "color": "rgba(255, 255, 255, 0.5)",
+                        "cssClass": "nav-link",
+                        "domLevel": 7,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": false,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 40,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "a",
+                        "text": "Find Element",
+                        "type": "",
+                        "value": "",
+                        "width": 108,
+                        "x": 610,
+                        "xPercent": 31.95318066099155,
+                        "y": 8,
+                        "yPercent": 0.8088978766430739
+                    },
+                    "location": {
+                        "x": 610,
+                        "y": 8
+                    },
+                    "size": {
+                        "height": 40,
+                        "width": 108
+                    },
+                    "tag_name": "a",
+                    "text": "Find Element"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "93e11573cdc698c01007ab40379b99bf",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Find Element",
+                "text_hash": "470106f78f77aa9801967017678fdc97",
+                "transformed": true,
+                "width": 108,
+                "x": 610,
+                "y": 8
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MjE4MjY2NzAxNmRjOTlkNmFkMTUwZDYxYTFkZDUxN2M"
+    },
+    {
+        "hash": "6e3a62d0fd667822a7582999a2cd7e93"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "JQL0OiUx9JFYvLirwxU4eA==\n",
+                "height": 151,
+                "hier_level": 0,
+                "human_hash": "textarea_X428_Y345_W1036_H151",
+                "human_readable": "textarea_428_345_1036_151_textarea_0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "d5d4f9d1e2c00a2afb7a2ca7e194a42f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "background-color": "rgb(255, 255, 255)",
+                        "class": "textarea",
+                        "color": "rgb(73, 80, 87)",
+                        "cssClass": "form-control",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 151,
+                        "identifier": "eleminfo-area",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "name",
+                        "tagName": "textarea",
+                        "text": "",
+                        "type": "",
+                        "value": "",
+                        "width": 1036,
+                        "x": 428,
+                        "xPercent": 22.60708619777895,
+                        "y": 345,
+                        "yPercent": 30.602837961616245
+                    },
+                    "location": {
+                        "x": 428,
+                        "y": 345
+                    },
+                    "size": {
+                        "height": 151,
+                        "width": 1036
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "6e3a62d0fd667822a7582999a2cd7e93",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 428,
+                "y": 345
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "OGY5MzY1MDgwMDY1MDZlNWJhZDFiODlmZGFiODY3YzY"
+    },
+    {
+        "hash": "e998a9f9a2f101af5887ae273d67cdde"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "rjBMYj3aOmrAO5Kzge1cqA==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "button_X497_Y560_W93_H53",
+                "human_readable": "button_497_560_93_53_button_80010000000000000000000019801ff81ffc1ffc1ffc00000000000000008001_b11ddf22124fc20155bdca1c0b516cda",
+                "img_hash": "e742ed78fad5f5888cd4e3b7e9c53209",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-primary btn-lg",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(0, 123, 255)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-primary btn-lg",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 20,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Button",
+                        "type": "button",
+                        "value": "",
+                        "width": 93,
+                        "x": 497,
+                        "xPercent": 26.28767879976286,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 497,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 93
+                    },
+                    "tag_name": "button",
+                    "text": "Button"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "e998a9f9a2f101af5887ae273d67cdde",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Button",
+                "text_hash": "b11ddf22124fc20155bdca1c0b516cda",
+                "transformed": true,
+                "width": 93,
+                "x": 497,
+                "y": 560
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "YTc1MjI3YmM3YjgxNzVhMGZlYTZlNzc4YmJlYzQyYTU"
+    },
+    {
+        "hash": "6131ce2d082010d3f54c232982005b4d"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": true,
+                "hash": "rjBMYj3aOmrAO5Kzge1cqA==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "button_X497_Y560_W93_H53",
+                "human_readable": "button_497_560_93_53_button_80010000000000000000000019801ff81ffc1ffc1ffc00000000000000008001_b11ddf22124fc20155bdca1c0b516cda",
+                "img_hash": "be19fd42cd172578bb18edbafb949bed",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-primary btn-lg",
+                            "style": "",
+                            "type": "button"
+                        },
+                        "background-color": "rgb(0, 105, 217)",
+                        "class": "button",
+                        "color": "rgb(255, 255, 255)",
+                        "cssClass": "btn btn-primary btn-lg",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": true,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 20,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": true,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "button",
+                        "text": "Button",
+                        "type": "button",
+                        "value": "",
+                        "width": 93,
+                        "x": 497,
+                        "xPercent": 26.28767879976286,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 497,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 93
+                    },
+                    "tag_name": "button",
+                    "text": "Button"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "6131ce2d082010d3f54c232982005b4d",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Button",
+                "text_hash": "b11ddf22124fc20155bdca1c0b516cda",
+                "transformed": true,
+                "width": 93,
+                "x": 497,
+                "y": 560
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "YTc1MjI3YmM3YjgxNzVhMGZlYTZlNzc4YmJlYzQyYTU"
+    },
+    {
+        "hash": "6131ce2d082010d3f54c232982005b4d"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "JQL0OiUx9JFYvLirwxU4eA==\n",
+                "height": 151,
+                "hier_level": 0,
+                "human_hash": "textarea_X428_Y345_W1036_H151",
+                "human_readable": "textarea_428_345_1036_151_textarea_0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "d5d4f9d1e2c00a2afb7a2ca7e194a42f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "rows": "5",
+                            "style": "",
+                            "value": ""
+                        },
+                        "background-color": "rgb(255, 255, 255)",
+                        "class": "textarea",
+                        "color": "rgb(73, 80, 87)",
+                        "cssClass": "form-control",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 151,
+                        "identifier": "eleminfo-area",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "name",
+                        "tagName": "textarea",
+                        "text": "",
+                        "type": "",
+                        "value": "",
+                        "width": 1036,
+                        "x": 428,
+                        "xPercent": 22.60708619777895,
+                        "y": 345,
+                        "yPercent": 30.602837961616245
+                    },
+                    "location": {
+                        "x": 428,
+                        "y": 345
+                    },
+                    "size": {
+                        "height": 151,
+                        "width": 1036
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "6131ce2d082010d3f54c232982005b4d",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 428,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "BUTTON INFO:\n\n {\"text\": \"Button\", \"height\": 53, \"width\": 93, \"tag_name\": \"button\", \"flags\": {\"scrollable\": false, \"focusable\": true, \"enabled\": true, \"focused\": true, \"clickable\": true, \"checkable\": false}, \"attributes\": {\"style\": \"\", \"type\": \"button\", \"class\": \"btn btn-primary btn-lg\"}, \"y\": 560, \"x\": 497}"
+        },
+        "elem_hash": "OGY5MzY1MDgwMDY1MDZlNWJhZDFiODlmZGFiODY3YzY"
+    },
+    {
+        "hash": "f1f94d0ea15a28f0ec6d76c4b3fc1a54"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "XYqeDs8DuO9VtdLUN1C9FA==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "div_X792_Y560_W93_H53",
+                "human_readable": "div_792_560_93_53_div_ffffffffffffffffffffffff1fff1187100010001000ffffffffffffffffffff_788a8ef1bda2044db5f90d8aa8902d09",
+                "img_hash": "37d3101ac675fec8cc4b9188b6ad75dc",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "custom-control custom-checkbox pt-3"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "cssClass": "custom-control custom-checkbox pt-3",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "Checkbox",
+                        "type": "",
+                        "value": "",
+                        "width": 93,
+                        "x": 792,
+                        "xPercent": 41.865856668925176,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 792,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 93
+                    },
+                    "tag_name": "div",
+                    "text": "Checkbox"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "f1f94d0ea15a28f0ec6d76c4b3fc1a54",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "Checkbox",
+                "text_hash": "788a8ef1bda2044db5f90d8aa8902d09",
+                "transformed": true,
+                "width": 93,
+                "x": 792,
+                "y": 560
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MGY2ZjhkMmRhZGU5MDAwYWFmOTM5NjUzNjBjYzhiNzU"
+    },
+    {
+        "hash": "f9a778f351ca538010421ddf3a0196ce"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "XYqeDs8DuO9VtdLUN1C9FA==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "div_X792_Y560_W93_H53",
+                "human_readable": "div_792_560_93_53_div_ffffffffffffffffffff1fff1fff11cf1400100010003fffffffffffffffffff_788a8ef1bda2044db5f90d8aa8902d09",
+                "img_hash": "5c68b9c3f200a5116d3c881c9dffa56a",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "custom-control custom-checkbox pt-3"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "cssClass": "custom-control custom-checkbox pt-3",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "Checkbox",
+                        "type": "",
+                        "value": "",
+                        "width": 93,
+                        "x": 792,
+                        "xPercent": 41.865856668925176,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 792,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 93
+                    },
+                    "tag_name": "div",
+                    "text": "Checkbox"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "f9a778f351ca538010421ddf3a0196ce",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "Checkbox",
+                "text_hash": "788a8ef1bda2044db5f90d8aa8902d09",
+                "transformed": true,
+                "width": 93,
+                "x": 792,
+                "y": 560
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "NjIzNGY4YThlZTgwNzBmMjBiMzhkZDIzMjA5OGQxNzI"
+    },
+    {
+        "hash": "f9a778f351ca538010421ddf3a0196ce"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "498zwcy2yIsB3iHZ0kXo3Q==\n",
+                "height": 151,
+                "hier_level": 0,
+                "human_hash": "div_X428_Y345_W1036_H151",
+                "human_readable": "div_428_345_1036_151_div_0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "d5d4f9d1e2c00a2afb7a2ca7e194a42f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {},
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 151,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "",
+                        "type": "",
+                        "value": "",
+                        "width": 1036,
+                        "x": 428,
+                        "xPercent": 22.60708619777895,
+                        "y": 345,
+                        "yPercent": 30.602837961616245
+                    },
+                    "location": {
+                        "x": 428,
+                        "y": 345
+                    },
+                    "size": {
+                        "height": 151,
+                        "width": 1036
+                    },
+                    "tag_name": "div",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "f9a778f351ca538010421ddf3a0196ce",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 428,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "CHECKBOX INFO:\n\n {\"text\": \"Checkbox\", \"height\": 53, \"width\": 93, \"tag_name\": \"div\", \"flags\": {\"scrollable\": false, \"focusable\": false, \"enabled\": false, \"focused\": false, \"clickable\": false, \"checkable\": false}, \"attributes\": {\"class\": \"custom-control custom-checkbox pt-3\"}, \"y\": 560, \"x\": 792}"
+        },
+        "elem_hash": "NTVmN2YyMGZlY2E3MDVhOTViYmRlODBkMDBiZDczMzc"
+    },
+    {
+        "hash": "5e534053aace4eaa619b94cdfc9de2a3"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "Y0wVoUd25pd5YS7yS//jRQ==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "div_X1086_Y560_W64_H53",
+                "human_readable": "div_1086_560_64_53_div_ffffffffffffffffffffffff9ffb0c630c000c009c00ffffffffffffffffffff_f6ced244918bcbe32cfbeb4ddf63af5f",
+                "img_hash": "ed071fdf84328ea997337b322537b694",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "custom-control custom-radio pt-3"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "cssClass": "custom-control custom-radio pt-3",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "Radio",
+                        "type": "",
+                        "value": "",
+                        "width": 64,
+                        "x": 1086,
+                        "xPercent": 57.41230174386899,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 1086,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 64
+                    },
+                    "tag_name": "div",
+                    "text": "Radio"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "5e534053aace4eaa619b94cdfc9de2a3",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "Radio",
+                "text_hash": "f6ced244918bcbe32cfbeb4ddf63af5f",
+                "transformed": true,
+                "width": 64,
+                "x": 1086,
+                "y": 560
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MDM1OGRmYjAwZGUzZTg5NmJlN2RjYzU4ODM0YTA0ZGU"
+    },
+    {
+        "hash": "70ef52534c538cece3918eaa67665298"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "Y0wVoUd25pd5YS7yS//jRQ==\n",
+                "height": 53,
+                "hier_level": 0,
+                "human_hash": "div_X1086_Y560_W64_H53",
+                "human_readable": "div_1086_560_64_53_div_ffffffffffffffffffff9fff0fff0ce304000c000c00dfffffffffffffffffff_f6ced244918bcbe32cfbeb4ddf63af5f",
+                "img_hash": "adff7e400fd4af4e3d5f8503fd67fdc8",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "custom-control custom-radio pt-3"
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "cssClass": "custom-control custom-radio pt-3",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 53,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "Radio",
+                        "type": "",
+                        "value": "",
+                        "width": 64,
+                        "x": 1086,
+                        "xPercent": 57.41230174386899,
+                        "y": 560,
+                        "yPercent": 49.663121649559514
+                    },
+                    "location": {
+                        "x": 1086,
+                        "y": 560
+                    },
+                    "size": {
+                        "height": 53,
+                        "width": 64
+                    },
+                    "tag_name": "div",
+                    "text": "Radio"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "70ef52534c538cece3918eaa67665298",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "Radio",
+                "text_hash": "f6ced244918bcbe32cfbeb4ddf63af5f",
+                "transformed": true,
+                "width": 64,
+                "x": 1086,
+                "y": 560
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "YTFjZTUyMzRlMjlmODA2ZDI3NzE5YTI2Mjc5OGJlYzE"
+    },
+    {
+        "hash": "70ef52534c538cece3918eaa67665298"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": false,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": false,
+                "focused": false,
+                "hash": "498zwcy2yIsB3iHZ0kXo3Q==\n",
+                "height": 151,
+                "hier_level": 0,
+                "human_hash": "div_X428_Y345_W1036_H151",
+                "human_readable": "div_428_345_1036_151_div_0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "d5d4f9d1e2c00a2afb7a2ca7e194a42f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {},
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "div",
+                        "color": "rgb(33, 37, 41)",
+                        "domLevel": 10,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": false,
+                            "enabled": false,
+                            "focusable": false,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 151,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "div",
+                        "text": "",
+                        "type": "",
+                        "value": "",
+                        "width": 1036,
+                        "x": 428,
+                        "xPercent": 22.60708619777895,
+                        "y": 345,
+                        "yPercent": 30.602837961616245
+                    },
+                    "location": {
+                        "x": 428,
+                        "y": 345
+                    },
+                    "size": {
+                        "height": 151,
+                        "width": 1036
+                    },
+                    "tag_name": "div",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "70ef52534c538cece3918eaa67665298",
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 428,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "RADIO INFO (SELECTED):\n\n {\"text\": \"Radio\", \"height\": 53, \"width\": 64, \"tag_name\": \"div\", \"flags\": {\"scrollable\": false, \"focusable\": false, \"enabled\": false, \"focused\": false, \"clickable\": false, \"checkable\": false}, \"attributes\": {\"class\": \"custom-control custom-radio pt-3\"}, \"y\": 560, \"x\": 1086}"
+        },
+        "elem_hash": "NTVmN2YyMGZlY2E3MDVhOTViYmRlODBkMDBiZDczMzc"
+    },
+    {
+        "hash": "5f18835a880a52c1b1e44c17389268ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": true,
+                "focused": false,
+                "hash": "3p3jRJcTbhIPJjVBTwToaQ==\n",
+                "height": 29,
+                "hier_level": 0,
+                "human_hash": "a_X1351_Y576_W43_H29",
+                "human_readable": "a_1351_576_43_29_a_ffffffffffffffffbbf73bf73ff73a143a103ad13ad33ad102d482d4ffffffff_08d500ffd3591dda904e70bb153ba5e8",
+                "img_hash": "246a267aff76a9eeb105cc290f05389d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": ""
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "a",
+                        "color": "rgb(0, 123, 255)",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": false,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 29,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "a",
+                        "text": "Link",
+                        "type": "",
+                        "value": "",
+                        "width": 43,
+                        "x": 1351,
+                        "xPercent": 71.45777903556319,
+                        "y": 576,
+                        "yPercent": 51.081561365871565
+                    },
+                    "location": {
+                        "x": 1351,
+                        "y": 576
+                    },
+                    "size": {
+                        "height": 29,
+                        "width": 43
+                    },
+                    "tag_name": "a",
+                    "text": "Link"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "5f18835a880a52c1b1e44c17389268ee",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Link",
+                "text_hash": "08d500ffd3591dda904e70bb153ba5e8",
+                "transformed": true,
+                "width": 43,
+                "x": 1351,
+                "y": 576
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NzI3MGRiNWY5YWVlMDFkNWU5ODkxNzRmMzllM2EyOGM"
+    },
+    {
+        "hash": "6e3a62d0fd667822a7582999a2cd7e93"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": false,
+                "focusable": true,
+                "focused": false,
+                "hash": "3p3jRJcTbhIPJjVBTwToaQ==\n",
+                "height": 29,
+                "hier_level": 0,
+                "human_hash": "a_X1351_Y576_W43_H29",
+                "human_readable": "a_1351_576_43_29_a_ffffffffffffffffbbf73bf73ff73a143a103ad13ad33ad102d482d4ffffffff_08d500ffd3591dda904e70bb153ba5e8",
+                "img_hash": "246a267aff76a9eeb105cc290f05389d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": ""
+                        },
+                        "background-color": "rgba(0, 0, 0, 0)",
+                        "class": "a",
+                        "color": "rgb(0, 123, 255)",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": false,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 29,
+                        "identifier": "",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "",
+                        "tagName": "a",
+                        "text": "Link",
+                        "type": "",
+                        "value": "",
+                        "width": 43,
+                        "x": 1351,
+                        "xPercent": 71.45777903556319,
+                        "y": 576,
+                        "yPercent": 51.081561365871565
+                    },
+                    "location": {
+                        "x": 1351,
+                        "y": 576
+                    },
+                    "size": {
+                        "height": 29,
+                        "width": 43
+                    },
+                    "tag_name": "a",
+                    "text": "Link"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "6e3a62d0fd667822a7582999a2cd7e93",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Link",
+                "text_hash": "08d500ffd3591dda904e70bb153ba5e8",
+                "transformed": true,
+                "width": 43,
+                "x": 1351,
+                "y": 576
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "NzI3MGRiNWY5YWVlMDFkNWU5ODkxNzRmMzllM2EyOGM"
+    },
+    {
+        "hash": "6e3a62d0fd667822a7582999a2cd7e93"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "JQL0OiUx9JFYvLirwxU4eA==\n",
+                "height": 151,
+                "hier_level": 0,
+                "human_hash": "textarea_X428_Y345_W1036_H151",
+                "human_readable": "textarea_428_345_1036_151_textarea_0000fffffffffffffffffffffffffffffffffffffffffffffffffffffffe0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "d5d4f9d1e2c00a2afb7a2ca7e194a42f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "background-color": "rgb(255, 255, 255)",
+                        "class": "textarea",
+                        "color": "rgb(73, 80, 87)",
+                        "cssClass": "form-control",
+                        "domLevel": 11,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "font-family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+                        "font-weight": "400",
+                        "fontSize": 16,
+                        "height": 151,
+                        "identifier": "eleminfo-area",
+                        "is-focused": false,
+                        "is-hidden": false,
+                        "name": "name",
+                        "tagName": "textarea",
+                        "text": "",
+                        "type": "",
+                        "value": "",
+                        "width": 1036,
+                        "x": 428,
+                        "xPercent": 22.60708619777895,
+                        "y": 345,
+                        "yPercent": 30.602837961616245
+                    },
+                    "location": {
+                        "x": 428,
+                        "y": 345
+                    },
+                    "size": {
+                        "height": 151,
+                        "width": 1036
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "resource-id": "",
+                "screen_hash": "6e3a62d0fd667822a7582999a2cd7e93",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 428,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "LINK INFO:\n\n {\"text\": \"Link\", \"height\": 29, \"width\": 43, \"tag_name\": \"a\", \"flags\": {\"scrollable\": false, \"focusable\": true, \"enabled\": false, \"focused\": false, \"clickable\": true, \"checkable\": false}, \"attributes\": {\"href\": \"\"}, \"y\": 576, \"x\": 1351}"
+        },
+        "elem_hash": "OGY5MzY1MDgwMDY1MDZlNWJhZDFiODlmZGFiODY3YzY"
+    },
+    {
+        "hash": "a2adeb697ece3f5ddeb29f2c0880d2bf"
+    }
+]

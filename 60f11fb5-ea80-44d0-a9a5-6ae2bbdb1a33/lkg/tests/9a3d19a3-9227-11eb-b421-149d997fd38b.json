@@ -1,0 +1,120 @@
+{
+    "Parameterization - Tap - Step": {
+        "description": "",
+        "is_deactivated": false,
+        "original_title": "Parameterization - Tap - Step",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_tap_param"
+                ],
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap {index}",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "{my_label}"
+                ],
+                "parameters": "tap_params_step_one.csv",
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "inp_radio_no_active"
+                ],
+                "type": "verification",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "clicked",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "div_btn_clicked"
+                ],
+                "type": "verification",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "ddi_first_option"
+                ],
+                "type": "verification",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap {index}",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "{my_label}"
+                ],
+                "parameters": "tap_params_step_two.csv",
+                "type": "action",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "tgl_switch_on"
+                ],
+                "type": "verification",
+                "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "div_cbx_active"
+                ],
+                "type": "verification",
+                "widget": "default"
+            }
+        ],
+        "tags": [
+            "stepparam"
+        ],
+        "temp_id": "9a3d19a3-9227-11eb-b421-149d997fd38b",
+        "title": "Parameterization - Tap - Step"
+    }
+}

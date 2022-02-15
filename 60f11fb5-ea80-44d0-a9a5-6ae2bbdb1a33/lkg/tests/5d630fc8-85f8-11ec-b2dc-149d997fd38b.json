@@ -1,0 +1,28 @@
+{
+    "parameterization - script": {
+        "description": "",
+        "is_deactivated": true,
+        "parameterized_id": "5fc1283b-0c4e-45d1-b11e-c70943b7861f",
+        "parameters": "input_param_step.csv",
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "{my_text}",
+                "grep_count": null,
+                "input": "text_entry_no_submit",
+                "label_count": null,
+                "labels": [
+                    "{my_label}"
+                ],
+                "script_name": "parameterized_script.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "5d630fc8-85f8-11ec-b2dc-149d997fd38b",
+        "title": "parameterization - script"
+    }
+}
