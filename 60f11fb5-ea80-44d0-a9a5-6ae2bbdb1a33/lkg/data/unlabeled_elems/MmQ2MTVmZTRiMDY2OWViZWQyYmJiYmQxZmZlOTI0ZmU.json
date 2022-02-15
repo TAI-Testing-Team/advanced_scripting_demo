@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "FdZZnHDugvGaA76XN0vuzw==\n",
+    "height": 46,
+    "hier_level": 0,
+    "human_hash": "button_X3471_Y543_W250_H46",
+    "human_readable": "button_3471_543_250_46_button_80010000000000000000068007e007e007e007e007e000000000000000008001_2b18d825f618538120a52de8c54449ac",
+    "image_path": "MmQ2MTVmZTRiMDY2OWViZWQyYmJiYmQxZmZlOTI0ZmU.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-primary btn-lg",
+                "data-bs-target": "#exampleModal",
+                "data-bs-toggle": "modal",
+                "id": "btn-confirm",
+                "type": "button"
+            },
+            "backend_node_id": 1593,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 46.0,
+            "key": "3471_543_250_46_Confirm",
+            "tagName": "button",
+            "text": "Confirm",
+            "width": 250.0,
+            "x": 3471.0,
+            "y": 543.0
+        },
+        "location": {
+            "x": 3471.0,
+            "y": 543.0
+        },
+        "size": {
+            "height": 46.0,
+            "width": 250.0
+        },
+        "tag_name": "button",
+        "text": "Confirm"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "49944c43e7145177460441767be59900",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Confirm",
+    "transformed": true,
+    "width": 250,
+    "x": 3471,
+    "y": 543
+}
