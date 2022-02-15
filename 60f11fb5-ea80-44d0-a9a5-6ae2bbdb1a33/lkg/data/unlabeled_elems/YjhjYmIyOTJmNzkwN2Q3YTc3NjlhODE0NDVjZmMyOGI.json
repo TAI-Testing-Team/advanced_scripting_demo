@@ -1,0 +1,68 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qJ3Rd7W2iTAqG0esxLTahQ==\n",
+    "height": 31,
+    "hier_level": 0,
+    "human_hash": "button_X1186_Y397_W74_H31",
+    "human_readable": "button_1186_397_74_31_button_800100000000000000001d081ff81ff81ff81ff807f800000000000000008001_283d04c62b5607fe4cf6a5ba7405b9d0",
+    "image_path": "YjhjYmIyOTJmNzkwN2Q3YTc3NjlhODE0NDVjZmMyOGI.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "blue-button text-button",
+                "id": "reload-button",
+                "jscontent": "msg",
+                "jsselect": "reloadButton",
+                "jstcache": "5",
+                "jsvalues": ".url:reloadUrl",
+                "onclick": "reloadButtonClick(this.url);"
+            },
+            "backend_node_id": 1084,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 31.0,
+            "key": "1186_397_74_31_Reload",
+            "tagName": "button",
+            "text": "Reload",
+            "width": 74.0,
+            "x": 1186.0,
+            "y": 397.0
+        },
+        "location": {
+            "x": 1186.0,
+            "y": 397.0
+        },
+        "size": {
+            "height": 31.0,
+            "width": 74.0
+        },
+        "tag_name": "button",
+        "text": "Reload"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "071b58031136189080806dd2342be43b",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Reload",
+    "transformed": true,
+    "width": 74,
+    "x": 1186,
+    "y": 397
+}

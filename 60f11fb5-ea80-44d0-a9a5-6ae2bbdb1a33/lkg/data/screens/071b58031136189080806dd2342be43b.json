@@ -1,0 +1,821 @@
+{
+    "action_info": {
+        "elem_class": "screen",
+        "elem_info": {
+            "class": "screen",
+            "hash": "k3k1430JKuKk1hBJez6k2g==\n",
+            "height": 872,
+            "hier_level": 0,
+            "human_hash": "screen_X0_Y0_W1920_H872",
+            "human_readable": "screen_0_0_1920_872_screen_fffffffff8fffbfff8fff8fff8ffff97ff9fffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+            "index": -1,
+            "is_transformed": true,
+            "png_hash": "fffffffff8fffbfff8fff8fff8ffff97ff9fffffffffffffffffffffffffffff",
+            "tag_name": "screen",
+            "text": "",
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        "gesture": "no_op",
+        "text": "no_op"
+    },
+    "all_elems": [
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "html",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "aeeJWRVvO6ttcUQj6aalzQ==\n",
+            "height": 452,
+            "hier_level": 0,
+            "human_hash": "html_X0_Y0_W1920_H452",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "dir": "ltr",
+                        "lang": "en"
+                    },
+                    "backend_node_id": 934,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 452.0,
+                    "key": "0_0_1920_452_This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "tagName": "html",
+                    "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 452.0,
+                    "width": 1920.0
+                },
+                "tag_name": "html",
+                "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "html",
+            "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "W9zNEHbZtiGm3XN4Faw+VA==\n",
+            "height": 72,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y122_W72_H72",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "icon icon-generic",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 977,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 72.0,
+                    "key": "660_122_72_72_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 72.0,
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "size": {
+                    "height": 72.0,
+                    "width": 72.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "transformed": true,
+            "width": 72,
+            "x": 660,
+            "y": 122
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "9wcEV46qBWUqn3lxKS8ANA==\n",
+            "height": 224,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y122_W600_H224",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "main-content",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 975,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 224.0,
+                    "key": "660_122_600_224_This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+                    "tagName": "div",
+                    "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "size": {
+                    "height": 224.0,
+                    "width": 600.0
+                },
+                "tag_name": "div",
+                "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 122
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "sEUeQZYJ1UFwtF9J6kVr0Q==\n",
+            "height": 322,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y122_W600_H322",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "interstitial-wrapper",
+                        "id": "main-frame-error",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 973,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 322.0,
+                    "key": "660_122_600_322_This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "tagName": "div",
+                    "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 122.0
+                },
+                "size": {
+                    "height": 322.0,
+                    "width": 600.0
+                },
+                "tag_name": "div",
+                "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 122
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "body",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "wTBRtK3ouUarAe7n5ZsZhQ==\n",
+            "height": 322,
+            "hier_level": 0,
+            "human_hash": "body_X8_Y122_W1904_H322",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "neterror",
+                        "id": "t",
+                        "jstcache": "0",
+                        "style": "font-family: system-ui, sans-serif; font-size: 75%"
+                    },
+                    "backend_node_id": 936,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 322.0,
+                    "key": "8_122_1904_322_This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "tagName": "body",
+                    "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+                    "width": 1904.0,
+                    "x": 8.0,
+                    "y": 122.0
+                },
+                "location": {
+                    "x": 8.0,
+                    "y": 122.0
+                },
+                "size": {
+                    "height": 322.0,
+                    "width": 1904.0
+                },
+                "tag_name": "body",
+                "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "body",
+            "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN Reload",
+            "transformed": true,
+            "width": 1904,
+            "x": 8,
+            "y": 122
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "4Yu86zhJyv7i9mmSMkirnQ==\n",
+            "height": 28,
+            "hier_level": 0,
+            "human_hash": "span_X660_Y241_W271_H28",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "jsselect": "heading",
+                        "jstcache": "9",
+                        "jsvalues": ".innerHTML:msg"
+                    },
+                    "backend_node_id": 983,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 28.0,
+                    "key": "660_241_271_28_This site can\u2019t be reached",
+                    "tagName": "span",
+                    "text": "This site can\u2019t be reached",
+                    "width": 271.0,
+                    "x": 660.0,
+                    "y": 241.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 241.0
+                },
+                "size": {
+                    "height": 28.0,
+                    "width": 271.0
+                },
+                "tag_name": "span",
+                "text": "This site can\u2019t be reached"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "This site can\u2019t be reached",
+            "transformed": true,
+            "width": 271,
+            "x": 660,
+            "y": 241
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "h1",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "kNYDGkFMWtX4P/QgrgMX0w==\n",
+            "height": 30,
+            "hier_level": 0,
+            "human_hash": "h1_X660_Y240_W600_H30",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 981,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 30.0,
+                    "key": "660_240_600_30_This site can\u2019t be reached",
+                    "tagName": "h1",
+                    "text": "This site can\u2019t be reached",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 240.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 240.0
+                },
+                "size": {
+                    "height": 30.0,
+                    "width": 600.0
+                },
+                "tag_name": "h1",
+                "text": "This site can\u2019t be reached"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "h1",
+            "text": "This site can\u2019t be reached",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 240
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "kvk+wGkAAMU5fgfweCY8Kw==\n",
+            "height": 106,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y240_W600_H106",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "main-message",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 979,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 106.0,
+                    "key": "660_240_600_106_This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+                    "tagName": "div",
+                    "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 240.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 240.0
+                },
+                "size": {
+                    "height": 106.0,
+                    "width": 600.0
+                },
+                "tag_name": "div",
+                "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "This site can\u2019t be reached Check if there is a typo in  http . DNS_PROBE_FINISHED_NXDOMAIN",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 240
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "p",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "8sSw6INWftHoUGe/Es0C7A==\n",
+            "height": 18,
+            "hier_level": 0,
+            "human_hash": "p_X660_Y289_W210_H18",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "jsselect": "summary",
+                        "jstcache": "1",
+                        "jsvalues": ".innerHTML:msg"
+                    },
+                    "backend_node_id": 989,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 18.0,
+                    "key": "660_289_210_18_Check if there is a typo in  http .",
+                    "tagName": "p",
+                    "text": "Check if there is a typo in  http .",
+                    "width": 210.0,
+                    "x": 660.0,
+                    "y": 289.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 289.0
+                },
+                "size": {
+                    "height": 18.0,
+                    "width": 210.0
+                },
+                "tag_name": "p",
+                "text": "Check if there is a typo in  http ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "p",
+            "text": "Check if there is a typo in  http .",
+            "transformed": true,
+            "width": 210,
+            "x": 660,
+            "y": 289
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "D4uF1jHToADVZCbE4qpKdw==\n",
+            "height": 18,
+            "hier_level": 0,
+            "human_hash": "span_X838_Y289_W28_H18",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "jscontent": "hostName",
+                        "jstcache": "22"
+                    },
+                    "backend_node_id": 991,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 18.0,
+                    "key": "838_289_28_18_http",
+                    "tagName": "span",
+                    "text": "http",
+                    "width": 28.0,
+                    "x": 838.0,
+                    "y": 289.0
+                },
+                "location": {
+                    "x": 838.0,
+                    "y": 289.0
+                },
+                "size": {
+                    "height": 18.0,
+                    "width": 28.0
+                },
+                "tag_name": "span",
+                "text": "http"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "http",
+            "transformed": true,
+            "width": 28,
+            "x": 838,
+            "y": 289
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ApGOVkRQXjdNDczwx2Qi2w==\n",
+            "height": 24,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y322_W600_H24",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "error-information-popup-content",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 1003,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 24.0,
+                    "key": "660_322_600_24_DNS_PROBE_FINISHED_NXDOMAIN",
+                    "tagName": "div",
+                    "text": "DNS_PROBE_FINISHED_NXDOMAIN",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 322.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 322.0
+                },
+                "size": {
+                    "height": 24.0,
+                    "width": 600.0
+                },
+                "tag_name": "div",
+                "text": "DNS_PROBE_FINISHED_NXDOMAIN"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "DNS_PROBE_FINISHED_NXDOMAIN",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 322
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "qJ3Rd7W2iTAqG0esxLTahQ==\n",
+            "height": 31,
+            "hier_level": 0,
+            "human_hash": "button_X1186_Y397_W74_H31",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "blue-button text-button",
+                        "id": "reload-button",
+                        "jscontent": "msg",
+                        "jsselect": "reloadButton",
+                        "jstcache": "5",
+                        "jsvalues": ".url:reloadUrl",
+                        "onclick": "reloadButtonClick(this.url);"
+                    },
+                    "backend_node_id": 1084,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 31.0,
+                    "key": "1186_397_74_31_Reload",
+                    "tagName": "button",
+                    "text": "Reload",
+                    "width": 74.0,
+                    "x": 1186.0,
+                    "y": 397.0
+                },
+                "location": {
+                    "x": 1186.0,
+                    "y": 397.0
+                },
+                "size": {
+                    "height": 31.0,
+                    "width": 74.0
+                },
+                "tag_name": "button",
+                "text": "Reload"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "Reload",
+            "transformed": true,
+            "width": 74,
+            "x": 1186,
+            "y": 397
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "APlYqkdwO8e8jx0Cw2NjKg==\n",
+            "height": 47,
+            "hier_level": 0,
+            "human_hash": "div_X660_Y397_W600_H47",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "nav-wrapper suggested-right",
+                        "id": "buttons",
+                        "jstcache": "0"
+                    },
+                    "backend_node_id": 937,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 47.0,
+                    "key": "660_397_600_47_Reload",
+                    "tagName": "div",
+                    "text": "Reload",
+                    "width": 600.0,
+                    "x": 660.0,
+                    "y": 397.0
+                },
+                "location": {
+                    "x": 660.0,
+                    "y": 397.0
+                },
+                "size": {
+                    "height": 47.0,
+                    "width": 600.0
+                },
+                "tag_name": "div",
+                "text": "Reload"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Reload",
+            "transformed": true,
+            "width": 600,
+            "x": 660,
+            "y": 397
+        }
+    ],
+    "cpu": 0,
+    "jank": 0,
+    "mem": 0,
+    "net": 0,
+    "processed": true,
+    "timing": 0
+}
