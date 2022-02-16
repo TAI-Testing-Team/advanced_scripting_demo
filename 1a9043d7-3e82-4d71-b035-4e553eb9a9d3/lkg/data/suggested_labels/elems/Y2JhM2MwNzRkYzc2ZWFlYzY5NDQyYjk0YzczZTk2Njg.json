@@ -1,0 +1,17 @@
+{
+    "cart": {
+        "all_scores": {
+            "kirfuzz-general-classifier:v2": 0.9106455445289612
+        },
+        "score": 0.9106455445289612,
+        "source": "kirfuzz-general-classifier:v2"
+    },
+    "icn_cart": {
+        "all_scores": {
+            "carbon_classifiers.perceptual.nn_classifier": 1.0,
+            "hash_based": 1.0
+        },
+        "score": 1.0,
+        "source": "carbon_classifiers.perceptual.nn_classifier"
+    }
+}
