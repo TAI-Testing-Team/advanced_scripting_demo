@@ -1,0 +1,16 @@
+{
+    "desiredCaps": {
+        "app": "http://localhost:12543/api/v2/apps/1a9043d7-3e82-4d71-b035-4e553eb9a9d3/builds/45ea8b33-b364-4541-8d09-a6cdec5e75b9/download?ext=.apk",
+        "appPackage": "com.coffye.jrosav",
+        "autoAcceptAlerts": true,
+        "deviceName": "Android Emulator",
+        "newCommandTimeout": 100,
+        "platformName": "Android",
+        "platformVersion": "7.0"
+    },
+    "deviceFriendlyName": "Nexus 5",
+    "deviceHeight": 2280,
+    "deviceWidth": 1080,
+    "hostPlatformRelease": "21.3.0",
+    "hostPlatformSystem": "Darwin"
+}
