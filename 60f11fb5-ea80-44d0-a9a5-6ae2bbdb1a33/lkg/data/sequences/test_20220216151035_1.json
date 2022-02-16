@@ -1,0 +1,504 @@
+[
+    {
+        "hash": "0b254da1655477edb3a1bba31ff23b90"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "aoaPz1WX50GL1qNDiaG5Gg==\n",
+                "height": 40,
+                "hier_level": 0,
+                "human_hash": "a_X482_Y8_W125_H40",
+                "human_readable": "a_482_8_125_40_a_0000000000000000000049006b6e7ffe7ffe7ffe7dfe00000000000000000000_8696dcb9da2c2189653ede03c73c8390",
+                "img_hash": "a61d39446c63d2171d294563a814ebb7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "nav-link",
+                            "href": "gestures.html"
+                        },
+                        "backend_node_id": 54,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 40.0,
+                        "key": "482_8_125_40_Basic Gestures",
+                        "tagName": "a",
+                        "text": "Basic Gestures",
+                        "width": 125.0,
+                        "x": 482.0,
+                        "y": 8.0
+                    },
+                    "location": {
+                        "x": 482.0,
+                        "y": 8.0
+                    },
+                    "size": {
+                        "height": 40.0,
+                        "width": 125.0
+                    },
+                    "tag_name": "a",
+                    "text": "Basic Gestures"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "00000000fffffffffc3ffe7fffffffffffffffffffffffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "0b254da1655477edb3a1bba31ff23b90",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Basic Gestures",
+                "text_hash": "8696dcb9da2c2189653ede03c73c8390",
+                "transformed": true,
+                "width": 125,
+                "x": 482,
+                "y": 8
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NmYzNjdlNTExOTE2Y2U0ZDk1ZTVmZWVlNmVmNDFjNzg"
+    },
+    {
+        "hash": "c456d738fe2202b62d8fe4ab78b1c99b"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "y/zb8p6T/XJx7ulIBqeRdA==\n",
+                "height": 48,
+                "hier_level": 0,
+                "human_hash": "button_X426_Y273_W66_H48",
+                "human_readable": "button_426_273_66_48_button_800100000000000000000e000fe007f007d007f007f000400000000000008001_d92ca28afb8cf518dfee18c96e7e5761",
+                "img_hash": "1817def96e22083aafb6240f429cd7d3",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-lg btn-success",
+                            "id": "tap",
+                            "type": "button"
+                        },
+                        "backend_node_id": 381,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 48.0,
+                        "key": "426_273_66_48_Tap",
+                        "tagName": "button",
+                        "text": "Tap",
+                        "width": 66.0,
+                        "x": 426.0,
+                        "y": 273.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 273.0
+                    },
+                    "size": {
+                        "height": 48.0,
+                        "width": 66.0
+                    },
+                    "tag_name": "button",
+                    "text": "Tap"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "00000000ffffffffffffefffe7fffffffffffffffffff00ff00ffffff01fffff",
+                "resource-id": "",
+                "screen_hash": "c456d738fe2202b62d8fe4ab78b1c99b",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Tap",
+                "text_hash": "d92ca28afb8cf518dfee18c96e7e5761",
+                "transformed": true,
+                "width": 66,
+                "x": 426,
+                "y": 273
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "NDAwZDg1Mjc0OWI4ODhhNjYwNDFhOTg0M2FjYjM4ZTc"
+    },
+    {
+        "hash": "edeb8e16a777d080edc8090354799b33"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "ZoT23jl0fqIrakto6JHzZg==\n",
+                "height": 48,
+                "hier_level": 0,
+                "human_hash": "button_X426_Y403_W133_H48",
+                "human_readable": "button_426_403_133_48_button_8001000000000000000033303bbc3fdc3ffc3ffc3fdc00000000000000008001_f5ad9af537f937b2ac2fd988706fdfed",
+                "img_hash": "2f9148ce1b614db7283ab732cf655575",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-lg btn-info",
+                            "id": "dbltap",
+                            "type": "button"
+                        },
+                        "backend_node_id": 391,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 48.0,
+                        "key": "426_403_133_48_Double Tap",
+                        "tagName": "button",
+                        "text": "Double Tap",
+                        "width": 133.0,
+                        "x": 426.0,
+                        "y": 403.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 403.0
+                    },
+                    "size": {
+                        "height": 48.0,
+                        "width": 133.0
+                    },
+                    "tag_name": "button",
+                    "text": "Double Tap"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "00000000ffffffffffffeffff7ffe7fffffffffffffffffff16ff00ffffff41f",
+                "resource-id": "",
+                "screen_hash": "edeb8e16a777d080edc8090354799b33",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Double Tap",
+                "text_hash": "f5ad9af537f937b2ac2fd988706fdfed",
+                "transformed": true,
+                "width": 133,
+                "x": 426,
+                "y": 403
+            },
+            "gesture": "double_tap",
+            "text": "double_tap"
+        },
+        "elem_hash": "OWI4OTZiYzFhNzYyMzM3NTI4ZDAzOTQ1OGNiYWRjNjI"
+    },
+    {
+        "hash": "265d14fe6e3055496d67d9c9b843198b"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "dzl6E24uvtZG4kM47n16Dg==\n",
+                "height": 901,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H901",
+                "human_readable": "screen_0_0_1920_901_screen_00000000ffffffffffffeffff7ffe7fff7fffffffffffffffffffffff00ff7ff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "00000000ffffffffffffeffff7ffe7fff7fffffffffffffffffffffff00ff7ff",
+                "screen_hash": "265d14fe6e3055496d67d9c9b843198b",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "YzUyMDJiMmJiMTU3ODkyM2Q0NjVhNjVjZDEzMTdiYzg"
+    },
+    {
+        "hash": "542b3439f72db973df54fdb75ca24a7d"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "dzl6E24uvtZG4kM47n16Dg==\n",
+                "height": 901,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H901",
+                "human_readable": "screen_0_0_1920_901_screen_f1ffe00ff3ffe00fe00ff00fe00fe00ff00fe00ff00ff00fe00ff00fe00fe00f_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "f1ffe00ff3ffe00fe00ff00fe00fe00ff00fe00ff00ff00fe00ff00fe00fe00f",
+                "screen_hash": "542b3439f72db973df54fdb75ca24a7d",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_down",
+            "text": "swipe_down"
+        },
+        "elem_hash": "MWY5ZGY3YzdlOTg4NmY5ZTY3YTY4YmFmOTc1YjJkNzA"
+    },
+    {
+        "hash": "265d14fe6e3055496d67d9c9b843198b"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "qNKwD/ZrRNTphcSgo5R5lg==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X426_Y565_W709_H38",
+                "human_readable": "input_426_565_709_38_input_0000ffffffffffffffff3fff1fff1fff1fff1fff1fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "6864bc61efd3ac5200b0f46d7cc48c19",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "input-nosubmit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text"
+                        },
+                        "backend_node_id": 406,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "426_565_709_38_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 709.0,
+                        "x": 426.0,
+                        "y": 565.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 565.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 709.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "00000000ffffffffffffeffff7ffe7fff7fffffffffffffffffffffff00ff7ff",
+                "resource-id": "",
+                "screen_hash": "265d14fe6e3055496d67d9c9b843198b",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 709,
+                "x": 426,
+                "y": 565
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Bot Gestures All Script Text"
+        },
+        "elem_hash": "MTllYjg1ODk3MDRhOTk5MTY4OGZmZGQwNDE0OTk5ZDI"
+    },
+    {
+        "hash": "36222e8b0392d0b6dec2e61e411ac5fa"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "ZtP0u0YrKUuahddl7p93UA==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X426_Y667_W712_H38",
+                "human_readable": "input_426_667_712_38_input_0000ffffffffffffffff3fff1fff1fff1fff1fff1fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "95ed42548329f7ffc0e6f1abae5ba8b3",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control col-md-8",
+                            "id": "input-submit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "backend_node_id": 417,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "426_667_712_38_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 712.0,
+                        "x": 426.0,
+                        "y": 667.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 667.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 712.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "00000000ffffffffffffeffff7ffe7fff7fffffffffffffffffffffff00ff7ff",
+                "resource-id": "",
+                "screen_hash": "36222e8b0392d0b6dec2e61e411ac5fa",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 712,
+                "x": 426,
+                "y": 667
+            },
+            "gesture": "text_entry",
+            "text": "Completed!!"
+        },
+        "elem_hash": "MGI1Mjg3M2I5MGM3MmIyM2Y1NjU1OGM5OWY4OWZmMjk"
+    },
+    {
+        "hash": "c456d738fe2202b62d8fe4ab78b1c99b"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "dzl6E24uvtZG4kM47n16Dg==\n",
+                "height": 901,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H901",
+                "human_readable": "screen_0_0_1920_901_screen_00000000ffffffffffffefffe7fffffffffffffffffff00ff00ffffff01fffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "00000000ffffffffffffefffe7fffffffffffffffffff00ff00ffffff01fffff",
+                "screen_hash": "c456d738fe2202b62d8fe4ab78b1c99b",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "NWIzM2ZjODI5OGY0ZjEwZjQxNGU2YWZmM2Y2OGQ0Mzg"
+    },
+    {
+        "hash": "cbd5820e15d49d4a22cbbcc1291d7be1"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "dzl6E24uvtZG4kM47n16Dg==\n",
+                "height": 901,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H901",
+                "human_readable": "screen_0_0_1920_901_screen_f00fe00ff00ff00fe00ff7fff00fe00ff1fff00ff3fff00fe00ff00ff00fe00f_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "f00fe00ff00ff00fe00ff7fff00fe00ff1fff00ff3fff00fe00ff00ff00fe00f",
+                "screen_hash": "cbd5820e15d49d4a22cbbcc1291d7be1",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "ZmQwODgzMzU4ZDUxYWJkMGU4NjJiMzRiODZmZjhiNmQ"
+    },
+    {
+        "hash": "a8feb4ace6d6bb8b2988d0a1b7fa7722"
+    }
+]

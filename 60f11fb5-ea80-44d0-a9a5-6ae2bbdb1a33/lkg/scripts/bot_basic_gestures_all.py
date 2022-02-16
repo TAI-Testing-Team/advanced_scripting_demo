@@ -1,7 +1,8 @@
 import logging
-import time
 
 log = logging.getLogger(__name__)
+
+MAX_SWIPES = 10
 
 def run(context):
     
@@ -11,7 +12,7 @@ def run(context):
 	context.verify(grep="Double Tap Successful")	
 
 	context.perform_gesture('swipe_up', '')
-	context.verify(grep="Copyright")
+	context.verify(grep="Posuere ac ut consequat semper viverra")
 	context.perform_gesture('swipe_down', '')
 	context.verify(grep="Double Tap Successful")	
 	
@@ -19,4 +20,24 @@ def run(context):
 	context.verify(grep="Bot Gestures All Script Text")
 	context.perform_gesture('text_entry', 'inp_text_entry', 'Completed!!')
 	context.verify(grep="Bot Gestures All Script Text", grep_count=0)
+
+	mixed_string = False
+	attempts = 0
+
+	mixed_string = element_exists(context, 'btn_coordinate_tap')
 	
+	while not mixed_string and attempts <= MAX_SWIPES:
+		attempts += 1
+		context.perform_gesture('swipe_up', '')
+		mixed_string = element_exists(context, 'btn_coordinate_tap')
+
+	context.verify(['btn_coordinate_tap'])
+	context.perform_gesture_on_coord('tap', {'x': 509, 'y': 650})
+	context.verify(grep="Coordinate Tap Successful")
+
+
+def element_exists(context, label):
+	labels_per_elem = context.find_elements_with_label(label)
+	return labels_per_elem and len(labels_per_elem.keys()) > 0
+
+

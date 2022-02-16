@@ -1,0 +1,37 @@
+{
+    "practice": {
+        "description": "",
+        "is_deactivated": true,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "swipe_up",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "find_element_info.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "3f946426-8f1f-11ec-a68f-2af66dd5c1a0",
+        "title": "practice"
+    }
+}

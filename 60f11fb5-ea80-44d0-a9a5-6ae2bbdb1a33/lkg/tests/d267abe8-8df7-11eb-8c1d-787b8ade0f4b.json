@@ -2,7 +2,6 @@
     "Basic Gestures - Individual Scripts": {
         "description": "",
         "is_deactivated": false,
-        "original_title": "Basic Gestures - Individual Scripts",
         "steps": [
             {
                 "continue_on_failure": false,
@@ -14,6 +13,7 @@
                 "labels": [
                     "lnk_basic_gestures"
                 ],
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -26,6 +26,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "tap_gesture.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -38,6 +39,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "double_tap_gesture.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -50,6 +52,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "swipe_up_gesture.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -62,6 +65,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "swipe_down_gesture.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -74,6 +78,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "text_entry_no_submit.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -86,8 +91,36 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "text_entry.py",
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Swipe until Label Found - Coordinate Tap Button",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "swipe_until_label_found.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap on Custom Coordinates - Coordinate Tap button",
+                "grep": "tap_custom_coordinates.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "tap_custom_coordinates.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
             }
         ],
         "tags": [],
