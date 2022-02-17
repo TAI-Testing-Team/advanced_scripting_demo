@@ -4,6 +4,50 @@
         "is_deactivated": false,
         "steps": [
             {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "icn_menu"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "custom_swipe_on_coordinates.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "custom_swipe_on_coordinates.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "scrn_home"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
                 "collapsed": true,
                 "continue_on_failure": false,
                 "description": "",
@@ -51,28 +95,27 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
+                "grep": "custom_swipe_up.py",
                 "grep_count": null,
-                "input": "swipe_up",
+                "input": "",
                 "label_count": null,
                 "labels": [],
+                "script_name": "custom_swipe_up.py",
                 "stepIsOpen": false,
                 "timeout": null,
-                "type": "action",
+                "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "custom_swipe_on_coordinates.py",
+                "grep": "Related products ",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "custom_swipe_on_coordinates.py",
-                "stepIsOpen": false,
                 "timeout": null,
-                "type": "execute_script",
+                "type": "verification",
                 "widget": ""
             }
         ],
