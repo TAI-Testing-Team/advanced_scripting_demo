@@ -1,6 +1,6 @@
 {
-    "driver": {
-        "description": "",
+    "Get Driver Directly": {
+        "description": "Tests scripts for get driver, refresh browser, resize  window, switch browser tab, insert file, expand browser, tab to the next field, get current window url",
         "is_deactivated": false,
         "steps": [
             {
@@ -32,6 +32,33 @@
             },
             {
                 "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_window_url.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies that bot called the current window url and types it out in field.",
+                "grep": "http://blogen-inc.surge.sh/dynamic.html",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
                 "description": "Change name of first button to accept.",
                 "grep": "",
                 "grep_count": null,
@@ -47,7 +74,7 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Refresh browser and return button to original state.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
@@ -82,6 +109,7 @@
                 "labels": [
                     "lnk_home"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
@@ -103,7 +131,7 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Switches to the Log out tab.",
                 "grep": "driver_switch_browser_tab.py",
                 "grep_count": null,
                 "input": "",
@@ -125,13 +153,14 @@
                 "labels": [
                     "icn_blogen_admin"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Switches back to main browser tab.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
@@ -159,6 +188,186 @@
             {
                 "continue_on_failure": false,
                 "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_logout"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Hit tabs over until first input field and type letter z",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_tab_letter.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "Z",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Refresh browser",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_refresh_browser.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Hit tabs and send key for 9",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_tab_number.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify number typed.",
+                "grep": "9",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "refresh browser",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_refresh_browser.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "hit tabs and then hit enter. Returns us to home page.",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_tab_enter.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify text on home page.",
+                "grep": "Please Select One",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap to dynamic page.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Call a csv file by it's path and then type it out in the dynamic input",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_insert_file.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify the correct file being called.",
+                "grep": "my_csv_file.csv",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Resizes browser to very small size, can't see \"change\" button.",
                 "grep": "driver_resize_window.py",
                 "grep_count": null,
                 "input": "",
@@ -172,7 +381,7 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Expands browser.",
                 "grep": "driver_expand_browser.py",
                 "grep_count": null,
                 "input": "",
@@ -200,6 +409,6 @@
         ],
         "tags": [],
         "temp_id": "3b0e7c3a-8537-11ec-b2dc-149d997fd38b",
-        "title": "driver"
+        "title": "Get Driver Directly"
     }
 }
