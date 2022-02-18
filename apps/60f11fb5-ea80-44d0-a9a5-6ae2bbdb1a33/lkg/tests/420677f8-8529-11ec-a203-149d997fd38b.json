@@ -1,5 +1,5 @@
 {
-    "Persistent Value Passing": {
+    "Persistent Value Passing - Share Data Across Steps": {
         "description": "Set a value in one scripot. Verify it in a second script. Set a second value. Verify second. value.",
         "is_deactivated": false,
         "steps": [
@@ -117,9 +117,10 @@
             }
         ],
         "tags": [
-            "pvp"
+            "pvp",
+            "across_steps"
         ],
         "temp_id": "420677f8-8529-11ec-a203-149d997fd38b",
-        "title": "Persistent Value Passing"
+        "title": "Persistent Value Passing - Share Data Across Steps"
     }
 }

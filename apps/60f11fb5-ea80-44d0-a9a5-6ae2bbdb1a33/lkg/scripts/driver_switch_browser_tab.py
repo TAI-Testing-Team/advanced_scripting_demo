@@ -10,5 +10,5 @@ log = logging.getLogger(__name__)
 
 def run(context):
     driver = context.get_driver()
-    driver.switch_to_window_by_title("Blogen - Social Network")
+    driver.switch_to_window_by_title("Login Page")
     context.get_all_elements()

@@ -1,10 +1,14 @@
 import logging
+import json
 
 log = logging.getLogger(__name__)
 
 def run(context):
     driver = context.get_driver()
     url = context.get_driver().execute_script('return window.location.href;')
+    context.perform_gesture('text_entry_no_submit', 'inp_test_info', url)
+
+
     
     # url is set as variable, print it to the log output for visual check
     log.info('====================script start====================')
