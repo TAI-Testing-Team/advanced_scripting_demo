@@ -1,0 +1,69 @@
+{
+    "Close+Reopen Mobile App": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "lnk_shop_men"
+                ],
+                "stepIsOpen": false,
+                "timeout": "15",
+                "type": "wait_for_label",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_shop_men"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "close_reopen_tai_store.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "close_reopen_tai_store.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "lnk_shop_men"
+                ],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "fee1309c-9015-11ec-8362-149d997d94ba",
+        "title": "Close+Reopen Mobile App"
+    }
+}
