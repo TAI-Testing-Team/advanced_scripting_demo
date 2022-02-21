@@ -1,0 +1,84 @@
+{
+    "Share Data Across Tests Part Two": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Got to input page",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "input_param"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "share_across_test_two.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verify unique email stored.",
+                "grep": "@testai.com",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "Verify password stored.",
+                "grep": "Welcome123!",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "share_across_test_reset.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [
+            "share across tests"
+        ],
+        "temp_id": "fb1f3eba-9027-11ec-96f9-149d997fd38b",
+        "title": "Share Data Across Tests Part Two"
+    }
+}

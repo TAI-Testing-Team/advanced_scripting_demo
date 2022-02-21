@@ -1,0 +1,24 @@
+{
+    "Run Explore": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "run_explore.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "run_explore.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "fae06b16-92cc-11ec-86ad-149d997d94ba",
+        "title": "Run Explore"
+    }
+}

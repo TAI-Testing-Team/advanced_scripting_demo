@@ -1,0 +1,2078 @@
+[
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 376,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "Rwd4g/kfbRVgmvp64eNYKA==\n",
+                "height": 46,
+                "hier_level": 0,
+                "human_hash": "button_X479_Y543_W250_H46",
+                "human_readable": "button_479_543_250_46_button_80010000000000000000060007c007e007e007e007e000c00000000000008001_88f1c60a4bab767c1e873532809aaf4a",
+                "img_hash": "86dde647362eec1befb1fcaa394cae05",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-primary btn-lg dynamic-button",
+                            "id": "btn-change",
+                            "type": "button"
+                        },
+                        "backend_node_id": 626,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 46.0,
+                        "key": "479_543_250_46_Change",
+                        "tagName": "button",
+                        "text": "Change",
+                        "width": 250.0,
+                        "x": 479.0,
+                        "y": 543.0
+                    },
+                    "location": {
+                        "x": 479.0,
+                        "y": 543.0
+                    },
+                    "size": {
+                        "height": 46.0,
+                        "width": 250.0
+                    },
+                    "tag_name": "button",
+                    "text": "Change"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Change",
+                "text_hash": "88f1c60a4bab767c1e873532809aaf4a",
+                "transformed": true,
+                "width": 250,
+                "x": 479,
+                "y": 543
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "NDNmYmZkYTQyMDFmODI4YWRiMzIyZjAwYjgxODRmMzE"
+    },
+    {
+        "hash": "7b56e93ee8f87995d887acdc32236647"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "W/MqweetqdJa0UcQQqgA6Q==\n",
+                "height": 46,
+                "hier_level": 0,
+                "human_hash": "button_X1191_Y543_W250_H46",
+                "human_readable": "button_1191_543_250_46_button_80010000000000000000068007e007e007e007e007e000000000000000008001_2b18d825f618538120a52de8c54449ac",
+                "img_hash": "433e5748577e4e490654a30af7740814",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-primary btn-lg",
+                            "data-bs-target": "#exampleModal",
+                            "data-bs-toggle": "modal",
+                            "id": "btn-confirm",
+                            "type": "button"
+                        },
+                        "backend_node_id": 638,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 46.0,
+                        "key": "1191_543_250_46_Confirm",
+                        "tagName": "button",
+                        "text": "Confirm",
+                        "width": 250.0,
+                        "x": 1191.0,
+                        "y": 543.0
+                    },
+                    "location": {
+                        "x": 1191.0,
+                        "y": 543.0
+                    },
+                    "size": {
+                        "height": 46.0,
+                        "width": 250.0
+                    },
+                    "tag_name": "button",
+                    "text": "Confirm"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "7b56e93ee8f87995d887acdc32236647",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Confirm",
+                "text_hash": "2b18d825f618538120a52de8c54449ac",
+                "transformed": true,
+                "width": 250,
+                "x": 1191,
+                "y": 543
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "NTJmYWJhMWFjMDRhMDczOWZmNzUyYzcwMjU1ZDJmOGY"
+    },
+    {
+        "hash": "4c442127947cceb77773959824d243ac"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "JHpNurhSSwlJTiVdizmy/g==\n",
+                "height": 46,
+                "hier_level": 0,
+                "human_hash": "button_X479_Y543_W250_H46",
+                "human_readable": "button_479_543_250_46_button_80010000000000000000020003e003c003c003c003c000000000000000008001_4706123b0b51072e022e65f0b92c34a1",
+                "img_hash": "d9856f95bda33ac9d2189e9b5ceca2bc",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-secondary btn-lg",
+                            "id": "btn-change",
+                            "type": "button"
+                        },
+                        "backend_node_id": 626,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 46.0,
+                        "key": "479_543_250_46_Accept",
+                        "tagName": "button",
+                        "text": "Accept",
+                        "width": 250.0,
+                        "x": 479.0,
+                        "y": 543.0
+                    },
+                    "location": {
+                        "x": 479.0,
+                        "y": 543.0
+                    },
+                    "size": {
+                        "height": 46.0,
+                        "width": 250.0
+                    },
+                    "tag_name": "button",
+                    "text": "Accept"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "4c442127947cceb77773959824d243ac",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Accept",
+                "text_hash": "4706123b0b51072e022e65f0b92c34a1",
+                "transformed": true,
+                "width": 250,
+                "x": 479,
+                "y": 543
+            },
+            "gesture": "find_element",
+            "text": "find_element"
+        },
+        "elem_hash": "NjAxNjMzNDcxNWFjZWZhYjU1ZTM4MmM0Y2FmOGU4MDM"
+    },
+    {
+        "hash": "4c442127947cceb77773959824d243ac"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 616,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "4c442127947cceb77773959824d243ac",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "5ad0395fb467e31f0921f29b080fd194"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 616,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "5ad0395fb467e31f0921f29b080fd194",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Accept"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Change"
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "1933fcc74798b4b8c3c500e02145680b",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "[{\"my_label\": \"inp_email\", \"my_text\": \"john@email.com\"}, {\"my_label\": \"inp_password\", \"my_text\": \"2525\"}, {\"my_label\": \"inp_address_one\", \"my_text\": \"15 W 25th St.\"}, {\"my_label\": \"inp_address_two\", \"my_text\": \" Apt. 1\"}, {\"my_label\": \"inp_city\", \"my_text\": \" NYC\"}, {\"my_label\": \"inp_zip\", \"my_text\": \" 10014\"}]"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "[{\"my_label\": \"inp_email\", \"my_text\": \"john@email.com\"}, {\"my_label\": \"inp_password\", \"my_text\": \"2525\"}, {\"my_label\": \"inp_address_one\", \"my_text\": \"15 W 25th St.\"}, {\"my_label\": \"inp_address_two\", \"my_text\": \" Apt. 1\"}, {\"my_label\": \"inp_city\", \"my_text\": \" NYC\"}, {\"my_label\": \"inp_zip\", \"my_text\": \" 10014\"}]"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "inp_email"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "inp_email"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "1933fcc74798b4b8c3c500e02145680b",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 857,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Change"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1109,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "a5a7794b8c14e8bfe98fc0dbb93e532c"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1347,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "a5a7794b8c14e8bfe98fc0dbb93e532c",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Successfully called stored csv_file, stored api data, and stored button text name."
+        },
+        "elem_hash": "MzZlYTRlMDUzNjdiNzM1YjA2ZWUyNWJkNjJmMDg1NWM"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1823,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Successfully called stored csv_file, stored api data, and stored button text name."
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1823,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "[{\"my_label\": \"inp_email\", \"my_text\": \"john@email.com\"}, {\"my_label\": \"inp_password\", \"my_text\": \"2525\"}, {\"my_label\": \"inp_address_one\", \"my_text\": \"15 W 25th St.\"}, {\"my_label\": \"inp_address_two\", \"my_text\": \" Apt. 1\"}, {\"my_label\": \"inp_city\", \"my_text\": \" NYC\"}, {\"my_label\": \"inp_zip\", \"my_text\": \" 10014\"}]"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "1933fcc74798b4b8c3c500e02145680b",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1823,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 1823,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Change"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2301,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Successfully called stored csv_file, stored api data, and stored button text name."
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "f4f8077663c216c90f798a906096b5ee"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_0000ffff7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffe7ffeffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "b6c18d56f4bee893a65a5c97e8d479a7",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2538,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "f4f8077663c216c90f798a906096b5ee",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "[{\"my_label\": \"Resetting\", \"my_text\": \" example\"}]"
+        },
+        "elem_hash": "MzBjZDI4YjljYWYwMTJhZDlhNDM0NDY2ZjBiZGQ5Mjk"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2538,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "{\"current_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"apps\": [{\"platform\": \"ANDROID\", \"id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3_android\", \"app_id\": \"1a9043d7-3e82-4d71-b035-4e553eb9a9d3\", \"name\": \"Test AI Store \", \"default_package\": \"com.coffye.jrosav\"}, {\"platform\": \"WEB\", \"id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33_web\", \"app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"name\": \"TestAI Sandbox - Web - Blogen\", \"default_package\": null}], \"user\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true, \"preferred_company\": {\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}, \"companies\": [{\"disabled\": false, \"slug\": \"testai\", \"id\": \"c0000001\", \"name\": \"test.ai\"}]}, \"allowed_tags\": null}"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "1933fcc74798b4b8c3c500e02145680b",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2538,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Change"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2538,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "Next"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2"
+    },
+    {
+        "action_info": {
+            "elem_class": "textarea",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "textarea",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "arlwin5+Pz74h3MiV+1wcQ==\n",
+                "height": 134,
+                "hier_level": 0,
+                "human_hash": "textarea_X442_Y345_W1036_H134",
+                "human_readable": "textarea_442_345_1036_134_textarea_00007fff7fff7fffffffffffffffffffffffffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f5a8e074e453788c42c2b889c6e73a3e",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control",
+                            "id": "eleminfo-area",
+                            "name": "name",
+                            "placeholder": "",
+                            "rows": "5",
+                            "value": ""
+                        },
+                        "backend_node_id": 2538,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 134.0,
+                        "key": "442_345_1036_134_",
+                        "tagName": "textarea",
+                        "text": "",
+                        "width": 1036.0,
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "location": {
+                        "x": 442.0,
+                        "y": 345.0
+                    },
+                    "size": {
+                        "height": 134.0,
+                        "width": 1036.0
+                    },
+                    "tag_name": "textarea",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffffffffffffffffffffffffff24fffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "31ee3fb7deb78d9ec4d6dc48659cb4d2",
+                "scrollable": false,
+                "tag_name": "textarea",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 1036,
+                "x": 442,
+                "y": 345
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "[{\"md5_sum\": \"d1f3e73dc0cf4227e022dbdbf3748523\", \"latest_test_run\": \"20220217152136\", \"created_at\": \"2021-03-26 05:53:24.694881\", \"real_app_id\": \"60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33\", \"platform\": \"DESKTOP_CHROME\", \"original_file_name\": \"missing!!\", \"uploaded_by\": {\"first_name\": \"Alex\", \"last_name\": \"Chappo\", \"email\": \"alexc@test.ai\", \"is_admin\": true, \"id\": \"u0000001\", \"company\": \"org_FoTdIkUzedyHrAhj\", \"team\": null, \"verified_email\": true, \"is_completed\": true}, \"id\": \"34aaaeb4-52c5-4fe3-b687-5a99e729419d\"}]"
+        },
+        "elem_hash": "OTFkZmVlNTA1OGFhZjBjOTM0MTU4MjIzNmU2Mzc5MWU"
+    },
+    {
+        "hash": "701ca13bd2edc53118cca153678cb3eb"
+    }
+]
