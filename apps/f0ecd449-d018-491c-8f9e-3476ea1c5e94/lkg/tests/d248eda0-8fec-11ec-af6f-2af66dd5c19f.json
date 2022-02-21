@@ -1,0 +1,24 @@
+{
+    "Dismiss Alert": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "dismiss_alert.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "dismiss_alert.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "d248eda0-8fec-11ec-af6f-2af66dd5c19f",
+        "title": "Dismiss Alert"
+    }
+}
