@@ -108,8 +108,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypestatusbar",
-                    "statusbar"
+                    "statusbar",
+                    "xcuielementtypestatusbar"
                 ],
                 "text": [
                     ""
@@ -270,8 +270,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypestatusbar",
-                    "statusbar"
+                    "statusbar",
+                    "xcuielementtypestatusbar"
                 ],
                 "text": [
                     ""
@@ -756,8 +756,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypeapplication",
-                    "application"
+                    "application",
+                    "xcuielementtypeapplication"
                 ],
                 "text": [
                     "Preview_Build"
@@ -1242,8 +1242,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypebutton",
-                    "button"
+                    "button",
+                    "xcuielementtypebutton"
                 ],
                 "text": [
                     "Dont_Allow"
@@ -1890,8 +1890,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypeapplication",
-                    "application"
+                    "application",
+                    "xcuielementtypeapplication"
                 ],
                 "text": [
                     "_"
@@ -2133,8 +2133,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypebutton",
-                    "button"
+                    "button",
+                    "xcuielementtypebutton"
                 ],
                 "text": [
                     "Allow"
@@ -2160,8 +2160,8 @@
                 },
                 "tags": [
                     "all_elems",
-                    "xcuielementtypeapplication",
-                    "application"
+                    "application",
+                    "xcuielementtypeapplication"
                 ],
                 "text": [
                     "_"
@@ -2731,11 +2731,95 @@
     },
     "screens": {
         "dupe_to_master_key": {
+            "3de0d628e8a175c72c7ffcec0fdad82e.png": "3de0d628e8a175c72c7ffcec0fdad82e.png",
+            "a6a3d400597e010df9af1c486a9cc65d.png": "a6a3d400597e010df9af1c486a9cc65d.png",
+            "b3e055f578e8afd1d3adc229e8ecc415.png": "b3e055f578e8afd1d3adc229e8ecc415.png",
             "d930bc6a68287254c97e8c9fe1f1a71b.png": "d930bc6a68287254c97e8c9fe1f1a71b.png",
             "e1666d23320f32875c6da4a1c903ecce.png": "e1666d23320f32875c6da4a1c903ecce.png"
         },
         "screens_to_elems": {},
         "screens_to_infos": {
+            "3de0d628e8a175c72c7ffcec0fdad82e.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "3de0d628e8a175c72c7ffcec0fdad82e.png"
+                ],
+                "tags": [
+                    "xcuielementtypeother",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
+                    "all_screens",
+                    "xcuielementtypealert",
+                    "xcuielementtypebutton",
+                    "scrollview",
+                    "statictext",
+                    "button",
+                    "window",
+                    "xcuielementtypestatusbar",
+                    "application",
+                    "alert",
+                    "other",
+                    "xcuielementtypeapplication",
+                    "statusbar",
+                    "xcuielementtypescrollview"
+                ],
+                "text": [
+                    "",
+                    "notifications_may_include_alerts,_sounds,_and_icon_badges._these_can_be_configured_in_settings.",
+                    "_",
+                    "preview_build",
+                    "0%",
+                    "not_charging",
+                    "preview_build_would_like_to_send_you_notifications",
+                    "dont_allow",
+                    "allow",
+                    "2:33_pm",
+                    "no_signal",
+                    "ssid,_3_of_3_wi-fi_bars"
+                ]
+            },
+            "a6a3d400597e010df9af1c486a9cc65d.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "a6a3d400597e010df9af1c486a9cc65d.png"
+                ],
+                "tags": [
+                    "all_screens"
+                ],
+                "text": []
+            },
+            "b3e055f578e8afd1d3adc229e8ecc415.png": {
+                "dupe_count": [
+                    1
+                ],
+                "dupes": [
+                    "b3e055f578e8afd1d3adc229e8ecc415.png"
+                ],
+                "tags": [
+                    "xcuielementtypeother",
+                    "image",
+                    "xcuielementtypewindow",
+                    "all_screens",
+                    "scrollview",
+                    "window",
+                    "application",
+                    "other",
+                    "xcuielementtypeapplication",
+                    "xcuielementtypescrollview",
+                    "xcuielementtypeimage"
+                ],
+                "text": [
+                    "",
+                    "vertical_scroll_bar,_2_pages_horizontal_scroll_bar,_1_page",
+                    "0%",
+                    "preview_build",
+                    "inapppage-splashscreen"
+                ]
+            },
             "d930bc6a68287254c97e8c9fe1f1a71b.png": {
                 "dupe_count": [
                     1
@@ -2744,42 +2828,42 @@
                     "d930bc6a68287254c97e8c9fe1f1a71b.png"
                 ],
                 "tags": [
-                    "window",
-                    "xcuielementtypeapplication",
-                    "xcuielementtypestatictext",
-                    "other",
-                    "xcuielementtypescrollview",
-                    "statictext",
-                    "xcuielementtypewindow",
                     "xcuielementtypeother",
-                    "application",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
                     "all_screens",
-                    "scrollview"
+                    "statictext",
+                    "scrollview",
+                    "window",
+                    "application",
+                    "other",
+                    "xcuielementtypeapplication",
+                    "xcuielementtypescrollview"
                 ],
                 "text": [
                     "",
-                    "grid-0-container-item-0_grid-0-container-item-1_grid-0-container-item-2",
-                    "grid-0-card_undefined-item-0_undefined-item-1",
-                    "_0",
-                    "toolbar-title",
-                    "home-drawer-button",
-                    "inapppage-home",
+                    "undefined-item-0_undefined-item-1",
+                    "0%",
                     "grid-0-card",
-                    "inapppage-homepage_home_cart_wishlist_login_vertical_scroll_bar,_2_pages",
+                    "home-drawer-button_toolbar-title____0",
                     "inapppage-home_inapppage-home",
                     "home_cart_wishlist_login_vertical_scroll_bar,_2_pages",
-                    "choose_category",
-                    "inapppage-homepage",
-                    "___0",
-                    "tab_description",
-                    "tab_list",
-                    "home-drawer-button_toolbar-title____0",
-                    "home_cart_wishlist_login",
-                    "undefined-item-0_undefined-item-1",
                     "preview_build",
+                    "inapppage-homepage_home_cart_wishlist_login_vertical_scroll_bar,_2_pages",
+                    "___0",
+                    "_0",
+                    "tab_description",
+                    "home_cart_wishlist_login",
+                    "home-drawer-button",
+                    "choose_category",
                     "inapppage-home_inapppage-home_home-drawer-button_toolbar-title____0",
-                    "0%",
-                    "grid-0-card_undefined-item-0_undefined-item-1_vertical_scroll_bar,_1_page_horizontal_scroll_bar,_1_page"
+                    "tab_list",
+                    "grid-0-card_undefined-item-0_undefined-item-1",
+                    "grid-0-card_undefined-item-0_undefined-item-1_vertical_scroll_bar,_1_page_horizontal_scroll_bar,_1_page",
+                    "grid-0-container-item-0_grid-0-container-item-1_grid-0-container-item-2",
+                    "inapppage-home",
+                    "toolbar-title",
+                    "inapppage-homepage"
                 ]
             },
             "e1666d23320f32875c6da4a1c903ecce.png": {
@@ -2790,45 +2874,57 @@
                     "e1666d23320f32875c6da4a1c903ecce.png"
                 ],
                 "tags": [
-                    "window",
-                    "xcuielementtypeapplication",
-                    "xcuielementtypestatictext",
-                    "other",
-                    "alert",
-                    "xcuielementtypebutton",
-                    "xcuielementtypescrollview",
-                    "button",
-                    "statictext",
-                    "statusbar",
-                    "xcuielementtypewindow",
                     "xcuielementtypeother",
-                    "application",
-                    "xcuielementtypealert",
+                    "xcuielementtypewindow",
+                    "xcuielementtypestatictext",
                     "all_screens",
+                    "xcuielementtypealert",
+                    "xcuielementtypebutton",
                     "scrollview",
-                    "xcuielementtypestatusbar"
+                    "statictext",
+                    "button",
+                    "window",
+                    "xcuielementtypestatusbar",
+                    "application",
+                    "alert",
+                    "other",
+                    "xcuielementtypeapplication",
+                    "statusbar",
+                    "xcuielementtypescrollview"
                 ],
                 "text": [
                     "",
-                    "preview_build_would_like_to_send_you_notifications",
-                    "ssid,_3_of_3_wi-fi_bars",
-                    "not_charging",
-                    "allow",
-                    "no_signal",
-                    "preview_build",
-                    "2:24_pm",
+                    "notifications_may_include_alerts,_sounds,_and_icon_badges._these_can_be_configured_in_settings.",
                     "_",
-                    "dont_allow",
+                    "preview_build",
                     "0%",
-                    "notifications_may_include_alerts,_sounds,_and_icon_badges._these_can_be_configured_in_settings."
+                    "not_charging",
+                    "preview_build_would_like_to_send_you_notifications",
+                    "dont_allow",
+                    "allow",
+                    "2:24_pm",
+                    "no_signal",
+                    "ssid,_3_of_3_wi-fi_bars"
                 ]
             }
         },
         "sorted_screens": [
+            "a6a3d400597e010df9af1c486a9cc65d.png",
             "e1666d23320f32875c6da4a1c903ecce.png",
+            "3de0d628e8a175c72c7ffcec0fdad82e.png",
+            "b3e055f578e8afd1d3adc229e8ecc415.png",
             "d930bc6a68287254c97e8c9fe1f1a71b.png"
         ],
         "uniques_to_dupes": {
+            "3de0d628e8a175c72c7ffcec0fdad82e.png": [
+                "3de0d628e8a175c72c7ffcec0fdad82e.png"
+            ],
+            "a6a3d400597e010df9af1c486a9cc65d.png": [
+                "a6a3d400597e010df9af1c486a9cc65d.png"
+            ],
+            "b3e055f578e8afd1d3adc229e8ecc415.png": [
+                "b3e055f578e8afd1d3adc229e8ecc415.png"
+            ],
             "d930bc6a68287254c97e8c9fe1f1a71b.png": [
                 "d930bc6a68287254c97e8c9fe1f1a71b.png"
             ],

@@ -1,24 +1,24 @@
 {
-    "Dismiss Alert": {
+    "Accept Alert": {
         "description": "",
         "is_deactivated": false,
         "steps": [
             {
                 "continue_on_failure": false,
-                "description": "Dismisses the Notifications iOS alert when app is opened",
-                "grep": "dismiss_alert.py",
+                "description": "Accepts the Notifications iOS alert when app is opened",
+                "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "dismiss_alert.py",
+                "script_name": "accept_alert.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             }
         ],
         "tags": [],
-        "temp_id": "d248eda0-8fec-11ec-af6f-2af66dd5c19f",
-        "title": "Dismiss Alert"
+        "temp_id": "07aad76a-9312-11ec-b01c-2af66dd5c19f",
+        "title": "Accept Alert"
     }
 }

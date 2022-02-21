@@ -1,0 +1,217 @@
+2022-02-21 14:32:46,794 INFO     carbon_tasks.regress_app_task -- Logging crawl output to /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/builds/93e3f5db-eacb-4de5-b663-4a19970793f3/logs/test_run-20220221143246.log
+2022-02-21 14:32:46,795 INFO     carbon_tasks.regress_app_task -- regressing app: f0ecd449-d018-491c-8f9e-3476ea1c5e94, build: 93e3f5db-eacb-4de5-b663-4a19970793f3
+2022-02-21 14:32:47,412 INFO     carbon_tasks.regress_app_task -- max_steps: 10
+2022-02-21 14:32:47,413 INFO     carbon_tasks.regress_app_task -- rand_seed: 1645446766
+2022-02-21 14:32:47,413 INFO     carbon_tasks.regress_app_task -- test_wildcard: *
+2022-02-21 14:32:47,414 INFO     carbon_tasks.regress_app_task -- package: com.appilder.demo
+2022-02-21 14:32:47,414 INFO     carbon_tasks.regress_app_task -- eyes_api_key: None
+2022-02-21 14:32:47,414 INFO     carbon_tasks.regress_app_task -- no_reinstall: False
+2022-02-21 14:32:47,420 INFO     carbon_test_case.carbon_tests -- Found matching test: Dismiss Alert
+2022-02-21 14:32:47,420 INFO     carbon_test_case.carbon_tests -- Found matching test: Accept Alert
+2022-02-21 14:32:47,433 INFO     carbon_utils.file_logger -- Logging output to /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/builds/93e3f5db-eacb-4de5-b663-4a19970793f3/test_runs/20220221143246/run-80508493.log.
+2022-02-21 14:32:47,436 INFO     carbon_tasks.regress_app_task -- Remote host address: http://localhost:8083
+2022-02-21 14:32:47,453 INFO     carbon_tasks.process_crawl_task -- processing master crawl: (app: f0ecd449-d018-491c-8f9e-3476ea1c5e94)
+2022-02-21 14:32:47,499 INFO     carbon_tasks.generate_auto_labels_task -- getting data for crawl: master
+2022-02-21 14:32:47,501 INFO     carbon_tasks.generate_auto_labels_task -- processing crawl: master
+2022-02-21 14:32:47,506 INFO     carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: master
+2022-02-21 14:32:47,512 INFO     carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/hashes_to_labels.json
+2022-02-21 14:32:47,513 INFO     carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/human_readable_to_labels.json
+2022-02-21 14:32:47,513 INFO     carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/label_to_hash_dicts.json
+2022-02-21 14:32:47,513 INFO     carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/human_readable_to_paths.json
+2022-02-21 14:32:48,071 INFO     carbon_tasks.regress_app_task -- running regress for test case: Accept Alert
+2022-02-21 14:32:48,072 INFO     carbon_tasks.regress_app_task -- steps required for test: 2
+2022-02-21 14:32:48,072 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 2
+2022-02-21 14:32:48,084 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:32:48,085 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:32:48,085 INFO     carbon_explore.explore -- *                                                *
+2022-02-21 14:32:48,086 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2022-02-21 14:32:48,086 INFO     carbon_explore.explore -- *                                                *
+2022-02-21 14:32:48,086 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:32:48,086 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:32:48,089 INFO     carbon_initialization.initialization -- Random seed: 1645446766
+2022-02-21 14:32:48,099 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-21 14:32:48,099 INFO     carbon_initialization.initialization --                   PACKAGE: com.appilder.demo
+2022-02-21 14:32:48,099 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-21 14:32:48,099 INFO     carbon_initialization.initialization -- platform: IOS
+2022-02-21 14:32:48,099 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/builds/93e3f5db-eacb-4de5-b663-4a19970793f3/test_runs/20220221143246
+2022-02-21 14:32:48,100 INFO     carbon_botio.bot_io -- retrieving bot IO for app: f0ecd449-d018-491c-8f9e-3476ea1c5e94
+2022-02-21 14:32:48,101 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-02-21 14:32:48,101 INFO     carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/botio.json
+2022-02-21 14:32:48,101 INFO     carbon_botio.bot_io -- use_snapshot: False
+2022-02-21 14:32:48,101 INFO     carbon_botio.bot_io -- no botIO found for app: f0ecd449-d018-491c-8f9e-3476ea1c5e94
+2022-02-21 14:32:48,101 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-21 14:32:48,101 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-21 14:33:03,579 INFO     carbon_automation.driver -- Screen density: 3.0
+2022-02-21 14:33:31,266 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:31,621 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-g8e55ezx.png
+2022-02-21 14:33:31,740 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:31,846 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:32,171 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-4p5r8hty.png
+2022-02-21 14:33:32,242 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:32,348 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:32,746 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-fkluuht7.png
+2022-02-21 14:33:32,813 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:32,918 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:33,302 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-swc1xpz_.png
+2022-02-21 14:33:33,370 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:33,476 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:33,895 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-bzs_mxk2.png
+2022-02-21 14:33:33,964 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:34,070 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:34,504 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-4wgk2lfx.png
+2022-02-21 14:33:34,575 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:34,680 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:35,099 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-pvy34638.png
+2022-02-21 14:33:35,163 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:35,164 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (2)
+2022-02-21 14:33:35,164 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:35,609 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-gqwww2i6.png
+2022-02-21 14:33:36,111 INFO     carbon_explore.explore -- package is set to: com.appilder.demo
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- * Beginning step: 0, Test completed: False, Total steps: 1
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- * Description: Accepts the Notifications iOS alert when app is opened
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:36,114 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:36,116 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-21 14:33:36,583 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-21 14:33:36,584 INFO     carbon_explore.explore -- Determining active models.
+2022-02-21 14:33:36,584 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-21 14:33:37,653 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-21 14:33:37,659 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-21 14:33:37,665 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-21 14:33:37,667 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.012891125000123793 seconds
+2022-02-21 14:33:37,667 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-21 14:33:37,713 INFO     carbon_explore.explore -- Gesture: execute_script
+2022-02-21 14:33:37,731 INFO     carbon_utils.carbon_order_66 -- test_script_folder: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/scripts/
+2022-02-21 14:33:37,731 INFO     carbon_utils.carbon_order_66 -- script_name: accept_alert.py
+2022-02-21 14:33:37,731 INFO     carbon_utils.carbon_order_66 -- test_script_path[:-3]: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/scripts/accept_alert
+2022-02-21 14:33:38,539 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels starting.
+2022-02-21 14:33:38,540 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels completed.
+2022-02-21 14:33:38,541 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-21 14:33:38,545 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:39,277 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-0fz901xo.png
+2022-02-21 14:33:39,347 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:39,452 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:40,166 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-_qah2r8v.png
+2022-02-21 14:33:40,232 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:33:40,232 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (2)
+2022-02-21 14:33:40,232 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:33:40,914 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-30awjd10.png
+2022-02-21 14:33:41,668 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-21 14:33:41,668 INFO     carbon_explore.explore -- Step: 0 complete
+2022-02-21 14:33:41,669 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:41,669 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:41,669 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: False, Total steps: 1
+2022-02-21 14:33:41,669 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:41,669 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:41,670 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-21 14:33:42,372 INFO     carbon_explore.explore -- test completed
+2022-02-21 14:33:47,490 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2022-02-21 14:33:47,491 INFO     carbon_explore.test_hooks -- Running on failure hooks.
+2022-02-21 14:33:47,492 INFO     carbon_explore.test_hooks -- Running teardown hooks.
+2022-02-21 14:33:47,495 INFO     carbon_explore.hooks -- Reporting single test result.
+2022-02-21 14:33:47,496 INFO     carbon_explore.test_hooks -- Running error detectors.
+2022-02-21 14:33:47,496 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:47,496 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:47,496 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: True, Total steps: 1
+2022-02-21 14:33:47,496 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:33:47,496 INFO     carbon_explore.explore -- 
+2022-02-21 14:33:47,497 INFO     carbon_explore.explore -- Performing post-walk cleanup.
+2022-02-21 14:33:48,688 INFO     carbon_explore.explore -- Iteration completed: 0
+2022-02-21 14:33:50,122 INFO     carbon_tasks.regress_app_task -- running regress for test case: Dismiss Alert
+2022-02-21 14:33:50,123 INFO     carbon_tasks.regress_app_task -- steps required for test: 2
+2022-02-21 14:33:50,124 INFO     carbon_tasks.regress_app_task -- effective_max_steps: 2
+2022-02-21 14:33:50,125 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:33:50,126 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:33:50,126 INFO     carbon_explore.explore -- *                                                *
+2022-02-21 14:33:50,126 INFO     carbon_explore.explore -- *                   BRAIN                    *
+2022-02-21 14:33:50,127 INFO     carbon_explore.explore -- *                                                *
+2022-02-21 14:33:50,127 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:33:50,127 INFO     carbon_explore.explore -- **************************************************
+2022-02-21 14:33:50,129 INFO     carbon_initialization.initialization -- Random seed: 1645446766
+2022-02-21 14:33:50,135 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-21 14:33:50,135 INFO     carbon_initialization.initialization --                   PACKAGE: com.appilder.demo
+2022-02-21 14:33:50,135 INFO     carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2022-02-21 14:33:50,135 INFO     carbon_initialization.initialization -- platform: IOS
+2022-02-21 14:33:50,136 INFO     carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/builds/93e3f5db-eacb-4de5-b663-4a19970793f3/test_runs/20220221143246
+2022-02-21 14:33:50,137 INFO     carbon_botio.bot_io -- retrieving bot IO for app: f0ecd449-d018-491c-8f9e-3476ea1c5e94
+2022-02-21 14:33:50,137 INFO     carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2022-02-21 14:33:50,138 INFO     carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/botio.json
+2022-02-21 14:33:50,138 INFO     carbon_botio.bot_io -- use_snapshot: False
+2022-02-21 14:33:50,138 INFO     carbon_botio.bot_io -- no botIO found for app: f0ecd449-d018-491c-8f9e-3476ea1c5e94
+2022-02-21 14:33:50,138 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-21 14:33:50,139 INFO     carbon_dao.carbon_data -- loading models from LKG dir
+2022-02-21 14:33:56,417 INFO     carbon_automation.driver -- Screen density: 3.0
+2022-02-21 14:34:03,644 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:03,906 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-y9dllqb0.png
+2022-02-21 14:34:03,982 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:34:04,088 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:04,337 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-av_qdbal.png
+2022-02-21 14:34:04,409 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:34:04,409 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (2)
+2022-02-21 14:34:04,409 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:04,623 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-aooamvwq.png
+2022-02-21 14:34:04,861 INFO     carbon_explore.explore -- package is set to: com.appilder.demo
+2022-02-21 14:34:04,863 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:04,863 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:04,863 INFO     carbon_explore.explore -- * Beginning step: 0, Test completed: False, Total steps: 1
+2022-02-21 14:34:04,864 INFO     carbon_explore.explore -- * Description: Dismisses the Notifications iOS alert when app is opened
+2022-02-21 14:34:04,864 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:04,864 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:04,865 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-21 14:34:05,113 INFO     carbon_explore.explore -- Determining active labels.
+2022-02-21 14:34:05,114 INFO     carbon_explore.explore -- Determining active models.
+2022-02-21 14:34:05,114 INFO     carbon_explore.explore_utils -- Classifying elements on the screen
+2022-02-21 14:34:05,117 INFO     carbon_classifiers.textual.textual_classifier -- Loading TextualClassifier.
+2022-02-21 14:34:05,122 INFO     carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2022-02-21 14:34:05,129 INFO     carbon_classifiers.textual.textual_classifier -- Classifying screen with TextualClassifier.
+2022-02-21 14:34:05,131 INFO     carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.013649125000029017 seconds
+2022-02-21 14:34:05,131 INFO     carbon_explore.explore -- Completed getting labels for screen
+2022-02-21 14:34:05,195 INFO     carbon_explore.explore -- Gesture: execute_script
+2022-02-21 14:34:05,204 INFO     carbon_utils.carbon_order_66 -- test_script_folder: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/scripts/
+2022-02-21 14:34:05,204 INFO     carbon_utils.carbon_order_66 -- script_name: dismiss_alert.py
+2022-02-21 14:34:05,204 INFO     carbon_utils.carbon_order_66 -- test_script_path[:-3]: /Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/lkg/scripts/dismiss_alert
+2022-02-21 14:34:06,138 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels starting.
+2022-02-21 14:34:06,139 INFO     carbon_explore.explore_hook -- Explore hook -- apply_deferred_runtime_labels completed.
+2022-02-21 14:34:06,139 INFO     carbon_explore.explore -- DOM stability timing: pre
+2022-02-21 14:34:06,141 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:06,500 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-8j9lzgmu.png
+2022-02-21 14:34:06,595 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:34:06,701 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:07,064 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-92574sba.png
+2022-02-21 14:34:07,140 INFO     carbon_actions.carbon_actions -- Got new page source
+2022-02-21 14:34:07,140 INFO     carbon_actions.carbon_actions -- Seen the same screen the max amount (2)
+2022-02-21 14:34:07,140 INFO     carbon_explore.explore_utils -- Saving screenshot.
+2022-02-21 14:34:07,466 INFO     carbon_explore.explore_utils -- Screenshot file path: /var/folders/jq/c1bzpwz564x2_zpn7dlrjcym0000gn/T/tmp-screenshot-lmmy2ymb.png
+2022-02-21 14:34:08,157 INFO     carbon_explore.explore -- DOM stability timing: post
+2022-02-21 14:34:08,157 INFO     carbon_explore.explore -- Step: 0 complete
+2022-02-21 14:34:08,158 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:08,158 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:08,158 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: False, Total steps: 1
+2022-02-21 14:34:08,158 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:08,158 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:08,159 INFO     carbon_explore.explore_utils -- getting xml_src
+2022-02-21 14:34:08,853 INFO     carbon_explore.explore -- test completed
+2022-02-21 14:34:13,950 INFO     carbon_explore.explore -- Gesture: TEST_COMPLETE
+2022-02-21 14:34:13,950 INFO     carbon_explore.test_hooks -- Running on failure hooks.
+2022-02-21 14:34:13,951 INFO     carbon_explore.test_hooks -- Running teardown hooks.
+2022-02-21 14:34:13,952 INFO     carbon_explore.hooks -- Reporting single test result.
+2022-02-21 14:34:13,953 INFO     carbon_explore.test_hooks -- Running error detectors.
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- * Beginning step: 1, Test completed: True, Total steps: 1
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- ********************************************************************************
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- 
+2022-02-21 14:34:13,954 INFO     carbon_explore.explore -- Performing post-walk cleanup.
+2022-02-21 14:34:15,113 INFO     carbon_explore.explore -- Iteration completed: 1
+2022-02-21 14:34:16,038 INFO     carbon_explore.hooks -- Reporting full test run results.
+2022-02-21 14:34:16,060 INFO     carbon_dao.master_crawl_squash -- Squashing test run 20220221143246
+2022-02-21 14:34:16,152 INFO     carbon_dao.master_crawl_squash -- Squashed screen 3de0d628e8a175c72c7ffcec0fdad82e.
+2022-02-21 14:34:16,224 INFO     carbon_dao.master_crawl_squash -- Squashed screen d930bc6a68287254c97e8c9fe1f1a71b.
+2022-02-21 14:34:16,266 INFO     carbon_dao.master_crawl_squash -- Squashed screen b3e055f578e8afd1d3adc229e8ecc415.
+2022-02-21 14:34:16,301 INFO     carbon_dao.master_crawl_squash -- Squashed screen a6a3d400597e010df9af1c486a9cc65d.
+2022-02-21 14:34:16,330 INFO     carbon_dao.master_crawl_graph -- Extracting sequence data from test run 20220221143246
+2022-02-21 14:34:16,688 INFO     carbon_graph.q_learning -- Deleted existing Q-matrices.
+2022-02-21 14:34:16,691 INFO     carbon_utils.file_logger -- Removing log file handler.
+2022-02-21 14:34:16,691 INFO     carbon_tasks.regress_app_task -- Removing threaded log file handler for test run.
