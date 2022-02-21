@@ -1,5 +1,5 @@
 {
-    "Share Data - UI File Rest API": {
+    "Find and Use Element Properties": {
         "description": "",
         "is_deactivated": false,
         "steps": [
@@ -13,60 +13,20 @@
                 "labels": [
                     "lnk_dynamic"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "Set csv file path as a variable csv_file. Type it out into input field.",
-                "grep": "",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "share_file_set.py",
-                "stepIsOpen": false,
-                "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "Click dynamic to refresh and call api and save as api_data variable",
-                "grep": "",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "share_rest_api_set.py",
-                "stepIsOpen": false,
-                "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "Click dynamic to refresh and save find element dynamic as btn_text ",
-                "grep": "",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "share_application_set.py",
-                "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
                 "description": "",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "share_ui_file_rest_retrieve.py",
+                "script_name": "find_use_element_properties.py",
                 "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
@@ -74,48 +34,98 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
-                "grep": "",
+                "description": "Verify X value. This could be different on different resolutions, so making it generic now.",
+                "grep": "The X Value is",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "share_file_reset.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "The Y Value is",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "verify tag name",
+                "grep": "button",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "verify text",
+                "grep": "The text is Change",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify an attribute",
+                "grep": "btn-primary",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify flag attribute",
+                "grep": "The flag attributes are ",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify flag enabled equals true.",
+                "grep": "'enabled': true,",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
                 "stepIsOpen": true,
                 "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "",
-                "grep": "",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "share_application_reset.py",
-                "stepIsOpen": true,
-                "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "",
-                "grep": "",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "share_rest_api_reset.py",
-                "timeout": null,
-                "type": "execute_script",
+                "type": "verification",
                 "widget": ""
             }
         ],
         "tags": [],
-        "temp_id": "d61b3e86-902f-11ec-96f9-149d997fd38b",
-        "title": "Share Data - UI File Rest API"
+        "temp_id": "6e00a842-9334-11ec-afce-149d997fd38b",
+        "title": "Find and Use Element Properties"
     }
 }
