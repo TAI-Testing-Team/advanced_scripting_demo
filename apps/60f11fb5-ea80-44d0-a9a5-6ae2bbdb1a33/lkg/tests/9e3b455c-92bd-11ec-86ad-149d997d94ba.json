@@ -1,0 +1,44 @@
+{
+    "Test Hooks - Resize Browser - On Before Retry": {
+        "description": "",
+        "is_deactivated": false,
+        "on_before_retry": [
+            "resize_browser.py"
+        ],
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "btn_button"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_button"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "9e3b455c-92bd-11ec-86ad-149d997d94ba",
+        "title": "Test Hooks - Resize Browser - On Before Retry"
+    }
+}

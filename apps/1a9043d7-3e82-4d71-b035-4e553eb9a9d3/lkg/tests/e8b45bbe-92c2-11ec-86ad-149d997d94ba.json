@@ -1,0 +1,40 @@
+{
+    "Before Each Explore Step": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "collapsed": true,
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "tle_shop_men"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "run_before_each_explore_step.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "run_before_each_explore_step.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "e8b45bbe-92c2-11ec-86ad-149d997d94ba",
+        "title": "Before Each Explore Step"
+    }
+}

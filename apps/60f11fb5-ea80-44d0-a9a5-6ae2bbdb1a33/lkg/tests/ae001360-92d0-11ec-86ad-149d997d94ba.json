@@ -1,6 +1,6 @@
 {
-    "Run Explore": {
-        "description": "Uses script to launch explore mode at end of test",
+    "Data Generators": {
+        "description": "",
         "is_deactivated": false,
         "steps": [
             {
@@ -11,7 +11,7 @@
                 "input": "tap",
                 "label_count": null,
                 "labels": [
-                    "icn_menu"
+                    "lnk_basic_gestures"
                 ],
                 "stepIsOpen": false,
                 "timeout": null,
@@ -21,12 +21,12 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "custom_swipe_on_coordinates.py",
+                "grep": "generate_ssn.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "custom_swipe_on_coordinates.py",
+                "script_name": "generate_ssn.py",
                 "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
@@ -39,47 +39,29 @@
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
-                "labels": [
-                    "scrn_home"
-                ],
+                "labels": [],
+                "script_name": "generate_email.py",
                 "stepIsOpen": false,
                 "timeout": null,
-                "type": "verification",
-                "widget": ""
-            },
-            {
-                "collapsed": true,
-                "continue_on_failure": false,
-                "description": "",
-                "grep": "",
-                "grep_count": null,
-                "input": "tap",
-                "label_count": null,
-                "labels": [
-                    "tle_shop_men"
-                ],
-                "stepIsOpen": false,
-                "timeout": null,
-                "type": "action",
+                "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "run_explore.py",
+                "grep": "generate_phone_num.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "run_explore.py",
-                "stepIsOpen": false,
+                "script_name": "generate_phone_num.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             }
         ],
         "tags": [],
-        "temp_id": "827bb16a-9021-11ec-8362-149d997d94ba",
-        "title": "Run Explore"
+        "temp_id": "ae001360-92d0-11ec-86ad-149d997d94ba",
+        "title": "Data Generators"
     }
 }

@@ -1,0 +1,66 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "button",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "oiMIlD3lV8NpltUxI+u/WA==\n",
+    "height": 38,
+    "hier_level": 0,
+    "human_hash": "button_X426_Y281_W126_H38",
+    "human_readable": "button_426_281_126_38_button_800100000000000000002a527fde7ffe7ffe7ffe3f7c00000000000000008001_2c39e6782539d2dbf502f24edb12d531",
+    "image_path": "Y2RhNGI3ZmY4OGVlMDU4NGI1NzBhNThmMGFhZTQ0MDg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn btn-primary",
+                "data-target": "#labelModal",
+                "data-toggle": "modal",
+                "id": "waitmodal",
+                "type": "button"
+            },
+            "backend_node_id": 1698,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 38.0,
+            "key": "426_281_126_38_Wait for Label",
+            "tagName": "button",
+            "text": "Wait for Label",
+            "width": 126.0,
+            "x": 426.0,
+            "y": 281.0
+        },
+        "location": {
+            "x": 426.0,
+            "y": 281.0
+        },
+        "size": {
+            "height": 38.0,
+            "width": 126.0
+        },
+        "tag_name": "button",
+        "text": "Wait for Label"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "079e403ebe9d866c0b89942b7120ce9f",
+    "scrollable": false,
+    "tag_name": "button",
+    "text": "Wait for Label",
+    "transformed": true,
+    "width": 126,
+    "x": 426,
+    "y": 281
+}
