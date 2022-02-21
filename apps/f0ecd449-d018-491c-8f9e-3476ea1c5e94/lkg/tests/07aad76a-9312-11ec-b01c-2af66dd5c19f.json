@@ -1,0 +1,24 @@
+{
+    "Accept Alert": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "Accepts the Notifications iOS alert when app is opened",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "accept_alert.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "07aad76a-9312-11ec-b01c-2af66dd5c19f",
+        "title": "Accept Alert"
+    }
+}
