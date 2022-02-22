@@ -1,0 +1,39 @@
+{
+    "Preconditions / Postconditions": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_conditions"
+                ],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "preconditions.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "3091a280-93e9-11ec-b0e4-2af66dd5c1a0",
+        "title": "Preconditions / Postconditions"
+    }
+}
