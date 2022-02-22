@@ -27,20 +27,3 @@ apps/*/lkg/data/labeler_objects.json
 apps/*/lkg/data/unique_tags.json
 apps/*/lkg/data/suggested_labels/**/*
 apps/*/lkg/data/unlabeled_elems/**/*
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-node_modules
-
-# Test.ai
-install_logs.log
-build_db.json
-config.json
-walkthrough.json
-/config
