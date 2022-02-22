@@ -12,6 +12,21 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "run_explore_bot_constraints.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "verify_explore_constraints_e.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "verify_explore_constraints_e.py",
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
