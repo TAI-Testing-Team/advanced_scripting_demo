@@ -13,6 +13,7 @@
                 "labels": [
                     "lnk_dynamic"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
@@ -47,15 +48,32 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "Click dynamic to refresh and save find element dynamic as btn_text ",
+                "description": "",
                 "grep": "",
                 "grep_count": null,
-                "input": "",
+                "input": "tap",
                 "label_count": null,
-                "labels": [],
-                "script_name": "share_application_set.py",
+                "labels": [
+                    "btn_change"
+                ],
+                "stepIsOpen": false,
                 "timeout": null,
-                "type": "execute_script",
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_confirm"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
                 "widget": ""
             },
             {
@@ -66,8 +84,62 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "share_ui_file_rest_retrieve.py",
+                "script_name": "share_application_set.py",
                 "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify the dynamic flag when button text has changed.",
+                "dynamic_element": false,
+                "grep": "Accept",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "share_application_set.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify button text is now change",
+                "grep": "Change",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Retrieve data from previous steps and verify in the script.",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "share_ui_file_rest_retrieve.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -81,7 +153,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_file_reset.py",
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -95,7 +167,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_application_reset.py",
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -109,6 +181,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_rest_api_reset.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
