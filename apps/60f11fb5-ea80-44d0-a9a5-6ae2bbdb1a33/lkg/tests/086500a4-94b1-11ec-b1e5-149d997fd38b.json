@@ -1,0 +1,25 @@
+{
+    "Execute Steps Fast": {
+        "description": "",
+        "is_deactivated": true,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "execute_steps_fast.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "086500a4-94b1-11ec-b1e5-149d997fd38b",
+        "title": "Execute Steps Fast"
+    }
+}
