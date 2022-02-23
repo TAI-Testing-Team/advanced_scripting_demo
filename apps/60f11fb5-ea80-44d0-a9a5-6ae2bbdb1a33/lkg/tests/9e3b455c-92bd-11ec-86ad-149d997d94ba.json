@@ -1,7 +1,7 @@
 {
     "Test Hooks - Resize Browser - On Before Retry": {
         "description": "",
-        "is_deactivated": false,
+        "is_deactivated": true,
         "on_before_retry": [
             "resize_browser.py"
         ],

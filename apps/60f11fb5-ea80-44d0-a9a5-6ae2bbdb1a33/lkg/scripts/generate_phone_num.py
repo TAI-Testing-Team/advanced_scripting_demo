@@ -16,22 +16,23 @@ random.seed(time.perf_counter())
 
 def run(context):
     # gather info
-    us_area_code_cities = context.get_file_path("~/test_ai/apps/60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33/lkg/scripts/us-area-code-cities.csv`")
+    us_area_code_cities = context.get_file_path("us-area-code-cities.csv")
+    
     # find a valid area code
     with open(us_area_code_cities) as f:
     	reader = csv.reader(f)
     	data = [row[col] for row in reader]
     
     # generate valid phone number and take action
-    if element_exists(context, 'inp_phone_number'):
+    if element_exists(context, 'inp_text_entry'):
         random_area_code = random.choice(data)
         random_exchange = random.randint(200, 999)
         random_number = random.randint(1, 9999)
         random_phone_number = '{0}{1:03d}{2:04d}'.format(random_area_code, random_exchange, random_number)
         context.perform_gesture('text_entry_no_submit', 'inp_text_entry', random_phone_number)
-        #context.verify(grep=random_phone_number)
-        #context.perform_gesture('tap', 'btn_submit')
-
+        context.verify(labels=["random_phone_number"])
+        context.perform_gesture('tap', 'btn_submit')
+        
 def element_exists(context, label):
     labels_per_elem = context.find_elements_with_label(label)
     return labels_per_elem and len(labels_per_elem.keys()) > 0

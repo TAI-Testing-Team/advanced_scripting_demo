@@ -1,7 +1,7 @@
 {
     "Run Explore - Bot Constraints": {
         "description": "Uses script to launch explore mode at end of test",
-        "is_deactivated": false,
+        "is_deactivated": true,
         "steps": [
             {
                 "continue_on_failure": false,
