@@ -1,0 +1,543 @@
+[
+    {
+        "hash": "716715cdce13046c7c0b473ab56daa2d"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "aoaPz1WX50GL1qNDiaG5Gg==\n",
+                "height": 40,
+                "hier_level": 0,
+                "human_hash": "a_X482_Y8_W125_H40",
+                "human_readable": "a_482_8_125_40_a_0000000000000000000049006bee7ffe7ffe7ffe7ffe00000000000000000000_8696dcb9da2c2189653ede03c73c8390",
+                "img_hash": "57f6c64dd0cf98208efa7391e7323c7f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "nav-link",
+                            "href": "gestures.html"
+                        },
+                        "backend_node_id": 49,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 40.0,
+                        "key": "482_8_125_40_Basic Gestures",
+                        "tagName": "a",
+                        "text": "Basic Gestures",
+                        "width": 125.0,
+                        "x": 482.0,
+                        "y": 8.0
+                    },
+                    "location": {
+                        "x": 482.0,
+                        "y": 8.0
+                    },
+                    "size": {
+                        "height": 40.0,
+                        "width": 125.0
+                    },
+                    "tag_name": "a",
+                    "text": "Basic Gestures"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000000000fffffc3ffc3fffffffffffffffffffffffffffffffffffffffff",
+                "resource-id": "",
+                "screen_hash": "716715cdce13046c7c0b473ab56daa2d",
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Basic Gestures",
+                "text_hash": "8696dcb9da2c2189653ede03c73c8390",
+                "transformed": true,
+                "width": 125,
+                "x": 482,
+                "y": 8
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NTExYzlhNjEyY2I1ZTBjYjZiZjUxMmVkZWNkNDIwNzU"
+    },
+    {
+        "hash": "d7f8efaf12d88806d529ef8a70551459"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "N8gjQGDnXL3MfmoBhF6qMQ==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X426_Y535_W712_H38",
+                "human_readable": "input_426_535_712_38_input_0000ffffffffffffffff3fff1fff1fff1fff1fff1fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f541fd99755d2cc72d83d6d93159566d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control col-md-8",
+                            "id": "input-submit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "backend_node_id": 402,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "426_535_712_38_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 712.0,
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 712.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "d7f8efaf12d88806d529ef8a70551459",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 712,
+                "x": 426,
+                "y": 535
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "532125424"
+        },
+        "elem_hash": "ZjhjYjJhZDBhZDc4Njc5ZmRkZjRkZDkzNzU1NTFjNjU"
+    },
+    {
+        "hash": "c71e476a5d08a291892768fc64d4b461"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "4ZmVkVbRDc6eLgvKAUOiCA==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X1154_Y535_W77_H38",
+                "human_readable": "button_1154_535_77_38_button_800100000000000000001b183b7c3ffc1ff83ffc1ffc00000000000000008001_f8b4e77d828248aa75aaad2a5e4a0d68",
+                "img_hash": "fd341419bdf11830cf51e8d19f507716",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-md btn-primary ml-3"
+                        },
+                        "backend_node_id": 404,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "1154_535_77_38_Submit",
+                        "tagName": "button",
+                        "text": "Submit",
+                        "width": 77.0,
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 77.0
+                    },
+                    "tag_name": "button",
+                    "text": "Submit"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "c71e476a5d08a291892768fc64d4b461",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Submit",
+                "text_hash": "f8b4e77d828248aa75aaad2a5e4a0d68",
+                "transformed": true,
+                "width": 77,
+                "x": 1154,
+                "y": 535
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "M2MxMjVhYzkxNDA5NDZjMzFlNmQ1MGFmYTc1NDQxODc"
+    },
+    {
+        "hash": "d7f8efaf12d88806d529ef8a70551459"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "N8gjQGDnXL3MfmoBhF6qMQ==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X426_Y535_W712_H38",
+                "human_readable": "input_426_535_712_38_input_0000ffffffffffffffff3fff1fff1fff1fff1fff1fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f541fd99755d2cc72d83d6d93159566d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control col-md-8",
+                            "id": "input-submit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "backend_node_id": 710,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "426_535_712_38_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 712.0,
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 712.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "d7f8efaf12d88806d529ef8a70551459",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 712,
+                "x": 426,
+                "y": 535
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "3307386006"
+        },
+        "elem_hash": "ZjhjYjJhZDBhZDc4Njc5ZmRkZjRkZDkzNzU1NTFjNjU"
+    },
+    {
+        "hash": "af85eb844c61ee2c0a785274b53049f9"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "4ZmVkVbRDc6eLgvKAUOiCA==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X1154_Y535_W77_H38",
+                "human_readable": "button_1154_535_77_38_button_800100000000000000001b183b7c3ffc1ff83ffc1ffc00000000000000008001_f8b4e77d828248aa75aaad2a5e4a0d68",
+                "img_hash": "fd341419bdf11830cf51e8d19f507716",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-md btn-primary ml-3"
+                        },
+                        "backend_node_id": 712,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "1154_535_77_38_Submit",
+                        "tagName": "button",
+                        "text": "Submit",
+                        "width": 77.0,
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 77.0
+                    },
+                    "tag_name": "button",
+                    "text": "Submit"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "af85eb844c61ee2c0a785274b53049f9",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Submit",
+                "text_hash": "f8b4e77d828248aa75aaad2a5e4a0d68",
+                "transformed": true,
+                "width": 77,
+                "x": 1154,
+                "y": 535
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "M2MxMjVhYzkxNDA5NDZjMzFlNmQ1MGFmYTc1NDQxODc"
+    },
+    {
+        "hash": "d7f8efaf12d88806d529ef8a70551459"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "N8gjQGDnXL3MfmoBhF6qMQ==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "input_X426_Y535_W712_H38",
+                "human_readable": "input_426_535_712_38_input_0000ffffffffffffffff3fff1fff1fff1fff1fff1fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "img_hash": "f541fd99755d2cc72d83d6d93159566d",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "form-control col-md-8",
+                            "id": "input-submit",
+                            "placeholder": "Enter Text Here",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "backend_node_id": 1018,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "426_535_712_38_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 712.0,
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 426.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 712.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "d7f8efaf12d88806d529ef8a70551459",
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "text_hash": "9d4568c009d203ab10e33ea9953a0264",
+                "transformed": true,
+                "width": 712,
+                "x": 426,
+                "y": 535
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "testai-20220224-095222@gmail.com"
+        },
+        "elem_hash": "ZjhjYjJhZDBhZDc4Njc5ZmRkZjRkZDkzNzU1NTFjNjU"
+    },
+    {
+        "hash": "8160901209d7df755c216b08e658b02e"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "4ZmVkVbRDc6eLgvKAUOiCA==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "button_X1154_Y535_W77_H38",
+                "human_readable": "button_1154_535_77_38_button_800100000000000000001b183b7c3ffc1ff83ffc1ffc00000000000000008001_f8b4e77d828248aa75aaad2a5e4a0d68",
+                "img_hash": "fd341419bdf11830cf51e8d19f507716",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "btn btn-md btn-primary ml-3"
+                        },
+                        "backend_node_id": 1020,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "1154_535_77_38_Submit",
+                        "tagName": "button",
+                        "text": "Submit",
+                        "width": 77.0,
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "location": {
+                        "x": 1154.0,
+                        "y": 535.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 77.0
+                    },
+                    "tag_name": "button",
+                    "text": "Submit"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "000000001c00ffffffffefffe7ffffffffffffffffbffffff00ffffffffff3ff",
+                "resource-id": "",
+                "screen_hash": "8160901209d7df755c216b08e658b02e",
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Submit",
+                "text_hash": "f8b4e77d828248aa75aaad2a5e4a0d68",
+                "transformed": true,
+                "width": 77,
+                "x": 1154,
+                "y": 535
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "M2MxMjVhYzkxNDA5NDZjMzFlNmQ1MGFmYTc1NDQxODc"
+    },
+    {
+        "hash": "d7f8efaf12d88806d529ef8a70551459"
+    }
+]
