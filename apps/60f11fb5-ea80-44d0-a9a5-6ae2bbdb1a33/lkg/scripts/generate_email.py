@@ -20,5 +20,5 @@ os.environ["unique_email"] = "testai-" + username1 + "@gmail.com"
 
 def run(context):
     context.perform_gesture('text_entry_no_submit', 'inp_text_entry', grep= os.environ.get("unique_email"))
-    context.verify(os.environ["unique_email"])
+    context.verify(grep=os.environ["unique_email"])
     context.perform_gesture('tap', 'btn_submit')

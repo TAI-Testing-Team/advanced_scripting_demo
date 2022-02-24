@@ -21,13 +21,12 @@
             {
                 "continue_on_failure": false,
                 "description": "Run script  with dynamic=False that checks if \"btn_change\" is on screen and  will type \"Element exists on screen.\"",
-                "grep": "",
+                "grep": "element_exists.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "element_exists.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

@@ -1,7 +1,7 @@
 {
     "Run Explore - Bot Constraints": {
         "description": "",
-        "is_deactivated": true,
+        "is_deactivated": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -12,7 +12,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "run_explore_bot_constraints.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

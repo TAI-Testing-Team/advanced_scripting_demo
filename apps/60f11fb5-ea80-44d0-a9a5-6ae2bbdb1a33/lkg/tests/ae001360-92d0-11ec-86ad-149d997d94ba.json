@@ -27,20 +27,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "generate_ssn.py",
-                "stepIsOpen": true,
-                "timeout": null,
-                "type": "execute_script",
-                "widget": ""
-            },
-            {
-                "continue_on_failure": false,
-                "description": "",
-                "grep": "generate_email.py",
-                "grep_count": null,
-                "input": "",
-                "label_count": null,
-                "labels": [],
-                "script_name": "generate_email.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -54,6 +41,20 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "generate_phone_num.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "generate_email.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "generate_email.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
