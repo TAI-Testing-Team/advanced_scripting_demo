@@ -30,7 +30,7 @@ def run(context):
         random_number = random.randint(1, 9999)
         random_phone_number = '{0}{1:03d}{2:04d}'.format(random_area_code, random_exchange, random_number)
         context.perform_gesture('text_entry_no_submit', 'inp_text_entry', random_phone_number)
-        context.verify(labels=["random_phone_number"])
+        context.verify(grep=random_phone_number)
         context.perform_gesture('tap', 'btn_submit')
         
 def element_exists(context, label):

@@ -1,24 +1,8 @@
 {
     "Before Each Explore Step": {
         "description": "",
-        "is_deactivated": true,
+        "is_deactivated": false,
         "steps": [
-            {
-                "collapsed": true,
-                "continue_on_failure": false,
-                "description": "",
-                "grep": "",
-                "grep_count": null,
-                "input": "tap",
-                "label_count": null,
-                "labels": [
-                    "tle_shop_men"
-                ],
-                "stepIsOpen": false,
-                "timeout": null,
-                "type": "action",
-                "widget": ""
-            },
             {
                 "continue_on_failure": false,
                 "description": "",
