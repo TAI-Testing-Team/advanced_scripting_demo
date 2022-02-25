@@ -11,7 +11,7 @@
                 "input": "swipe_up",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
@@ -25,8 +25,23 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "find_element_info.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_no_thanks"
+                ],
+                "timeout": null,
+                "type": "action",
                 "widget": ""
             }
         ],
