@@ -1,7 +1,7 @@
 {
     "Preconditions / Postconditions": {
         "description": "",
-        "is_deactivated": true,
+        "is_deactivated": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -21,7 +21,7 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
+                "grep": "preconditions.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
