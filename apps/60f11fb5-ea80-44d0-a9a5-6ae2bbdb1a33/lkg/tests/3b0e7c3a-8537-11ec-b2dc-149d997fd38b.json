@@ -348,6 +348,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "driver_insert_file.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -360,7 +361,7 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -381,7 +382,21 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "Expands browser.",
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "btn_hamburger_menu_200_300"
+                ],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Expands browser to default size ",
                 "grep": "driver_expand_browser.py",
                 "grep_count": null,
                 "input": "",

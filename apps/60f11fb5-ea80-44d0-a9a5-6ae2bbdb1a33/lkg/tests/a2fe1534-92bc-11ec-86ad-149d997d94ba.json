@@ -3,7 +3,7 @@
         "description": "",
         "is_deactivated": true,
         "on_after_launch": [
-            "resize_browser.py"
+            "resize_and_verify.py"
         ],
         "steps": [
             {
@@ -31,6 +31,7 @@
                 "labels": [
                     "btn_button"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -45,7 +46,7 @@
                 "labels": [
                     "btn_button"
                 ],
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
