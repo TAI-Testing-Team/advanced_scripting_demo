@@ -97,7 +97,7 @@ def run(context):
     time.sleep(0)
     
     # click btn_one_time
-    driver.session.execute_command('ClickCommand', [{
+    driver.session.execute_command('DoubleClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(1329, 301)
             }])
