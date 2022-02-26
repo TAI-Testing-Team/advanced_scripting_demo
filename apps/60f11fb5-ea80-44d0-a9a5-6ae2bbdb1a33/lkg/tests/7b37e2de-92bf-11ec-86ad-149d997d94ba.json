@@ -1,7 +1,7 @@
 {
-    "Before Each Explore Step": {
+    "Run Before Each Explore Step": {
         "description": "",
-        "is_deactivated": true,
+        "is_deactivated": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -15,10 +15,24 @@
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "verify_run_before_each_explore.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "verify_run_before_each_explore.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
             }
         ],
         "tags": [],
         "temp_id": "7b37e2de-92bf-11ec-86ad-149d997d94ba",
-        "title": "Before Each Explore Step"
+        "title": "Run Before Each Explore Step"
     }
 }

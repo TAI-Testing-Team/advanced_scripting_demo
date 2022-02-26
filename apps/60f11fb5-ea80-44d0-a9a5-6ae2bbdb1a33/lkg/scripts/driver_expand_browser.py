@@ -10,12 +10,5 @@ import time
 log = logging.getLogger(__name__)
 
 def run(context):
-    driver = context.get_driver()
-    d = driver.get_window_size()
-    width = d['width']
-    height = d['height']
-    new_width = int(1.5 * float(width))
-    new_height = height
-    driver.set_window_size(new_width, new_height)
-    driver.get('http://blogen-inc.surge.sh/dynamic.html')
-    context.get_all_elements()
+	driver=context.get_driver()
+	driver.execute_command('ResizeCommand', [1920, 1080])
