@@ -1,0 +1,79 @@
+{
+    "External Script Library and Organization": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "script_organization_mytest.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "myscript_organized",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "callexternal.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "external script libraries",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "af30ef4a-a3d6-11ec-8c80-149d997fd38b",
+        "title": "External Script Library and Organization"
+    }
+}
