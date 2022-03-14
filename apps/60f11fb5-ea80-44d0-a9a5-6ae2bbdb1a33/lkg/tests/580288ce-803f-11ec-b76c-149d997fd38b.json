@@ -286,12 +286,12 @@
             {
                 "continue_on_failure": false,
                 "description": "Verify first element info",
-                "grep": "X1191_Y543_W250_H46",
+                "grep": "btn_change",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -299,12 +299,12 @@
             {
                 "continue_on_failure": false,
                 "description": "Verify second element info",
-                "grep": "X835_Y543_W250_H46",
+                "grep": "btn_confirm",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -312,12 +312,11 @@
             {
                 "continue_on_failure": false,
                 "description": "Verify third element info",
-                "grep": "X479_Y543_W250_H46",
+                "grep": "btn_change",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
