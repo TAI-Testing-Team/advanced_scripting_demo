@@ -6,5 +6,8 @@
     "platform": "web",
     "rehash_reasons": [
         "py3"
-    ]
+    ],
+    "external_script_libraries": [
+        ["test_ai", "my_test_script_lib"]
+    ] 
 }
