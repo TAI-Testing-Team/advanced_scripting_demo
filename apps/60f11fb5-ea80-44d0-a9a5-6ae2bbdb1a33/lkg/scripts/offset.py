@@ -11,7 +11,7 @@ def run(context):
     context.perform_gesture('tap', 'btn_offset', additional_params={'offset': {'x': 20, 'y': 50}}) 
 
 
-    # OLD CODE FROM OLD TRIES - Delete if you want - Alex
+    # OLD CODE FROM OLD TRIES for reference
 
     # log.info('=================================offset=================')
     # log.info('button cx is '+ str(btn_offset_cx))

@@ -6,7 +6,74 @@ log = logging.getLogger(__name__)
 
 def run(context):
     
-    driver = context.get_driver()
+    driver = context.get_driver()  
+        # click btn_first
+    first = context.find_element('btn_first') 
+    first_x = first.get('x')
+    first_y = first.get('y')
+    first_w = first.get('width')
+    first_h = first.get('height')
+    first_cx = first_x + (first_w / 2)
+    first_cy = first_y + (first_h / 2)
+    log.info('====================output first button info====================')
+    log.info(first_cx)
+    log.info(first_cy)
+    driver.session.execute_command('ClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(590, 301)
+            }])
+    time.sleep(0)
+        # click btn_second
+    driver.session.execute_command('ClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(960, 301)
+            }])
+    time.sleep(0)    
+    # click btn_one_time
+    driver.session.execute_command('DoubleClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(1329, 301)
+            }])
+    time.sleep(0)
+
+    driver.session.execute_command('ClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(496, 511)
+            }])
+    time.sleep(1)
+
+
+
+
+    # close = context.find_element('icn_close') 
+    # close_x = close.get('x')
+    # close_y = close.get('y')
+    # close_w = close.get('width')
+    # close_h = close.get('height')
+    # close_cx = close_x + (close_w / 2)
+    # close_cy = close_y + (close_h / 2)
+
+    # log.info('====================output close modal info====================')
+    # log.info(close_cx)
+    # log.info(close_cy)
+
+    driver.session.execute_command('ClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(1185, 57)
+            }])
+    time.sleep(1)
+
+    driver.session.execute_command('ClickCommand', [{
+                'type': 'coordinates',
+                'value': '{},{},SCREENSHOT'.format(564, 607)
+            }])
+    time.sleep(1)
+    context.get_all_elements()
+    log.info('===========================verifying================')
+    # context.verify(labels=["btn_disappear_tapped"])
+
+
+    #Necessary code for debugging
     # first = context.find_element('btn_first') 
     # first_x = first.get('x')
     # first_y = first.get('y')
@@ -30,10 +97,6 @@ def run(context):
     # third_h = third.get('height')
     # third_cx = third_x + (third_w / 2)
     # third_cy = third_y + (third_h / 2)
-
-
-
-
 
     # input_text = context.find_element('inp_text') 
     # input_text_x = input_text.get('x')
@@ -80,75 +143,3 @@ def run(context):
     # log.info(disappear_cx)
     # log.info(disappear_cy)
 
-        
-
-        # click btn_one_time
-    driver.session.execute_command('ClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(590, 301)
-            }])
-    time.sleep(0)
-
-        # click btn_one_time
-    driver.session.execute_command('ClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(960, 301)
-            }])
-    time.sleep(0)
-    
-    # click btn_one_time
-    driver.session.execute_command('DoubleClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(1329, 301)
-            }])
-    time.sleep(0)
-
-
-    driver.session.execute_command('ClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(496, 511)
-            }])
-    time.sleep(1)
-
-
-
-
-    # close = context.find_element('icn_close') 
-    # close_x = close.get('x')
-    # close_y = close.get('y')
-    # close_w = close.get('width')
-    # close_h = close.get('height')
-    # close_cx = close_x + (close_w / 2)
-    # close_cy = close_y + (close_h / 2)
-
-    # log.info('====================output close modal info====================')
-    # log.info(close_cx)
-    # log.info(close_cy)
-
-    driver.session.execute_command('ClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(1185, 57)
-            }])
-    time.sleep(1)
-
-    driver.session.execute_command('ClickCommand', [{
-                'type': 'coordinates',
-                'value': '{},{},SCREENSHOT'.format(564, 607)
-            }])
-    time.sleep(1)
-    context.get_all_elements()
-    log.info('===========================verifying================')
-    # context.verify(labels=["btn_disappear_tapped"])
-    # # double click btn_keypad_5
-    # driver.session.execute_command('DoubleClickCommand', [{
-    #             'type': 'coordinates',
-    #             'value': '{},{},SCREENSHOT'.format(close_cx, close_cy)
-    #         }])
-    # time.sleep(2)
-    
-#     driver.session.execute_command('TextEntryCommand', [{
-#             'type': 'coordinates',
-#             'value': '{},{},SCREENSHOT'.format(input_text_cx, input_text_cy),
-#             'grep': 'hello'
-#         }])
-# time.sleep(0)

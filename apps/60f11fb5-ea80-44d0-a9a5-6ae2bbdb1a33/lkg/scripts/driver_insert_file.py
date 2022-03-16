@@ -1,9 +1,5 @@
-'''
-This script browses to a file and select it.
-Useful for file upload fields.
-This example is for a csv file but can be modified for any file type.
-Replace <your csv file path or name> with the path to the appropriate file, or the file name if the file is in the same directory as this script file.
-'''
+#This script is still marked yellow. Still need to update this script to match the docs, but we need a way to upload a file. Right now it just saves the csv file as a variable and calls it.
+
 
 import logging
 import time

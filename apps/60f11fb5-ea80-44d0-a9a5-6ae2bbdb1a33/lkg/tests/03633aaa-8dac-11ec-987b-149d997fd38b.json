@@ -1,7 +1,7 @@
 {
     "call api": {
-        "description": "",
-        "is_deactivated": true,
+        "description": "Call our api dashboard and type info into input field",
+        "is_deactivated": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -35,15 +35,13 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
+                "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "call_api_javascript.py",
-                "stepIsOpen": false,
                 "timeout": null,
-                "type": "execute_script",
+                "type": "verification",
                 "widget": ""
             }
         ],

@@ -28,7 +28,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_across_test_two.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -70,8 +70,21 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_across_test_reset.py",
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "passwordchange",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "verification",
                 "widget": ""
             }
         ],
