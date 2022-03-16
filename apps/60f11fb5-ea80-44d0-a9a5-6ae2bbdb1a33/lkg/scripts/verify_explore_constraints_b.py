@@ -3,7 +3,6 @@ log = logging.getLogger(__name__)
 import os
 
 def run(context):
-    #verified=context.verify(grep="Please Select One")
     home_screen = context.element_exists("txt_please_select_test_start")
     basic_gestures = context.element_exists("btn_double_tap")
     find_element = context.element_exists("inp_slider")
@@ -12,10 +11,6 @@ def run(context):
     tap_parameterization = context.element_exists("btn_tap_one")
     input_parameterization = context.element_exists("btn_sign_in")
     dynamic = context.element_exists("btn_next")
-    log.info("=======================Verified=========================")
-    #log.info(element)
-    log.info("=======================Verified=========================")
-    #if verified == True: 
     
     if home_screen==True or basic_gestures==True or find_element==True or verify_screen==True or wait_for_label==True or tap_parameterization==True or input_parameterization==True or dynamic==True:   
         context.perform_gesture('tap', 'lnk_find_element')
