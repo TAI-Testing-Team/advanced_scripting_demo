@@ -27,7 +27,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "custom_swipe_on_coordinates.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -72,7 +72,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "custom_swipe_until_green_hoodie.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -101,7 +101,6 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "custom_swipe_up.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

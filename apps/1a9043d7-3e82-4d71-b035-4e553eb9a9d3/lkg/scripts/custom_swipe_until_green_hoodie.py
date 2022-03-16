@@ -1,18 +1,9 @@
-'''
-This script swipes up until a label is found for a default max of 10 swipes, modify the max as needed.
-Replace the 4 labeled_element and 3 img_green_hoodie with appropriate values.
-Set the start_x, start_y, end_x, end_y values as needed.
-The duration is how long the swipe will take from the start to the end point, larger number is a slower swipe.
-'''
-
 import logging
 import time
 import os
 
 log = logging.getLogger(__name__)
-
 MAX_SWIPES = 10
-
 
 def run(context):
     labeled_element = False
