@@ -12,14 +12,11 @@ def run(context):
     driver = context.get_driver()
     i = 1
     while i < 3:   
-        context.get_driver().session.execute_command('SendKeysCommand', [u'\ue004'])
+        driver.session.execute_command('SendKeysCommand', [u'\ue004'])
         i+= 1
+    #Tap @ character
+    driver.session.execute_command('SendKeysCommand', ['\u0040'])
     
-    context.get_driver().session.execute_command('SendKeysCommand', ['\u0040'])
-    context.get_driver().session.execute_command('SendKeysCommand', [u'\ue004'])
-    context.get_driver().session.execute_command('SendKeysCommand', ['\u0041'])
-    # context.get_driver().session.execute_command('SendKeysCommand', [u'\ue004'])
-    # context.get_driver().session.execute_command('SendKeysCommand', ['\u0039'])
-    # context.get_driver().session.execute_command('SendKeysCommand', [u'\ue006'])
+
 
     context.get_all_elements()

@@ -1,6 +1,5 @@
 import logging
 from csv import DictReader
-import requests
 import json
 
 log = logging.getLogger(__name__)

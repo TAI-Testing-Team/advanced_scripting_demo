@@ -1,6 +1,5 @@
 import logging
 from csv import DictReader
-import requests
 import json
 
 log = logging.getLogger(__name__)
@@ -21,9 +20,10 @@ def run(context):
             csv_data.append(row)
     string = json.dumps(csv_data)
 
-    log.info('=============================csv========================')
-    log.info(string)
-    log.info('=============================csv========================')
+    # log.info('=============================csv========================')
+    # log.info(string)
+    # log.info('=============================csv========================')
+
 # 2: access context datastore and add data for use in subsequent test steps:
 
     # access the internal test case datastore (part of the `context` object)

@@ -8,15 +8,12 @@ Change <YOUR_LABEL_NAME> to the label name used in the test.ai GUI, either a sta
 '''
 
 import logging
-import time
-import json
 
 log = logging.getLogger(__name__)
 
 def run(context):
     # find the properties for the element
     elem_properties = context.find_element('btn_change')
-    elem_string = json.dumps(elem_properties)
     
     # put the properties into variables that can be used
     elem_properties_x = elem_properties.get('x')
@@ -27,12 +24,6 @@ def run(context):
     text = elem_properties.get('text')
     attributes = elem_properties.get('attributes')
     flags = elem_properties.get('flags')
-    focused = elem_properties.get('focused')
-    scrollable = elem_properties.get('scrollable')
-
-
-
-
     
     # write the properties out for reference in the log output
     log.info('====================output find element====================')

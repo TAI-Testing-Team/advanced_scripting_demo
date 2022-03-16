@@ -224,7 +224,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "driver_tab_letter.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -265,7 +265,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "driver_tab_number.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -293,6 +293,46 @@
                 "labels": [],
                 "script_name": "driver_refresh_browser.py",
                 "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_tab_special_character.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "@",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Refresh browser",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "driver_refresh_browser.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -390,6 +430,7 @@
                 "labels": [
                     "btn_hamburger_menu_200_300"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
