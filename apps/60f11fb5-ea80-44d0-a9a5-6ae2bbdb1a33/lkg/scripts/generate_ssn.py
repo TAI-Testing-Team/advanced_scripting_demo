@@ -5,7 +5,6 @@ Make sure to change the 2 instances of 'inp_ssn' to the label name used in the t
 
 import logging
 import time
-import os
 import random
 
 log = logging.getLogger(__name__)
