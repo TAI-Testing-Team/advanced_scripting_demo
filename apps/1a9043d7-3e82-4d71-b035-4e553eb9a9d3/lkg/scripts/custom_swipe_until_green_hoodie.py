@@ -1,6 +1,4 @@
 import logging
-import time
-import os
 
 log = logging.getLogger(__name__)
 MAX_SWIPES = 10

@@ -60,13 +60,12 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
+                "grep": "offset.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "offset.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

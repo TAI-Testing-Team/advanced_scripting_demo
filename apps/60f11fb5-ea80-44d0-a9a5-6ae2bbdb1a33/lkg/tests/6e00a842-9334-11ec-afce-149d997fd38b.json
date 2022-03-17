@@ -21,13 +21,12 @@
             {
                 "continue_on_failure": false,
                 "description": "",
-                "grep": "",
+                "grep": "find_use_element_properties.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "find_use_element_properties.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
