@@ -12,10 +12,10 @@ def run(context):
     driver = context.get_driver()
     i = 1
     while i < 3:   
-        context.get_driver().session.execute_command('SendKeysCommand', [u'\ue004'])
+        driver.session.execute_command('SendKeysCommand', [u'\ue004'])
         i+= 1
-    
-    context.get_driver().session.execute_command('SendKeysCommand', ['\u0039'])
+    #Types number 9
+    driver.session.execute_command('SendKeysCommand', ['\u0039'])
 
 
     context.get_all_elements()

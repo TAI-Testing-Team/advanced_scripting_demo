@@ -34,20 +34,19 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "Verify unique email stored.",
+                "description": "Verify unique email stored in operating system.",
                 "grep": "@testai.com",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": true,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "Verify password stored.",
+                "description": "Verify password stored in operating system..",
                 "grep": "Welcome123!",
                 "grep_count": null,
                 "input": "",

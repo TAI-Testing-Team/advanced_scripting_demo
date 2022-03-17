@@ -27,9 +27,22 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_file_set.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verify what was typed out and set as a variable in data store. ",
+                "grep": "john@email.com",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
                 "widget": ""
             },
             {
@@ -41,14 +54,27 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_rest_api_set.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Verifies data called from api and stored as a variable.",
+                "grep": "60f11fb5-ea80-44d0-a9a5-6ae2bbdb1a33",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Change the button for dynamic test.",
                 "grep": "",
                 "grep_count": null,
                 "input": "tap",
@@ -56,14 +82,14 @@
                 "labels": [
                     "btn_change"
                 ],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Change the button for dynamic test.",
                 "grep": "",
                 "grep_count": null,
                 "input": "tap",
@@ -71,21 +97,21 @@
                 "labels": [
                     "btn_confirm"
                 ],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Should store variable and type out the text in the changed button to say Accept.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_application_set.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -106,7 +132,7 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Verify it is dynamic now refreshed and button says change.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
@@ -126,22 +152,35 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": true,
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "Retrieve data from previous steps and verify in the script.",
+                "description": "Retrieve data from previous steps and verify inside the script. Finally print out success.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "share_ui_file_rest_retrieve.py",
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Successfully called stored",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "verification",
                 "widget": ""
             },
             {

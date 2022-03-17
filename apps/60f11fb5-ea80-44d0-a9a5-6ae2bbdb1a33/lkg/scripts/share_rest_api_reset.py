@@ -1,6 +1,5 @@
 import logging
 import requests
-from csv import DictReader
 import json
 
 log = logging.getLogger(__name__)
@@ -21,7 +20,9 @@ def run(context):
     json_string = json.dumps(api_data) 
     context.perform_gesture('tap', 'lnk_dynamic')
     context.perform_gesture('text_entry_no_submit','inp_test_info', json_string) 
-    log.info('=====================data request======================')
-    log.info(api_data)
-    log.info('======================json dumps======================')
-    log.info(json_string)
+    
+    #Keep this code for debugging
+    # log.info('=====================data request======================')
+    # log.info(api_data)
+    # log.info('======================json dumps======================')
+    # log.info(json_string)

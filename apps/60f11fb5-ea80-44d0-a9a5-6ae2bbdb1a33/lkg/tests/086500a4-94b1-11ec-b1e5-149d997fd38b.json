@@ -1,5 +1,5 @@
 {
-    "Execute Steps Fast - Offset": {
+    "Execute Steps Fast  Offset": {
         "description": "Runs Execute Steps Fast and Offset scripts to make heart icon filled.",
         "is_deactivated": false,
         "steps": [
@@ -27,7 +27,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "execute_steps_fast.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -41,6 +41,18 @@
                 "label_count": null,
                 "labels": [],
                 "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "tapped",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -69,6 +81,7 @@
                 "labels": [
                     "div_heart_verification"
                 ],
+                "stepIsOpen": false,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -76,6 +89,6 @@
         ],
         "tags": [],
         "temp_id": "086500a4-94b1-11ec-b1e5-149d997fd38b",
-        "title": "Execute Steps Fast - Offset"
+        "title": "Execute Steps Fast  Offset"
     }
 }

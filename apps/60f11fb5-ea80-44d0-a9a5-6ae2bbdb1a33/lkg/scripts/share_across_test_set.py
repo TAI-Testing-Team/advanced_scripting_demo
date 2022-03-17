@@ -1,11 +1,10 @@
 '''
-This script generates a unique email value for use during account creation that is store as a variable
+This script generates a unique email value for use during account creation that is stored as a variable
 that can be recalled in any subsequent test in a test run via a script.
 '''
 
 import logging
 import os
-import time
 from datetime import datetime
 
 log = logging.getLogger(__name__)

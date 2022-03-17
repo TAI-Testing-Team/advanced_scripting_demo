@@ -5,8 +5,6 @@ This script uses the generated email variable to log in with the unique newly cr
 
 import logging
 import os
-import time
-from datetime import datetime
 
 log = logging.getLogger(__name__)
 
