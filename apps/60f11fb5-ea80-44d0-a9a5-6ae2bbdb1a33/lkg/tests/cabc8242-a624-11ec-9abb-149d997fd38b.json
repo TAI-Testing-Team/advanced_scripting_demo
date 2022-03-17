@@ -1,0 +1,41 @@
+{
+    "Data API Tests": {
+        "description": "A test built to replace the Postman Repo. All our test.ai data endpoints called and verified within script.",
+        "is_deactivated": true,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "api_data_get_all.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [
+            "api_endpoints"
+        ],
+        "temp_id": "cabc8242-a624-11ec-9abb-149d997fd38b",
+        "title": "Data API Tests"
+    }
+}
