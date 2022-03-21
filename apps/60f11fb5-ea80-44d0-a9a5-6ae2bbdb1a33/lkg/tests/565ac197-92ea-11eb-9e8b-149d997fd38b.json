@@ -2,7 +2,6 @@
     "Parameterization - Tap - Sequence": {
         "description": "",
         "is_deactivated": false,
-        "original_title": "Parameterization - Tap - Sequence",
         "steps": [
             {
                 "continue_on_failure": false,
@@ -135,7 +134,9 @@
                 "widget": "default"
             }
         ],
-        "tags": [],
+        "tags": [
+            "advanced"
+        ],
         "temp_id": "565ac197-92ea-11eb-9e8b-149d997fd38b",
         "title": "Parameterization - Tap - Sequence"
     }

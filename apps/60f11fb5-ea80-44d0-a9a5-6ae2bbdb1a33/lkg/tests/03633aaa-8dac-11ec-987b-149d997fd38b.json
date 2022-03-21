@@ -1,6 +1,6 @@
 {
-    "call api": {
-        "description": "Call our api dashboard and type info into input field",
+    "Call API": {
+        "description": "Makes a request to our API dashboard and then changes that data into a string and types the info into an input field using perform_gesture text_entry",
         "is_deactivated": false,
         "steps": [
             {
@@ -45,8 +45,10 @@
                 "widget": ""
             }
         ],
-        "tags": [],
+        "tags": [
+            "advanced"
+        ],
         "temp_id": "03633aaa-8dac-11ec-987b-149d997fd38b",
-        "title": "call api"
+        "title": "Call API"
     }
 }

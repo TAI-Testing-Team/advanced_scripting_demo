@@ -2,7 +2,6 @@
     "Parameterization - Input - Step": {
         "description": "Uses parameters to fill out a form.",
         "is_deactivated": false,
-        "original_title": "Parameterization - Input - Step",
         "steps": [
             {
                 "continue_on_failure": false,
@@ -110,7 +109,9 @@
                 "widget": "default"
             }
         ],
-        "tags": [],
+        "tags": [
+            "advanced"
+        ],
         "temp_id": "87352d21-909b-11eb-ab7a-149d997fd38b",
         "title": "Parameterization - Input - Step"
     }

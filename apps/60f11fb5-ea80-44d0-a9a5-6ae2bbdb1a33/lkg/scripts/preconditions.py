@@ -20,9 +20,8 @@ def run(context):
 
 
 def _modal_exists(context):
-    driver = context.get_driver()
     try:
-        driver.find_element_by_id('sign_up_modal')
+        context.get_driver().find_element_by_id('sign_up_modal')
         return True
     except:
         return False

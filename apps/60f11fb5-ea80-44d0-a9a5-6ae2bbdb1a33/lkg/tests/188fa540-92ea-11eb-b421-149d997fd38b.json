@@ -2,7 +2,6 @@
     "Parameterization - Input -Test {index}": {
         "description": "",
         "is_deactivated": false,
-        "original_title": "Parameterization - Input -Test {index}",
         "parameterized_id": "fe603a8a-5cb6-4860-a91a-7b9524a9c0a6",
         "parameters": "input_param_test.csv",
         "steps": [
@@ -81,7 +80,8 @@
             }
         ],
         "tags": [
-            "inptest"
+            "inptest",
+            "advanced"
         ],
         "temp_id": "188fa540-92ea-11eb-b421-149d997fd38b",
         "title": "Parameterization - Input -Test {index}"

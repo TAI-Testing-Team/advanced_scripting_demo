@@ -9,9 +9,10 @@ log = logging.getLogger(__name__)
 def run(context):
     matched_elements = context.find_elements_with_label('btn_blue', dynamic=True)
     json_string = json.dumps(matched_elements) #makes JSON object returned in line 9 into string
-    context.perform_gesture('text_entry_no_submit','inp_test_info', json_string) 
-    context.verify(grep=json_string)
     #inputs string into Text Area input 
+    context.perform_gesture('text_entry_no_submit','inp_test_info', json_string) 
+
+
 
 
     #This code used to see info in terminal

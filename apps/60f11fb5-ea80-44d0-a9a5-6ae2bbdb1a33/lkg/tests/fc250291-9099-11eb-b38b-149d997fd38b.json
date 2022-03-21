@@ -2,7 +2,6 @@
     "Parameterization Tap - Test {index}": {
         "description": "Simple Test Parameterizatin",
         "is_deactivated": false,
-        "original_title": "Parameterization Tap - Test {index}",
         "parameterized_id": "2ee0e316-6bd8-4793-8471-e332b770ba8e",
         "parameters": "tap_params_test.csv",
         "steps": [
@@ -47,7 +46,8 @@
             }
         ],
         "tags": [
-            "taptest"
+            "taptest",
+            "advanced"
         ],
         "temp_id": "fc250291-9099-11eb-b38b-149d997fd38b",
         "title": "Parameterization Tap - Test {index}"

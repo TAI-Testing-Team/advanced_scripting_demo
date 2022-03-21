@@ -2,7 +2,6 @@
     "Parameterization - Tap - Step": {
         "description": "",
         "is_deactivated": false,
-        "original_title": "Parameterization - Tap - Step",
         "steps": [
             {
                 "continue_on_failure": false,
@@ -112,7 +111,8 @@
             }
         ],
         "tags": [
-            "stepparam"
+            "stepparam",
+            "advanced"
         ],
         "temp_id": "9a3d19a3-9227-11eb-b421-149d997fd38b",
         "title": "Parameterization - Tap - Step"
