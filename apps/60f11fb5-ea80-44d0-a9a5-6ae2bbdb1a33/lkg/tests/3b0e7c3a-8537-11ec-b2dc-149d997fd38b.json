@@ -218,13 +218,12 @@
             {
                 "continue_on_failure": false,
                 "description": "Hit tabs over until first input field and type letter z",
-                "grep": "",
+                "grep": "driver_tab_letter.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "driver_tab_letter.py",
-                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

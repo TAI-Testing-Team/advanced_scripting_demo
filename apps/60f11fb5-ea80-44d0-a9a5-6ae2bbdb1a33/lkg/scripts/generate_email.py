@@ -7,7 +7,6 @@ Also make sure 'inp_email' matches the label name used in the test.ai GUI for th
 
 import logging
 import os
-import time
 from datetime import datetime
 
 log = logging.getLogger(__name__)

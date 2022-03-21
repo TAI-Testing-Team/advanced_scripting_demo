@@ -6,7 +6,6 @@ Copy both this file and the 'us-area-code-cities.csv' file from the share drive 
 
 import logging
 import time
-import os
 import random
 import csv
 
