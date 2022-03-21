@@ -24,7 +24,8 @@ def run(context):
     text = elem_properties.get('text')
     attributes = elem_properties.get('attributes')
     flags = elem_properties.get('flags')
-    
+ 
+
     # write the properties out for reference in the log output
     log.info('====================output find element====================')
     log.info('flags')

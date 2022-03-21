@@ -8,7 +8,12 @@ import logging
 log = logging.getLogger(__name__)
 
 def run(context):
+    #This offset allows us to tap the heart icon and make it turn black.
     context.perform_gesture('tap', 'btn_offset', additional_params={'offset': {'x': 20, 'y': 50}}) 
+
+
+
+
 
 
     # OLD CODE FROM OLD TRIES for reference
