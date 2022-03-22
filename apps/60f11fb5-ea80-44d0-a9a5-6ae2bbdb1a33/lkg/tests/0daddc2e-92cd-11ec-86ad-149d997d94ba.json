@@ -12,6 +12,7 @@
                 "label_count": null,
                 "labels": [],
                 "script_name": "run_explore_bot_constraints.py",
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -28,6 +29,18 @@
                 "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies the Success message in the input box that Explore mode bot constraints are verified.",
+                "grep": "Explore mode bot constraints verified",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "verification",
                 "widget": ""
             }
         ],

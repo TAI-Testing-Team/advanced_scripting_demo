@@ -1,5 +1,6 @@
 import logging
 import json
+
 log = logging.getLogger(__name__)
 
 # This script finds all of the elements with THAT label on the page and collects them.  

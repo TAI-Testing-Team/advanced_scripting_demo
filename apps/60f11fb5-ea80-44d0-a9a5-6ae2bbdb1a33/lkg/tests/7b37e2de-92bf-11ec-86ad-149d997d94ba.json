@@ -18,14 +18,13 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Gives visual verification to the viewer. This script types in the text: \"Run Before Each Explore Step Test - SUCCESS\" into the input box to give a visual verification and then it verifies the text was inputted into the box. ",
                 "grep": "verify_run_before_each_explore.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "verify_run_before_each_explore.py",
-                "stepIsOpen": true,
+                "script_name": "confirm_success_msg_for_run_before_explore.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

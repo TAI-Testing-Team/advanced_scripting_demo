@@ -19,13 +19,14 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "Verifies that we are on dynamic page.",
-                "grep": "Dynamic",
+                "description": "Verifies that we are on dynamic page since btn_change is present",
+                "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
-                "labels": [],
-                "stepIsOpen": false,
+                "labels": [
+                    "btn_change"
+                ],
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
@@ -451,12 +452,13 @@
             {
                 "continue_on_failure": false,
                 "description": "Verifies Change button is visible now after you reduced size, then expanded it. ",
-                "grep": "Change",
+                "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
-                "labels": [],
-                "stepIsOpen": false,
+                "labels": [
+                    "btn_change"
+                ],
                 "timeout": null,
                 "type": "verification",
                 "widget": ""

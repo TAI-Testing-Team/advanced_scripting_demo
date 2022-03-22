@@ -18,7 +18,7 @@ def run(context):
         for row in reader:
             # you can also interact with rows directly using row.get('<key>')
             csv_data.append(row)
-    string = json.dumps(csv_data)
+    csv_data_string = json.dumps(csv_data)
 
     # log.info('=============================csv========================')
     # log.info(string)
@@ -31,8 +31,8 @@ def run(context):
 
     # add extracted data to the TC datastore for use in subsequent steps
     script_vals['csv_data'] = csv_data
-    json_string = json.dumps(csv_data)
+    # json_string = json.dumps(csv_data)
     
     context.perform_gesture('tap', 'lnk_dynamic')
-    context.perform_gesture('text_entry_no_submit', 'inp_test_info', string)
+    context.perform_gesture('text_entry_no_submit', 'inp_test_info', csv_data_string)
 

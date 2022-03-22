@@ -9,6 +9,5 @@ def run(context):
     
     string_and_variable = 'LINK INFO:\n\n' + ' ' + json_string
 
-
     context.perform_gesture('text_entry_no_submit', 'inp_ta_element_info', string_and_variable)
     context.verify(grep=json_string)

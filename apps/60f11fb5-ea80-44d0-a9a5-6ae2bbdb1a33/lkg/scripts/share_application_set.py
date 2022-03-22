@@ -20,7 +20,8 @@ def run(context):
 
     # add element data for use in subsequent steps
     script_vals['btn_info'] = btn_text
+
     #refresh page
     context.perform_gesture('tap', 'lnk_dynamic')
-    context.perform_gesture('text_entry_no_submit','inp_test_info', btn_text) 
+    context.perform_gesture('text_entry_no_submit','inp_test_info', script_vals['btn_info']) 
     
