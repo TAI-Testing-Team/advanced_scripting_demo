@@ -1,5 +1,4 @@
 import logging
-import json
 
 log = logging.getLogger(__name__)
 

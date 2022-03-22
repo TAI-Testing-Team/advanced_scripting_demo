@@ -18,9 +18,9 @@ os.environ["variable_1"] = username1 + "@testai.com"
 os.environ["variable_2"] = "Welcome123!"
 
 # To Verify above code
-os.environ.get("variable_1")
-os.environ.get("variable_2")
+first_variable = os.environ.get("variable_1")
+second_variable = os.environ.get("variable_2")
 
 def run(context):
-	context.perform_gesture('text_entry_no_submit', 'inp_email', grep=os.environ.get("variable_1"))
-	context.perform_gesture('text_entry_no_submit', 'inp_password', grep=os.environ.get("variable_2"))
+	context.perform_gesture('text_entry_no_submit', 'inp_email', grep=first_variable)
+	context.perform_gesture('text_entry_no_submit', 'inp_password', grep=second_variable)

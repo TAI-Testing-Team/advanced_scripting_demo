@@ -5,7 +5,8 @@ log = logging.getLogger(__name__)
 
 
 def run(context):
-    
+    # All code below is getting the center coordinates for all the buttons (first, second and third buttons)
+
     driver = context.get_driver()  
     first = context.find_element('btn_first') 
     first_x = first.get('x')
@@ -34,6 +35,8 @@ def run(context):
     third_cx = int(third_x + (third_w / 2))
     third_cy = int(third_y + (third_h / 2))
 
+    # Gets center coorinates for the text input on page
+
     input_text = context.find_element('inp_text') 
     input_text_x = input_text.get('x')
     input_text_y = input_text.get('y')
@@ -41,6 +44,8 @@ def run(context):
     input_text_h = input_text.get('height')
     input_text_cx = int(input_text_x + (input_text_w / 2))
     input_text_cy = int(input_text_y + (input_text_h / 2))
+    
+    # Gets center coordinates for the modal that pops up
 
     modal = context.find_element('btn_modal') 
     modal_x = modal.get('x')
@@ -50,30 +55,41 @@ def run(context):
     modal_cx = int(modal_x + (modal_w / 2))
     modal_cy = int(modal_y + (modal_h / 2))
 
-          # click btn_first
+
+    # Uses the coordinates gathered above to execute a ClickCommand on each of the elements
+    # Click btn_first
+
     driver.session.execute_command('ClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(first_cx, first_cy)
             }])
     time.sleep(0)
-        # click btn_second
+
+    # Clicks btn_second
+
     driver.session.execute_command('ClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(second_cx,second_cy)
             }])
     time.sleep(0)    
-    # click btn_one_time
+
+    # Double-clicks btn_third
+
     driver.session.execute_command('DoubleClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(third_cx,third_cy)
             }])
     time.sleep(0)
 
+    # Clicks to open modal
+
     driver.session.execute_command('ClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(modal_cx,modal_cy)
             }])
     time.sleep(1)
+
+    # Gets coordinates for the close button on the modal
 
     close = context.find_element('icn_close') 
     close_x = close.get('x')
@@ -87,11 +103,15 @@ def run(context):
     log.info(close_cx)
     log.info(close_cy)
 
+    # Clicks to close out modal 
+
     driver.session.execute_command('ClickCommand', [{
                 'type': 'coordinates',
                 'value': '{},{},SCREENSHOT'.format(close_cx,close_cy)
             }])
     time.sleep(1)
+
+    # Gets center coodrdinates for btn_disappear (disappearing button)
 
     disappear = context.find_element('btn_disappear') 
     disappear_x = disappear.get('x')
@@ -100,6 +120,8 @@ def run(context):
     disappear_h = disappear.get('height')
     disappear_cx = int(disappear_x + (disappear_w / 2))
     disappear_cy = int(disappear_y + (disappear_h / 2))
+
+    # Clicks btn_disappear (a button that disappears) after 20 seconds
 
     driver.session.execute_command('ClickCommand', [{
                 'type': 'coordinates',
@@ -110,6 +132,9 @@ def run(context):
     log.info('===========================verifying================')
     context.verify(labels=["btn_disappear_tapped"])
     
+
+    # LOG CODE to print values for each variable - used when making the script
+
     # write the properties out for reference in the log output
     # log.info('====================output first button info====================')
     # log.info(first_cx)

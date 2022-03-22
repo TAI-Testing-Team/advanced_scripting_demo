@@ -2,7 +2,6 @@
     "Parameterization - Input - Sequence": {
         "description": "",
         "is_deactivated": false,
-        "original_title": "Parameterization - Input - Sequence",
         "steps": [
             {
                 "continue_on_failure": false,
@@ -93,7 +92,8 @@
             }
         ],
         "tags": [
-            "seqtest"
+            "seqtest",
+            "advanced"
         ],
         "temp_id": "79a6173a-90a5-11eb-9124-149d997fd38b",
         "title": "Parameterization - Input - Sequence"

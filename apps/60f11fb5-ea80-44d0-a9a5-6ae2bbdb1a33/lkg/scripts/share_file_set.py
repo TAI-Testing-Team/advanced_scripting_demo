@@ -12,12 +12,12 @@ def run(context):
     csv_path = context.get_file_path("insert_file/my_csv_file.csv")
 
     # extract data from csv file as JSON:
-    csv_data = []
+    csv_data_from_file = []
     with open(csv_path) as csv_file:
         reader = DictReader(csv_file)
         for row in reader:
             # you can also interact with rows directly using row.get('<key>')
-            csv_data.append(row)
+            csv_data_from_file.append(row)
 
 # 2: access context datastore and add data for use in subsequent test steps:
 
@@ -25,9 +25,10 @@ def run(context):
     script_vals = context.get_test_script_vals()
 
     # add extracted data to the TC datastore for use in subsequent steps
-    script_vals['csv_data'] = csv_data
-    string = json.dumps(csv_data)
+    script_vals['csv_data'] = csv_data_from_file
+    csv_data_string = json.dumps(csv_data_from_file)
 
-    context.perform_gesture('text_entry_no_submit', 'inp_test_info', string)
+    context.perform_gesture('text_entry_no_submit', 'inp_test_info', csv_data_string)
+    context.verify(grep=csv_data_string)
 
 
