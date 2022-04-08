@@ -1,7 +1,9 @@
 {
     "Test Hooks - Resize Browser - On After Launch": {
+        "category": null,
         "description": "",
         "is_deactivated": true,
+        "is_standard_test": false,
         "on_after_launch": [
             "resize_and_verify.py"
         ],

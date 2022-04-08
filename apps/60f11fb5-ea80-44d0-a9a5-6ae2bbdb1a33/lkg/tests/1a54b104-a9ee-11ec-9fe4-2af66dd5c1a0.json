@@ -1,0 +1,42 @@
+{
+    "practice": {
+        "category": null,
+        "description": "",
+        "is_deactivated": true,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "simple_find_elements_with_label.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "inp_address_one",
+                    "inp_address_two"
+                ],
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "1a54b104-a9ee-11ec-9fe4-2af66dd5c1a0",
+        "title": "practice"
+    }
+}

@@ -1,7 +1,9 @@
 {
     "Persistent Value Passing - Share Data Across Steps": {
+        "category": null,
         "description": "Set a value in one scripot. Verify it in a second script. Set a second value. Verify second. value.",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

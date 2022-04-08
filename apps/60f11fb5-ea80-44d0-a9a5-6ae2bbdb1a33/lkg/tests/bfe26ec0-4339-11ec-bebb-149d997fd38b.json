@@ -1,7 +1,9 @@
 {
     "Case Sensitivity - Punctuation": {
+        "category": null,
         "description": "Verifies string with punctuation as written, and against  camel case, all caps, lowercase. Verifies it will fail if added a punctuation mark isn't there.",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

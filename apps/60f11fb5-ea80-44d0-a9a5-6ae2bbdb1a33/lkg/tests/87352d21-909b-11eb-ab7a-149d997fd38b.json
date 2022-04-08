@@ -1,7 +1,9 @@
 {
     "Parameterization - Input - Step": {
+        "category": null,
         "description": "Uses parameters to fill out a form.",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

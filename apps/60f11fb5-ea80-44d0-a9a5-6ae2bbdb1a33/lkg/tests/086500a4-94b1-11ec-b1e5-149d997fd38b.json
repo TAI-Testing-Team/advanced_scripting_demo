@@ -1,7 +1,9 @@
 {
     "Execute Steps Fast  Offset": {
+        "category": null,
         "description": "Runs Execute Steps Fast and Offset scripts to make heart icon filled.",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

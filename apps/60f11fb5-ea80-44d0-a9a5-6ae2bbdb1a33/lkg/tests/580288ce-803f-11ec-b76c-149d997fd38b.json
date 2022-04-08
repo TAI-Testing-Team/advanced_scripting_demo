@@ -1,7 +1,9 @@
 {
     "Dynamic Flag Tests": {
+        "category": null,
         "description": "Test that runs new scripts that have added dynamic=True flag as well as verifying dynamic=False flag",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

@@ -1,7 +1,9 @@
 {
     "Data API Tests": {
+        "category": null,
         "description": "A test built to replace the Postman Repo. All our test.ai data endpoints called and verified within script.",
         "is_deactivated": true,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

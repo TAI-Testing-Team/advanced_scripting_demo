@@ -1,7 +1,9 @@
 {
     "Get Driver Directly": {
+        "category": null,
         "description": "Tests scripts for get driver, refresh browser, resize  window, switch browser tab, insert file, expand browser, tab to the next field, get current window url",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

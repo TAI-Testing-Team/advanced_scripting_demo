@@ -1,7 +1,9 @@
 {
     "Find Element": {
+        "category": null,
         "description": "",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -14,6 +16,7 @@
                     "lnk_find_element"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -28,6 +31,7 @@
                     "inp_ta_element_info"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -42,6 +46,7 @@
                     "btn_button"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -55,6 +60,7 @@
                 "labels": [],
                 "script_name": "find_element_button.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -69,6 +75,7 @@
                     "inp_checkbox"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -82,6 +89,7 @@
                 "labels": [],
                 "script_name": "find_element_checkbox.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -96,6 +104,7 @@
                     "inp_radio"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -109,6 +118,7 @@
                 "labels": [],
                 "script_name": "find_element_radio.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -123,6 +133,7 @@
                     "lnk_link"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -136,6 +147,7 @@
                 "labels": [],
                 "script_name": "find_element_link.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -150,6 +162,7 @@
                     "inp_slider"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -163,6 +176,7 @@
                 "labels": [],
                 "script_name": "find_element_slider.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -174,11 +188,10 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "run_only_if_label_present": false,
-                "script_name": "swipe_until_inp_text_input.py",
-                "scrollIntoView": false,
+                "script_name": "swipe_until_lnk_home.py",
+                "timeout": null,
                 "type": "execute_script",
-                "widget": "default"
+                "widget": ""
             },
             {
                 "continue_on_failure": false,
@@ -191,6 +204,7 @@
                     "inp_text_input"
                 ],
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "action",
                 "widget": "default"
             },
@@ -204,6 +218,7 @@
                 "labels": [],
                 "script_name": "find_element_text_input",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             },
@@ -218,6 +233,7 @@
                 "run_only_if_label_present": false,
                 "script_name": "swipe_until_lnk_home.py",
                 "scrollIntoView": false,
+                "stepIsOpen": false,
                 "type": "execute_script",
                 "widget": "default"
             }

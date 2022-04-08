@@ -7,8 +7,7 @@ The duration is how long the swipe will take from the start to the end point, la
 '''
 
 import logging
-import time
-import os
+
 
 log = logging.getLogger(__name__)
 
@@ -16,20 +15,19 @@ MAX_SWIPES = 10
 
 
 def run(context):
-    mixed_string = False
+    coordinate_tap_button = False
     attempts = 0
 
-    mixed_string = element_exists(context, 'btn_coordinate_tap')
+    coordinate_tap_button = if_element_exists(context, 'btn_coordinate_tap')
     
-    while not mixed_string and attempts <= MAX_SWIPES:
+    while not coordinate_tap_button and attempts <= MAX_SWIPES:
         attempts += 1
         context.perform_gesture('swipe_up', '')
-        mixed_string = element_exists(context, 'btn_coordinate_tap')
+        coordinate_tap_button = if_element_exists(context, 'btn_coordinate_tap')
 
     context.verify(['btn_coordinate_tap'])
 
 
-def element_exists(context, label):
+def if_element_exists(context, label):
     labels_per_elem = context.find_elements_with_label(label)
     return labels_per_elem and len(labels_per_elem.keys()) > 0
-

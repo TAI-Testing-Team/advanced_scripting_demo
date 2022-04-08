@@ -7,8 +7,7 @@ The duration is how long the swipe will take from the start to the end point, la
 '''
 
 import logging
-import time
-import os
+
 
 log = logging.getLogger(__name__)
 

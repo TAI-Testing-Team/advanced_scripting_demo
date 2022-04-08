@@ -98,13 +98,12 @@
             {
                 "continue_on_failure": false,
                 "description": "Swipe until Label Found - Coordinate Tap Button",
-                "grep": "",
+                "grep": "swipe_until_label_found.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "swipe_until_label_found.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

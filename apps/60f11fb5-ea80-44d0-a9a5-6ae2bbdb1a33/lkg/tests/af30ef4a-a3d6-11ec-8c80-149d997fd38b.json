@@ -1,7 +1,9 @@
 {
     "External Script Library and Organization": {
+        "category": null,
         "description": "Executes test on the Script Organization script as well as tests the External Script Libraries addition to 2.11.2",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,

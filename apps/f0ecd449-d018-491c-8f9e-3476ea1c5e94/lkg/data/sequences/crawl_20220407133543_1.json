@@ -1,0 +1,188 @@
+[
+    {
+        "hash": "22f0ebb242f95c0486b840a593d9e0b5"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "eVTqrSSQo758itU7vv+eJg==\n",
+                "height": 2778,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1284_H2778",
+                "human_readable": "screen_0_0_1284_2778_screen_dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "dff9efffff0081008000ff0099ff19ff1fff1fffffffffffffffffffffffd99f",
+                "screen_hash": "22f0ebb242f95c0486b840a593d9e0b5",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1284,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "dismiss_alert",
+            "text": "dismiss_alert"
+        },
+        "elem_hash": "ODUyMTdiZTFhYjAyYTkwNWNhZTRlNGI1ZmRkOWQ5MWY"
+    },
+    {
+        "hash": "ce2bb02398e10b059c395622990b16f0"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "eVTqrSSQo758itU7vv+eJg==\n",
+                "height": 2778,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1284_H2778",
+                "human_readable": "screen_0_0_1284_2778_screen_fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00030000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00030000",
+                "screen_hash": "ce2bb02398e10b059c395622990b16f0",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1284,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "swipe_up",
+            "text": "swipe_up"
+        },
+        "elem_hash": "M2E5ZjkwYjY0OWIwMjQwZTExODAyZjQ3MWViMTA3N2E"
+    },
+    {
+        "hash": "ce2bb02398e10b059c395622990b16f0"
+    },
+    {
+        "action_info": {
+            "elem_class": "TemplateMatchElement",
+            "elem_info": {
+                "class": "TemplateMatchElement",
+                "elem_shot_file_path": null,
+                "hash": "dTKa9ooiFEqCb1Q6bdFfTg==\n",
+                "height": 193,
+                "hier_level": 0,
+                "human_hash": "TemplateMatchElement_X1100_Y1288_W166_H193",
+                "human_readable": "TemplateMatchElement_1100_1288_166_193_TemplateMatchElement_000000003ffc3ffc3ffc3c3c381c399c3c1c3e7c3ffc3ffc3ffc00003ffc3ffc_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "label": "icn_favorite",
+                "labels": [
+                    "icn_favorite"
+                ],
+                "png_hash": "fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00030000",
+                "score": 1.0,
+                "screen_hash": "ce2bb02398e10b059c395622990b16f0",
+                "tag_name": "TemplateMatchElement",
+                "template": "/Users/bot/test_ai/apps/f0ecd449-d018-491c-8f9e-3476ea1c5e94/templates/icn_favorite/iter_00000_step_00006_screenshot 2.png",
+                "text": "",
+                "width": 166,
+                "x": 1100,
+                "y": 1288
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MjMyYmQ1NWNiMDdmZTFjMWM4OGM0ZWIxMTJiZTQ3ZmY"
+    },
+    {
+        "hash": "ce2bb02398e10b059c395622990b16f0"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "View",
+                "enabled": true,
+                "hash": "F16vni/vSrkTdapY3tobOQ==\n",
+                "height": 102.0,
+                "hier_level": 60,
+                "human_hash": "XCUIElementTypeOther_X1104.0_Y2121.0_W144.0_H102.0",
+                "human_readable": "XCUIElementTypeOther_1104.0_2121.0_144.0_102.0_XCUIElementTypeOther_ffffffffffffffffffffedffe17fe007e007f007f447ffffffffffffffffffff_9156bb9b826f4d4b1743fbbac85c1aa8",
+                "index": "1",
+                "is_transformed": true,
+                "png_hash": "fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00030000",
+                "resource-id": "View",
+                "screen_hash": "ce2bb02398e10b059c395622990b16f0",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "View",
+                "width": 144.0,
+                "x": 1104.0,
+                "y": 2121.0
+            },
+            "gesture": "double_tap",
+            "text": "double_tap"
+        },
+        "elem_hash": "N2E3YjMwNjVlZWVhOWQxNmY4MzAzYzQyODcxNTkxNDY"
+    },
+    {
+        "hash": "3dcc07e57fbf19f921a8047fc6aa8c29"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": "View",
+                "enabled": true,
+                "hash": "F16vni/vSrkTdapY3tobOQ==\n",
+                "height": 102.0,
+                "hier_level": 60,
+                "human_hash": "XCUIElementTypeOther_X1104.0_Y2121.0_W144.0_H102.0",
+                "human_readable": "XCUIElementTypeOther_1104.0_2121.0_144.0_102.0_XCUIElementTypeOther_ffffffffffffffffffffedffe17fe007e007f007f447ffffffffffffffffffff_9156bb9b826f4d4b1743fbbac85c1aa8",
+                "index": "1",
+                "is_transformed": true,
+                "png_hash": "fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00430000",
+                "resource-id": "View",
+                "screen_hash": "3dcc07e57fbf19f921a8047fc6aa8c29",
+                "tag_name": "XCUIElementTypeOther",
+                "text": "View",
+                "width": 144.0,
+                "x": 1104.0,
+                "y": 2121.0
+            },
+            "gesture": "double_tap",
+            "text": "double_tap"
+        },
+        "elem_hash": "N2E3YjMwNjVlZWVhOWQxNmY4MzAzYzQyODcxNTkxNDY"
+    },
+    {
+        "hash": "ce2bb02398e10b059c395622990b16f0"
+    },
+    {
+        "action_info": {
+            "elem_class": "XCUIElementTypeOther",
+            "elem_info": {
+                "class": "XCUIElementTypeOther",
+                "content-desc": " ",
+                "enabled": true,
+                "hash": "Xsg+yohyuV7GvRpO8qFJxA==\n",
+                "height": 1350.0,
+                "hier_level": 36,
+                "human_hash": "XCUIElementTypeOther_X0.0_Y273.0_W1284.0_H1350.0",
+                "human_readable": "XCUIElementTypeOther_0.0_273.0_1284.0_1350.0_XCUIElementTypeOther_ffffffffff7ffe3ffbdff43ffc3ffc3ff83ffc3ffc3ffc3ffc3ffc3ffe3fffff_fcc3d7489d15ef49dbbf735234234cf7",
+                "index": "0",
+                "is_transformed": true,
+                "png_hash": "fffdffffff7fff7ffc3ffc3ffc3ffc3ffe3fffffffffffffffffffff00030000",
+                "resource-id": " ",
+                "screen_hash": "ce2bb02398e10b059c395622990b16f0",
+                "tag_name": "XCUIElementTypeOther",
+                "text": " ",
+                "width": 1284.0,
+                "x": 0.0,
+                "y": 273.0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ODZlNzcwM2I3N2UyZmQxNWJiMTQ4Y2E3OTI3NzExNjc"
+    },
+    {
+        "hash": "73d8cb86d5a77b14975b918ed55e86c6"
+    }
+]

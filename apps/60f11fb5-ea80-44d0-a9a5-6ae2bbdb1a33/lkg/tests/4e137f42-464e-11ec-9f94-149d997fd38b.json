@@ -1,7 +1,9 @@
 {
     "Case Sensitivity - RS - Spaces": {
+        "category": null,
         "description": "Verifies test will fail if a space is added to the beginning, end, or between two words of a \"Regular String\" ",
         "is_deactivated": false,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,
