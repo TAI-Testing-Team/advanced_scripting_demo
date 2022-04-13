@@ -7,7 +7,7 @@
         "steps": [
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Go to basic gestures page",
                 "grep": "",
                 "grep_count": null,
                 "input": "tap",
@@ -15,48 +15,48 @@
                 "labels": [
                     "lnk_basic_gestures"
                 ],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Type generated ssn in input_text_entry input and verify in script..",
                 "grep": "generate_ssn.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "generate_ssn.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Type generated phone number in input and verify it in the script.",
                 "grep": "generate_phone_num.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "generate_phone_num.py",
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Type generated email in input field and verify in script.",
                 "grep": "generate_email.py",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "generate_email.py",
-                "stepIsOpen": false,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""

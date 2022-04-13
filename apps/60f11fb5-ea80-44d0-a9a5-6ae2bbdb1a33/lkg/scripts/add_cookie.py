@@ -6,9 +6,9 @@ is_http_only = True
 def run(context):
 	driver=context.get_driver()
     # is_secure and is_http_only are booleans
-	driver.execute_command('AddCookieCommand', ['Alex', '2', '/', 'http:www.google.com', '2-16-2022', is_secure, is_http_only])
+	driver.execute_command('AddCookieCommand', ['NAME', '2', '/', 'http:www.google.com', '2-16-2022', is_secure, is_http_only])
 
-
+# We do not have a test for this script yet until we build our full stack app.
 
 
 # # import requests

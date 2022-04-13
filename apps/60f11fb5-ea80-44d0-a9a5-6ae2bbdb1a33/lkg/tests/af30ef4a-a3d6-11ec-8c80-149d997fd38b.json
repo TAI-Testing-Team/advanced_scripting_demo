@@ -7,7 +7,7 @@
         "steps": [
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Go to dynamic page.",
                 "grep": "",
                 "grep_count": null,
                 "input": "tap",
@@ -15,28 +15,28 @@
                 "labels": [
                     "lnk_dynamic"
                 ],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "action",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "A full description is in the comments of this script.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "script_organization_mytest.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "verifying 'Made changes from myscript_organized.py'",
                 "grep": "myscript_organized",
                 "grep_count": null,
                 "input": "",
@@ -48,27 +48,27 @@
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "We have my_test_script_lib that has two scripts. input_text and taplink. We import these functions and type out in input field.",
                 "grep": "",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
                 "script_name": "callexternal.py",
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             },
             {
                 "continue_on_failure": false,
-                "description": "",
+                "description": "Verify that it types \"This is the text I want to enter from external script libraries.\"",
                 "grep": "external script libraries",
                 "grep_count": null,
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "stepIsOpen": false,
+                "stepIsOpen": true,
                 "timeout": null,
                 "type": "verification",
                 "widget": ""
