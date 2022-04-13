@@ -1,5 +1,5 @@
-from codecs import ignore_errors
-from lib2to3.pgen2 import driver
+# from codecs import ignore_errors
+# from lib2to3.pgen2 import driver
 import logging
 
 
@@ -11,7 +11,7 @@ log = logging.getLogger(__name__)
 
 
 def run(context):
-    context.get_driver()
+    driver = context.get_driver()
     try:
         driver.accept_alert(ignore_errors=True)
     except:

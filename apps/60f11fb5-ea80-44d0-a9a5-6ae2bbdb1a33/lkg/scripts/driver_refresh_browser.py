@@ -1,5 +1,5 @@
 '''
-This script refreshes the browser window.
+This script refreshes the browser window. You may need to add a wait before get_all_elements if page takes time to load after the refresh.
 '''
 
 import logging

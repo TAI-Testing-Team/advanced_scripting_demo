@@ -34,7 +34,7 @@ def run(context):
 	
 	context.verify(['btn_coordinate_tap'])
 	coordinate_tap_info = context.find_element('btn_coordinate_tap')
-    # put the properties into variables that can be used
+    # put the properties into variables that can be used to find center tap for btn_coordinate_tap element.
 	cord_x = coordinate_tap_info.get('x')
 	cord_y = coordinate_tap_info.get('y')
 	cord_w = coordinate_tap_info.get('width')

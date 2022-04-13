@@ -1,3 +1,5 @@
+#Built to see how fast or how much time individual perform gestures take versue execute steps fast commands.
+
 import logging
 
 log = logging.getLogger(__name__)
