@@ -1,8 +1,8 @@
 {
-    "Dynamic Flag Tests": {
+    "Dynamic Flag Tests - Perform Gesture if Exists": {
         "category": null,
-        "description": "Test that runs new scripts that have added dynamic=True flag as well as verifying dynamic=False flag",
-        "is_deactivated": true,
+        "description": "Test that runs text exist comm and  that have added dynamic=True flag as well as verifying dynamic=False flag",
+        "is_deactivated": false,
         "is_standard_test": false,
         "steps": [
             {
@@ -642,7 +642,7 @@
             "dynamic",
             "advanced"
         ],
-        "temp_id": "580288ce-803f-11ec-b76c-149d997fd38b",
-        "title": "Dynamic Flag Tests"
+        "temp_id": "1c558c9c-bc01-11ec-9649-149d997fd38b",
+        "title": "Dynamic Flag Tests - Perform Gesture if Exists"
     }
 }
