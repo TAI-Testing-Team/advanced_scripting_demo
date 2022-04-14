@@ -1,0 +1,100 @@
+{
+    "Dynamic Flag Tests - Text Exists": {
+        "category": null,
+        "description": "Test that runs perform gesture and perform gesture if exists. new scripts that have added dynamic=True flag as well as verifying dynamic=False flag",
+        "is_deactivated": false,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "Tap on link to head to dynamic page.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Run script to verify that \"Dynamic\" text is on the screen.",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "text_exists.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies that \"Dynamic\" text is on screen.",
+                "grep": "Text exists on screen",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Click lnk_dynamic to refresh the page.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Runs script to check if \"kinetic\" text is on screen.",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "text_exists_not_on_screen.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies that \"kinetic\" text is not on screen.",
+                "grep": "Text does not exist on screen",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [
+            "dynamic",
+            "advanced"
+        ],
+        "temp_id": "b762d0e2-bc00-11ec-9649-149d997fd38b",
+        "title": "Dynamic Flag Tests - Text Exists"
+    }
+}

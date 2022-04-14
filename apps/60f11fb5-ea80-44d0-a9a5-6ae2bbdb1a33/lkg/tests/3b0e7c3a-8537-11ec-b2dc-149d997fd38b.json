@@ -1,9 +1,7 @@
 {
     "Get Driver Directly": {
-        "category": null,
         "description": "Tests scripts for get driver, refresh browser, resize  window, switch browser tab, insert file, expand browser, tab to the next field, get current window url",
         "is_deactivated": false,
-        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -13,8 +11,7 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "get_driver.py",
-                "stepIsOpen": false,
+                "script_name": "driver_open_specific_url.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
@@ -388,8 +385,7 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "driver_insert_file.py",
-                "stepIsOpen": false,
+                "script_name": "driver_upload_file.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
