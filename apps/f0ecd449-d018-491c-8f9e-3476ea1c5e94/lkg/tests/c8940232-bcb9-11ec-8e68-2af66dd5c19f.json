@@ -1,0 +1,27 @@
+{
+    "Dismiss Alert if Found": {
+        "category": null,
+        "description": "",
+        "is_deactivated": true,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "dismiss_alert_if_found.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "c8940232-bcb9-11ec-8e68-2af66dd5c19f",
+        "title": "Dismiss Alert if Found"
+    }
+}

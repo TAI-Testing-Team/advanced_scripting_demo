@@ -1,7 +1,9 @@
 {
     "Basic Gestures": {
+        "category": null,
         "description": "Waiting on some edits to the App to be able to test all of the gestures correctly",
         "is_deactivated": true,
+        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,
