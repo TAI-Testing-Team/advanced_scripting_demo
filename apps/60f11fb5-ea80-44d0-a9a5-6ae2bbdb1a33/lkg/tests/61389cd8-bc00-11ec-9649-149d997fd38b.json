@@ -1,0 +1,180 @@
+{
+    "Dynamic Flag Tests - Element Exists": {
+        "category": null,
+        "description": "Test that runs new scripts that have added dynamic=True flag as well as verifying dynamic=False flag",
+        "is_deactivated": false,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "Tap on link to head to dynamic page.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Run script  with dynamic=False that checks if \"btn_change\" is on screen and  will type \"Element exists on screen.\"",
+                "grep": "element_exists.py",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "element_exists.py",
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies element btn_change is present and on screen.",
+                "grep": "Element exists on screen",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap on \"btn_change\" to change the color and text of element.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_change"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Run script again with dynamic=False and bot should type \"Element does not exist.\"",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "element_exists.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies that \"btn_change\" does not exist.",
+                "grep": "Element does not exist",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap on \"Dynamic\" link to refresh page",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "lnk_dynamic"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Run script  with dynamic=True that checks if \"btn_change\" is on screen and  will type \"Element exists on screen.\"",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "element_exists_dynamic.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies element exists.",
+                "grep": "Element exists on screen",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Tap btn_change to change its text and color.",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "btn_change"
+                ],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Run script  with dynamic=True that checks if \"btn_change\" is on screen and  will type \"Element exists on screen.\" Even though text and color have changed.",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "element_exists_dynamic.py",
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "Verifies element exists even when color and text change.",
+                "grep": "Element exists on screen",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "stepIsOpen": false,
+                "timeout": null,
+                "type": "verification",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "61389cd8-bc00-11ec-9649-149d997fd38b",
+        "title": "Dynamic Flag Tests - Element Exists"
+    }
+}
