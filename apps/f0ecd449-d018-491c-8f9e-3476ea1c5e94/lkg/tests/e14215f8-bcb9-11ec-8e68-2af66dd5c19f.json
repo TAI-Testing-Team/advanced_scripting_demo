@@ -1,9 +1,7 @@
 {
-    "Accept Alert if Found": {
-        "category": null,
+    "Custom Swipe": {
         "description": "",
         "is_deactivated": true,
-        "is_standard_test": false,
         "steps": [
             {
                 "continue_on_failure": false,
@@ -13,15 +11,14 @@
                 "input": "",
                 "label_count": null,
                 "labels": [],
-                "script_name": "accept_alert_if_found.py",
-                "stepIsOpen": false,
+                "script_name": "custom_swipe.py",
                 "timeout": null,
                 "type": "execute_script",
                 "widget": ""
             }
         ],
         "tags": [],
-        "temp_id": "fd6a0056-bbd8-11ec-bbda-2af66dd5c1a0",
-        "title": "Accept Alert if Found"
+        "temp_id": "e14215f8-bcb9-11ec-8e68-2af66dd5c19f",
+        "title": "Custom Swipe"
     }
 }
